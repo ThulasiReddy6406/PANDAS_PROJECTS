@@ -1,0 +1,301 @@
+CustomerID,CustomerName,Segment,Country,City,State,PostalCode,Region
+CUST-0001,Paul Bowers MD,Home Office,USA,South Tonyport,Arkansas,53472,East
+CUST-0002,Shelby Bradley,Corporate,USA,East Christopher,Kansas,10408,South
+CUST-0003,Michael Bowen,Corporate,USA,North Sarahville,Minnesota,93326,West
+CUST-0004,Sarah Floyd,Corporate,USA,Port Rachel,Indiana,09367,Central
+CUST-0005,Daniel Meyer,Home Office,USA,Lake Sharonborough,New Jersey,96149,Central
+CUST-0006,Daniel French,Home Office,USA,North Alyssa,Indiana,39335,West
+CUST-0007,Jennifer Elliott,Corporate,USA,East Kevin,Rhode Island,59765,East
+CUST-0008,Robert Stein,Consumer,USA,Port Earl,Arkansas,31545,East
+CUST-0009,Andrea Jackson,Consumer,USA,New Alexandria,Maryland,56649,East
+CUST-0010,Sandra Bates,Corporate,USA,Hernandezmouth,Maryland,96553,West
+CUST-0011,Gloria Singleton,Consumer,USA,Port Jasonfurt,Montana,25031,Central
+CUST-0012,Jonathan Lopez,Consumer,USA,South David,Nevada,99292,South
+CUST-0013,Brooke Farley,Corporate,USA,North Felicia,Arizona,81714,South
+CUST-0014,Maria Delgado,Consumer,USA,Jenniferborough,Vermont,81758,South
+CUST-0015,Jennifer Waters,Corporate,USA,Jacksonburgh,Maine,02329,South
+CUST-0016,Dr. Mary Andersen MD,Corporate,USA,Port Sarahmouth,Pennsylvania,78603,Central
+CUST-0017,Michael Juarez,Home Office,USA,Singletonmouth,Rhode Island,35828,East
+CUST-0018,Thomas Burgess,Consumer,USA,Robinsonland,Wisconsin,75631,Central
+CUST-0019,Amber Rivera,Corporate,USA,Port Cathyview,California,94950,East
+CUST-0020,Jill George,Corporate,USA,East Michaelstad,Louisiana,32584,Central
+CUST-0021,Mark Gonzales,Home Office,USA,Dakotastad,Nevada,61885,South
+CUST-0022,Nancy Stevenson,Consumer,USA,Lake Aimee,Massachusetts,45310,Central
+CUST-0023,Teresa Garcia,Home Office,USA,North Amanda,Utah,54178,East
+CUST-0024,David Price,Home Office,USA,Mccormickside,Alaska,82734,West
+CUST-0025,Jeffrey Franklin,Home Office,USA,Lindaside,Hawaii,73765,Central
+CUST-0026,Kayla Carpenter,Home Office,USA,New Sabrina,Arizona,11909,East
+CUST-0027,Jenna Contreras,Home Office,USA,West Jasonstad,Oregon,07958,East
+CUST-0028,Gary Gutierrez,Corporate,USA,Frederickville,Wisconsin,29660,West
+CUST-0029,John Martin,Corporate,USA,North Kristin,Alaska,51879,South
+CUST-0030,Michael Tran,Corporate,USA,Leeborough,Nebraska,76193,East
+CUST-0031,Roger Taylor,Home Office,USA,Robinmouth,Wyoming,74869,Central
+CUST-0032,Brian Romero,Corporate,USA,Morseside,Indiana,38293,West
+CUST-0033,Daniel Collins,Corporate,USA,New Michael,New York,95902,Central
+CUST-0034,Kathryn Orr,Home Office,USA,South Bob,Florida,93635,East
+CUST-0035,Wendy Haney,Corporate,USA,Castillofurt,Michigan,57019,Central
+CUST-0036,Joseph Molina MD,Home Office,USA,Christopherview,Florida,80450,East
+CUST-0037,Blake Harrison MD,Home Office,USA,West Douglasview,New Jersey,74946,West
+CUST-0038,Nathan House,Consumer,USA,Alvarezbury,Wisconsin,40681,Central
+CUST-0039,Susan Brown,Consumer,USA,Maymouth,Colorado,04924,Central
+CUST-0040,Joshua Mcdowell,Home Office,USA,Katherineview,Georgia,27264,Central
+CUST-0041,Timothy Miller,Consumer,USA,South William,Illinois,79183,East
+CUST-0042,Mr. Patrick Brown PhD,Consumer,USA,East Donnatown,Arizona,69135,East
+CUST-0043,Kelly Cox,Consumer,USA,Crosbyland,Illinois,48986,South
+CUST-0044,Susan Ward,Corporate,USA,New Elizabethside,Minnesota,38535,West
+CUST-0045,Lisa Page,Home Office,USA,South Walter,Utah,66638,Central
+CUST-0046,Jamie Phillips,Consumer,USA,Maureenshire,Massachusetts,58808,East
+CUST-0047,Sherri Chase,Corporate,USA,Lake Molly,Indiana,44604,Central
+CUST-0048,Alexander Sandoval,Consumer,USA,Caseybury,Rhode Island,09856,South
+CUST-0049,Daniel May,Corporate,USA,Kiddtown,Kentucky,44709,Central
+CUST-0050,Preston Anderson,Corporate,USA,Carrieport,South Carolina,56153,West
+CUST-0051,Nathan Reeves,Home Office,USA,Mclaughlinland,Alabama,01026,East
+CUST-0052,Tracy Wolf,Corporate,USA,West Isaac,Florida,82036,South
+CUST-0053,Vicki Lopez,Corporate,USA,East Debbie,California,20175,East
+CUST-0054,Kyle Rivera,Corporate,USA,Garyville,Montana,29618,South
+CUST-0055,Lauren Silva,Corporate,USA,West Tina,North Dakota,98841,Central
+CUST-0056,Tyler Mcbride,Consumer,USA,Lawrenceview,Iowa,11759,West
+CUST-0057,Brittany Zhang,Consumer,USA,Lake Fred,Alabama,05310,Central
+CUST-0058,Richard Chavez,Consumer,USA,New Daniel,Iowa,45803,East
+CUST-0059,Gary Buck,Home Office,USA,Littlefort,Tennessee,20705,South
+CUST-0060,Mr. Tyler Stevens,Consumer,USA,Jamesville,Virginia,75189,West
+CUST-0061,Jessica Brock,Corporate,USA,Gordonstad,Washington,15468,Central
+CUST-0062,Sarah Sutton,Corporate,USA,Williamshaven,South Dakota,42918,Central
+CUST-0063,Virginia Frazier,Corporate,USA,Dixonberg,Wisconsin,65661,West
+CUST-0064,Tony David,Consumer,USA,Port Joshuamouth,Utah,58169,South
+CUST-0065,Eric Rodriguez,Home Office,USA,Taraburgh,Oregon,65854,Central
+CUST-0066,David Castillo,Corporate,USA,Michaelhaven,Louisiana,29376,West
+CUST-0067,Kenneth Taylor,Home Office,USA,West Brian,Tennessee,12481,Central
+CUST-0068,Jack Murphy,Consumer,USA,North Alexa,Montana,97080,South
+CUST-0069,Robert Robertson,Corporate,USA,Stephenshire,Arkansas,08568,East
+CUST-0070,Rachel Trevino,Home Office,USA,Jonesview,Delaware,49537,Central
+CUST-0071,Dustin Meyers,Home Office,USA,New Chase,West Virginia,12179,South
+CUST-0072,Tina Washington,Corporate,USA,Berryburgh,Idaho,13854,West
+CUST-0073,Matthew Ramirez,Home Office,USA,West Johnathanton,New York,87561,East
+CUST-0074,Ashley Garza MD,Home Office,USA,East Daniel,Missouri,06904,West
+CUST-0075,Angela Ochoa,Consumer,USA,New Tami,Florida,77175,West
+CUST-0076,Kristen Spencer,Corporate,USA,Beckerberg,Ohio,63673,West
+CUST-0077,John Thompson,Corporate,USA,Lake Bradleychester,Ohio,70758,Central
+CUST-0078,Nathan Bryant,Home Office,USA,Port Anthony,Louisiana,50357,East
+CUST-0079,Justin Jacobson,Corporate,USA,Danielburgh,Indiana,50912,East
+CUST-0080,Travis Perry DVM,Corporate,USA,Port Alexander,Georgia,72331,South
+CUST-0081,Michelle Wilson,Home Office,USA,East Michelle,Minnesota,32955,Central
+CUST-0082,Theodore Burnett,Home Office,USA,Gardnermouth,Michigan,97633,East
+CUST-0083,Chad Rodriguez,Consumer,USA,South Pamela,Arkansas,70085,East
+CUST-0084,Jay Thompson,Corporate,USA,Patrickmouth,Massachusetts,68044,Central
+CUST-0085,Amanda Hall,Corporate,USA,North Kentberg,Kentucky,82400,East
+CUST-0086,Rebecca Mejia,Consumer,USA,North Joanne,New Jersey,06307,Central
+CUST-0087,Charles Hodge,Home Office,USA,Andrewbury,Kentucky,03016,East
+CUST-0088,Benjamin Smith,Consumer,USA,Murphyhaven,California,10337,South
+CUST-0089,Thomas Jackson,Corporate,USA,Gardnerport,Illinois,96269,Central
+CUST-0090,Jason Harris,Corporate,USA,Larsonmouth,Indiana,08442,West
+CUST-0091,Monica Shepard,Corporate,USA,Huntport,Texas,97776,West
+CUST-0092,Louis Roberts,Corporate,USA,South Caleb,Tennessee,80043,Central
+CUST-0093,Margaret Dunn,Corporate,USA,East Kimberly,New Hampshire,34314,Central
+CUST-0094,Luke May,Home Office,USA,South Lori,North Carolina,16404,Central
+CUST-0095,Stacey Lee,Home Office,USA,Sanchezstad,Oregon,62355,East
+CUST-0096,Bradley Mitchell,Consumer,USA,Justinborough,Georgia,45076,East
+CUST-0097,Marcus Brown,Home Office,USA,East Misty,Maine,37724,West
+CUST-0098,Matthew Conner,Home Office,USA,Nortonstad,Vermont,92927,East
+CUST-0099,Kevin Woods,Consumer,USA,Port Clintonside,Montana,54615,Central
+CUST-0100,Patricia Smith,Home Office,USA,Lake Eric,New Jersey,57678,East
+CUST-0101,Alexis Edwards,Corporate,USA,North Kristi,Pennsylvania,17232,West
+CUST-0102,Kristin Beasley,Home Office,USA,North Scott,South Carolina,35696,South
+CUST-0103,Patricia Davis,Corporate,USA,Willisfurt,Iowa,58965,West
+CUST-0104,Julian Callahan,Corporate,USA,Delacruzland,Texas,24511,East
+CUST-0105,Alejandro Cooper,Home Office,USA,North Laurenbury,Idaho,95157,East
+CUST-0106,Kristin Richards,Consumer,USA,Morenoview,Nevada,86504,South
+CUST-0107,Kyle Murray,Corporate,USA,Munozburgh,Alaska,08586,Central
+CUST-0108,Tammy Valdez,Corporate,USA,North Jerry,Nevada,33852,West
+CUST-0109,Mackenzie Aguilar,Home Office,USA,North Robert,Kentucky,67736,Central
+CUST-0110,Ryan Hansen,Home Office,USA,Lake Amberbury,Wisconsin,03997,West
+CUST-0111,Miguel Grant,Corporate,USA,West Lori,Michigan,49160,Central
+CUST-0112,Andrew Rodriguez,Corporate,USA,Jerryton,Utah,28268,East
+CUST-0113,Olivia Ford,Corporate,USA,West Crystalfurt,Pennsylvania,20370,South
+CUST-0114,Kevin Braun,Consumer,USA,Lake Rodney,Utah,57273,Central
+CUST-0115,Jennifer Williams,Home Office,USA,Hillton,West Virginia,39563,South
+CUST-0116,Melissa Garcia,Consumer,USA,Malonetown,Tennessee,28713,West
+CUST-0117,Nancy Velasquez,Home Office,USA,East Anthonyfurt,Tennessee,04567,South
+CUST-0118,Steven Arnold,Home Office,USA,Lake Jamesshire,New York,44720,West
+CUST-0119,Shane Trevino,Home Office,USA,East Tina,New Jersey,66342,West
+CUST-0120,Melissa Wiggins DDS,Corporate,USA,West Rita,Utah,62442,East
+CUST-0121,Steven Johnson,Consumer,USA,West Jacquelineland,Vermont,36841,West
+CUST-0122,Nathan Glenn,Consumer,USA,Natashashire,Virginia,11249,East
+CUST-0123,Brenda Peterson,Consumer,USA,Port Keith,Missouri,94699,West
+CUST-0124,Deborah Carrillo,Corporate,USA,Lake Patricia,Tennessee,37254,East
+CUST-0125,Jesus Kidd,Consumer,USA,North Thomas,South Carolina,75420,East
+CUST-0126,Timothy Valentine,Corporate,USA,Jonathanland,Montana,86636,East
+CUST-0127,William Butler,Home Office,USA,Ryanchester,Idaho,88237,South
+CUST-0128,Lacey Taylor,Consumer,USA,New Tyler,Tennessee,68820,East
+CUST-0129,Joseph Pratt,Consumer,USA,East Carlos,Michigan,63217,West
+CUST-0130,Brittany Edwards,Consumer,USA,Taylorport,Connecticut,62389,Central
+CUST-0131,Cassandra Brown,Home Office,USA,Lake Ryanton,Florida,43130,East
+CUST-0132,Emily Rodriguez,Home Office,USA,Simmonsshire,Arizona,40611,East
+CUST-0133,Charles Hughes,Corporate,USA,Nathanchester,Delaware,53183,West
+CUST-0134,Mercedes Yoder,Corporate,USA,South Amandamouth,Louisiana,77170,South
+CUST-0135,Mark Lamb,Consumer,USA,South Evelyn,Alabama,97406,West
+CUST-0136,Robert Willis,Consumer,USA,Annetteview,Maine,38743,Central
+CUST-0137,Mary Fields,Home Office,USA,East Denise,Michigan,52260,East
+CUST-0138,Julie Hinton,Home Office,USA,West Cassandraview,New Mexico,59336,Central
+CUST-0139,Brenda Jackson,Home Office,USA,New Tina,Idaho,96676,South
+CUST-0140,Jared Mitchell,Corporate,USA,Brownville,New Hampshire,50298,East
+CUST-0141,Megan Mitchell,Consumer,USA,North Virginiachester,South Carolina,14204,East
+CUST-0142,Gary Thompson,Corporate,USA,West Shannontown,South Dakota,52994,West
+CUST-0143,Paige Patterson,Corporate,USA,Laurenburgh,Massachusetts,57099,West
+CUST-0144,David Jenkins,Corporate,USA,South Nathaniel,Alabama,17072,East
+CUST-0145,Terri Macdonald,Corporate,USA,South Megan,Nebraska,30179,East
+CUST-0146,Jacob Palmer,Corporate,USA,Palmershire,Alabama,85070,South
+CUST-0147,Autumn Dunn,Home Office,USA,Spencerport,Idaho,39403,West
+CUST-0148,Ronald Nguyen,Consumer,USA,North Karenton,Mississippi,20835,South
+CUST-0149,Brian Johns,Home Office,USA,North Samuelshire,Alaska,89184,South
+CUST-0150,Matthew Thomas,Home Office,USA,Fosterside,New Mexico,08014,South
+CUST-0151,Robert Morris,Home Office,USA,Vaughnmouth,California,05584,South
+CUST-0152,Jonathan Bean,Corporate,USA,Petersonfort,South Carolina,78658,Central
+CUST-0153,Jenny Fleming,Consumer,USA,Kiddstad,Arkansas,66784,South
+CUST-0154,Anthony Paul,Home Office,USA,Valerieborough,Idaho,56040,South
+CUST-0155,Justin Hull,Consumer,USA,New Alexismouth,Hawaii,48036,West
+CUST-0156,Brittany Carpenter,Home Office,USA,Grantbury,Massachusetts,04516,West
+CUST-0157,Stephen Davis,Consumer,USA,Port Samanthaton,Idaho,98326,South
+CUST-0158,Robin Hanson MD,Corporate,USA,Tinachester,Indiana,08171,South
+CUST-0159,Gary Leon,Corporate,USA,Harrisstad,New Hampshire,09893,East
+CUST-0160,Angela Robbins,Home Office,USA,Herrerafurt,Rhode Island,53721,South
+CUST-0161,Wanda Ramirez,Corporate,USA,Darrylmouth,Michigan,16794,East
+CUST-0162,Julie Daniels,Consumer,USA,Romerofort,Texas,70861,South
+CUST-0163,Heather Howard,Corporate,USA,Port Lisaburgh,New Mexico,47451,South
+CUST-0164,Craig Garcia,Corporate,USA,South Carolinemouth,Kansas,68748,Central
+CUST-0165,Bryan Moody,Consumer,USA,East Dawn,Connecticut,25995,Central
+CUST-0166,Nancy Santana,Home Office,USA,East Stephanie,New Jersey,23970,East
+CUST-0167,Henry Wagner,Consumer,USA,Port James,Ohio,86289,East
+CUST-0168,Wanda Cooper,Home Office,USA,East Alantown,Virginia,60819,Central
+CUST-0169,Sean Turner,Home Office,USA,West Rickyfort,Alaska,25485,West
+CUST-0170,Samantha Meza,Consumer,USA,North Danielmouth,Connecticut,65524,Central
+CUST-0171,Carol Ryan,Consumer,USA,Colefurt,Kansas,64868,East
+CUST-0172,Cassandra Good,Home Office,USA,North Russellville,Hawaii,23235,East
+CUST-0173,Ricky Perry,Home Office,USA,West Lisa,Arizona,11327,East
+CUST-0174,David Davis,Home Office,USA,Edwardland,Nebraska,88575,West
+CUST-0175,Bryan Tran,Home Office,USA,East Deborah,Tennessee,41145,East
+CUST-0176,Susan Montoya,Home Office,USA,Cameronstad,New Mexico,74027,East
+CUST-0177,Ruben Monroe,Corporate,USA,Port Joshua,Arizona,25375,Central
+CUST-0178,Jennifer Gordon,Home Office,USA,New Henry,Connecticut,09981,West
+CUST-0179,Matthew Walker,Corporate,USA,New Amy,Alaska,09544,East
+CUST-0180,Angela Reese,Consumer,USA,Ginamouth,Alabama,94228,West
+CUST-0181,Kelly Shannon,Corporate,USA,Edwardshire,Florida,82191,East
+CUST-0182,Stacy Walker,Home Office,USA,West Chad,New York,62513,Central
+CUST-0183,Michelle Kennedy,Consumer,USA,East Christianberg,New Jersey,78006,West
+CUST-0184,Michael Drake,Corporate,USA,East Tracy,Ohio,28538,Central
+CUST-0185,Cassandra Burch,Home Office,USA,East Rhonda,California,01300,Central
+CUST-0186,Rita Jefferson,Consumer,USA,South Mark,Virginia,98002,Central
+CUST-0187,Herbert Chavez,Consumer,USA,Mortonmouth,Nevada,61592,South
+CUST-0188,Jay Stein,Consumer,USA,East Gabrielmouth,Pennsylvania,91092,East
+CUST-0189,Jorge Washington,Home Office,USA,Port Terrifort,Oklahoma,52307,Central
+CUST-0190,Brian Campos,Corporate,USA,East Melindaton,Kentucky,56709,West
+CUST-0191,William Cruz,Consumer,USA,Smithburgh,Nebraska,21774,West
+CUST-0192,Tom Massey,Consumer,USA,Sarahbury,South Carolina,84665,West
+CUST-0193,Daniel Sims,Corporate,USA,South Timothy,West Virginia,96845,West
+CUST-0194,Margaret Cochran,Corporate,USA,West Peterton,South Carolina,87878,West
+CUST-0195,Todd Coleman,Consumer,USA,Porterbury,Florida,43819,Central
+CUST-0196,Gary Ford,Home Office,USA,Lake James,North Carolina,45339,South
+CUST-0197,Cynthia Parker,Corporate,USA,Debrabury,Maine,25438,Central
+CUST-0198,Robert Anderson,Corporate,USA,Jordanberg,Kentucky,59946,South
+CUST-0199,Gina Wilson,Corporate,USA,South Natashaland,Arkansas,33658,South
+CUST-0200,Randy Fisher,Consumer,USA,East Amy,Alabama,77022,Central
+CUST-0201,Joseph Berry,Consumer,USA,South Joseph,Washington,14677,East
+CUST-0202,Carlos Campbell,Consumer,USA,Riveraville,Kentucky,09299,West
+CUST-0203,Stephanie Yoder,Corporate,USA,Tuckerton,Hawaii,30340,Central
+CUST-0204,Tammy Rodriguez,Corporate,USA,Heathershire,Missouri,02661,East
+CUST-0205,Craig Wallace,Consumer,USA,Lake Kevinview,Alabama,59070,Central
+CUST-0206,Brenda Adams,Consumer,USA,Lake Donnafurt,Nebraska,36263,South
+CUST-0207,Roberto Quinn,Corporate,USA,Mitchellchester,Montana,33315,West
+CUST-0208,Leah Kerr,Consumer,USA,Lisafurt,Pennsylvania,00569,East
+CUST-0209,Mark Harris,Corporate,USA,North Julieburgh,Connecticut,81451,South
+CUST-0210,Jonathan Baker,Consumer,USA,Kristenport,Wisconsin,04052,South
+CUST-0211,Julie Hester,Corporate,USA,Matthewsview,Wyoming,14418,West
+CUST-0212,Beth Lopez,Home Office,USA,West Troyshire,Illinois,14711,West
+CUST-0213,Dr. Catherine Coleman,Consumer,USA,Tristanview,Connecticut,72669,East
+CUST-0214,Jessica Kennedy,Consumer,USA,Amychester,Indiana,52650,South
+CUST-0215,Tammy Silva,Corporate,USA,Lake Margaretmouth,Florida,27573,Central
+CUST-0216,Mary Fox,Consumer,USA,South Alexander,Oregon,14469,Central
+CUST-0217,Charles Orr,Corporate,USA,North Ryan,Arizona,56890,West
+CUST-0218,Raymond Campos,Corporate,USA,Marshallshire,Arkansas,06429,Central
+CUST-0219,Susan Bowman,Consumer,USA,Lake Joel,Vermont,65406,East
+CUST-0220,Kayla Griffin,Corporate,USA,Diazchester,Missouri,87097,West
+CUST-0221,Dominique Douglas,Corporate,USA,Jonesport,Georgia,58352,East
+CUST-0222,Kimberly Kelly,Home Office,USA,New Davidbury,Nebraska,48871,South
+CUST-0223,Natalie Olson,Corporate,USA,Hallchester,New Hampshire,07151,West
+CUST-0224,David Martin,Corporate,USA,New Derrick,Nevada,81759,South
+CUST-0225,Anthony Jones,Consumer,USA,Blackport,West Virginia,31767,Central
+CUST-0226,Jennifer Williams,Consumer,USA,South Julieburgh,New Jersey,50212,West
+CUST-0227,Jordan Andrade,Corporate,USA,Carrilloville,Pennsylvania,89425,South
+CUST-0228,Daniel Wells,Consumer,USA,Russostad,South Dakota,00798,Central
+CUST-0229,Christopher Hall III,Corporate,USA,East Shannon,Arkansas,61179,Central
+CUST-0230,Justin Hill,Corporate,USA,Lake Jon,Alaska,15170,Central
+CUST-0231,Steven Reed,Consumer,USA,Port Kimberly,Alabama,44889,East
+CUST-0232,Sherry York,Home Office,USA,New Michael,New Mexico,91723,Central
+CUST-0233,David Miller,Home Office,USA,Lake Robert,Maryland,89347,Central
+CUST-0234,Patrick Mooney,Home Office,USA,East Timothy,Kansas,85093,Central
+CUST-0235,Douglas Smith,Home Office,USA,Cherylburgh,Hawaii,93308,East
+CUST-0236,Chad Warren,Corporate,USA,North Nicole,Georgia,12887,West
+CUST-0237,Matthew Duarte,Home Office,USA,East Dianashire,New York,13487,South
+CUST-0238,Christina Jones,Consumer,USA,Tracyland,Arkansas,90030,East
+CUST-0239,William Thomas,Consumer,USA,North Jacquelinetown,Iowa,11389,Central
+CUST-0240,Samantha Bennett,Consumer,USA,East Jennifer,Kansas,30466,West
+CUST-0241,Mark Hale,Corporate,USA,East Josephberg,Connecticut,34922,West
+CUST-0242,Jennifer Townsend,Corporate,USA,New Joseph,Idaho,90019,Central
+CUST-0243,Terry Watts,Corporate,USA,Lisahaven,New Mexico,34455,Central
+CUST-0244,Lisa Sanchez,Consumer,USA,South Douglas,Hawaii,91090,East
+CUST-0245,Michael Robbins,Corporate,USA,Sierramouth,Nebraska,35766,West
+CUST-0246,William Williams,Corporate,USA,South Larryshire,New York,37878,Central
+CUST-0247,Carlos Moss,Home Office,USA,Rasmussenmouth,West Virginia,03464,West
+CUST-0248,Kayla Oliver,Corporate,USA,Joshuabury,Maryland,48574,East
+CUST-0249,Joseph Young,Corporate,USA,Charlesland,Oregon,24523,West
+CUST-0250,Marcus Chang,Home Office,USA,North Patricia,South Carolina,40768,Central
+CUST-0251,Walter Lynch,Corporate,USA,New Jacob,Texas,38463,West
+CUST-0252,Scott Johnson DVM,Home Office,USA,Davischester,Montana,94361,East
+CUST-0253,Lisa Love,Home Office,USA,Bakerside,Missouri,01190,East
+CUST-0254,Robert Craig,Consumer,USA,Lewisstad,New Jersey,54910,East
+CUST-0255,Isabella Savage,Corporate,USA,Zoehaven,Florida,94036,Central
+CUST-0256,Erin Patterson,Corporate,USA,New Michellestad,Texas,35454,East
+CUST-0257,Dr. Natalie Johnson,Home Office,USA,East Jeffrey,Massachusetts,48900,West
+CUST-0258,Marco Brandt,Corporate,USA,Ricardoside,West Virginia,98281,Central
+CUST-0259,Brittany Robinson,Corporate,USA,Port Samuel,Tennessee,93864,Central
+CUST-0260,Alan Randall,Consumer,USA,South Shannonfurt,Utah,63002,East
+CUST-0261,Jeffrey Moore,Home Office,USA,Justinbury,Maryland,66130,Central
+CUST-0262,Gina Mercer,Corporate,USA,Snyderhaven,Tennessee,76340,Central
+CUST-0263,Rebecca Hogan,Home Office,USA,Michellebury,Maine,18261,East
+CUST-0264,James Boyd,Corporate,USA,Floresside,Colorado,56476,West
+CUST-0265,Jennifer Lowe,Home Office,USA,Caseyport,Mississippi,41132,West
+CUST-0266,Andrew Garcia,Consumer,USA,South Kristinberg,Mississippi,81279,South
+CUST-0267,Alexis Taylor,Home Office,USA,Hintonland,Kansas,26875,West
+CUST-0268,Savannah Hayden,Consumer,USA,South Jamesburgh,Illinois,87950,South
+CUST-0269,Billy Hodges,Consumer,USA,Brittanyville,Mississippi,41187,South
+CUST-0270,Jessica Lopez,Corporate,USA,Fosterton,Washington,71397,South
+CUST-0271,Mathew Moore,Home Office,USA,Laurafurt,Michigan,51556,South
+CUST-0272,Steven Palmer,Corporate,USA,Laurafort,Maine,82630,West
+CUST-0273,Mr. Gregory Kelly Jr.,Corporate,USA,New Jamesshire,Delaware,33977,West
+CUST-0274,Jennifer Francis,Home Office,USA,Williamside,Idaho,97664,West
+CUST-0275,Ronald Smith,Corporate,USA,North Zachary,New Jersey,19289,South
+CUST-0276,James West,Home Office,USA,Martinezfurt,West Virginia,33332,Central
+CUST-0277,James Robinson,Consumer,USA,Johnsonport,Montana,55780,South
+CUST-0278,Kristin Richards,Consumer,USA,Heatherland,Oregon,49913,South
+CUST-0279,Ryan Howard,Home Office,USA,Riddlehaven,Georgia,12375,Central
+CUST-0280,Jeffrey Holmes,Home Office,USA,East Thomas,Massachusetts,72460,Central
+CUST-0281,Sherri Perez,Home Office,USA,Rodriguezchester,Virginia,00666,South
+CUST-0282,Jennifer Garcia,Consumer,USA,Michealmouth,Massachusetts,92620,Central
+CUST-0283,Kyle Wilson,Corporate,USA,North Emilytown,New York,28945,East
+CUST-0284,Michael Brown,Consumer,USA,Garciatown,Florida,05927,East
+CUST-0285,Ryan Farmer,Corporate,USA,Johnland,Mississippi,58387,East
+CUST-0286,Raymond Gallagher,Corporate,USA,North Mikeview,Minnesota,78586,Central
+CUST-0287,Richard Padilla,Consumer,USA,Lake Kevin,New York,16657,East
+CUST-0288,Brittney Spencer,Home Office,USA,Colebury,Georgia,25281,Central
+CUST-0289,Jennifer Williams,Corporate,USA,West Dennis,Delaware,53584,South
+CUST-0290,Kellie Harris,Corporate,USA,New Traci,Wisconsin,92222,West
+CUST-0291,William Acevedo MD,Consumer,USA,Port Andrewberg,Minnesota,84283,East
+CUST-0292,Stephanie Ryan,Home Office,USA,Masonberg,Illinois,20079,West
+CUST-0293,Darryl Contreras,Home Office,USA,Jackshire,Oregon,19059,Central
+CUST-0294,Nicolas Melendez,Corporate,USA,Tracybury,Delaware,67369,West
+CUST-0295,Molly Walker,Consumer,USA,North Terri,Utah,62077,Central
+CUST-0296,Ashley Hill,Home Office,USA,Jaimestad,Minnesota,84436,West
+CUST-0297,Andrew Johnson,Corporate,USA,East Mathewbury,New Mexico,51675,West
+CUST-0298,Kara Melton,Consumer,USA,North Timothystad,South Dakota,40097,West
+CUST-0299,Emily Rich,Home Office,USA,East Calebchester,New Jersey,74561,West
+CUST-0300,April Walter,Consumer,USA,Bushburgh,North Dakota,32578,West

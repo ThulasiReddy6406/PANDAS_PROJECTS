@@ -1,0 +1,1001 @@
+,CustomerID,CustomerName,Segment,Country,City,State,PostalCode,Region,OrderID,OrderDate,ShipDate,ShipMode,ProductID,Sales,Quantity,Discount,Profit,Category,Sub-Category,ProductName
+0,CUST-0095,Stacey Lee,Home Office,USA,Sanchezstad,Oregon,62355,East,ORD-93852,2023-09-12,2023-09-15,Standard Class,PROD-0001,1193.77,4,0.13,351.74,Office Supplies,Paper,Cultural Paper
+1,CUST-0083,Chad Rodriguez,Consumer,USA,South Pamela,Arkansas,70085,East,ORD-15325,2024-11-12,2024-11-13,First Class,PROD-0001,662.03,8,0.15,93.14,Office Supplies,Paper,Cultural Paper
+2,CUST-0048,Alexander Sandoval,Consumer,USA,Caseybury,Rhode Island,9856,South,ORD-84374,2025-02-14,2025-02-23,First Class,PROD-0001,1547.91,8,0.28,426.05,Office Supplies,Paper,Cultural Paper
+3,CUST-0044,Susan Ward,Corporate,USA,New Elizabethside,Minnesota,38535,West,ORD-63771,2023-09-28,2023-10-05,Same Day,PROD-0001,1030.73,1,0.25,181.49,Office Supplies,Paper,Cultural Paper
+4,CUST-0193,Daniel Sims,Corporate,USA,South Timothy,West Virginia,96845,West,ORD-84050,2024-02-15,2024-02-18,First Class,PROD-0001,851.55,4,0.27,157.17,Office Supplies,Paper,Cultural Paper
+5,CUST-0172,Cassandra Good,Home Office,USA,North Russellville,Hawaii,23235,East,ORD-54546,2023-09-02,2023-09-08,Same Day,PROD-0001,1430.31,3,0.12,247.7,Office Supplies,Paper,Cultural Paper
+6,CUST-0002,Shelby Bradley,Corporate,USA,East Christopher,Kansas,10408,South,ORD-57172,2024-06-24,2024-07-04,Second Class,PROD-0002,1138.66,6,0.29,266.52,Furniture,Tables,Picture Tables
+7,CUST-0175,Bryan Tran,Home Office,USA,East Deborah,Tennessee,41145,East,ORD-99333,2025-04-26,2025-05-04,Same Day,PROD-0002,265.03,7,0.23,54.96,Furniture,Tables,Picture Tables
+8,CUST-0004,Sarah Floyd,Corporate,USA,Port Rachel,Indiana,9367,Central,ORD-77270,2025-07-31,2025-08-09,Second Class,PROD-0002,530.34,9,0.29,135.39,Furniture,Tables,Picture Tables
+9,CUST-0294,Nicolas Melendez,Corporate,USA,Tracybury,Delaware,67369,West,ORD-73519,2024-09-05,2024-09-11,First Class,PROD-0002,1303.83,10,0.05,83.09,Furniture,Tables,Picture Tables
+10,CUST-0055,Lauren Silva,Corporate,USA,West Tina,North Dakota,98841,Central,ORD-25929,2024-04-11,2024-04-21,Same Day,PROD-0002,496.13,6,0.01,141.35,Furniture,Tables,Picture Tables
+11,CUST-0050,Preston Anderson,Corporate,USA,Carrieport,South Carolina,56153,West,ORD-45990,2024-03-30,2024-04-06,Second Class,PROD-0002,1599.34,10,0.1,143.75,Furniture,Tables,Picture Tables
+12,CUST-0095,Stacey Lee,Home Office,USA,Sanchezstad,Oregon,62355,East,ORD-10048,2024-09-11,2024-09-15,First Class,PROD-0002,726.89,8,0.3,125.99,Furniture,Tables,Picture Tables
+13,CUST-0203,Stephanie Yoder,Corporate,USA,Tuckerton,Hawaii,30340,Central,ORD-98378,2023-10-30,2023-11-04,Same Day,PROD-0002,1611.09,6,0.2,473.93,Furniture,Tables,Picture Tables
+14,CUST-0091,Monica Shepard,Corporate,USA,Huntport,Texas,97776,West,ORD-43431,2024-07-24,2024-07-26,Second Class,PROD-0003,299.7,1,0.11,89.7,Technology,Copiers,Record Copiers
+15,CUST-0206,Brenda Adams,Consumer,USA,Lake Donnafurt,Nebraska,36263,South,ORD-78594,2025-07-22,2025-07-23,Second Class,PROD-0003,1419.36,1,0.03,254.93,Technology,Copiers,Record Copiers
+16,CUST-0094,Luke May,Home Office,USA,South Lori,North Carolina,16404,Central,ORD-89054,2025-01-30,2025-02-08,Second Class,PROD-0003,1005.96,10,0.29,175.59,Technology,Copiers,Record Copiers
+17,CUST-0224,David Martin,Corporate,USA,New Derrick,Nevada,81759,South,ORD-98466,2025-02-16,2025-02-26,Standard Class,PROD-0003,1382.13,8,0.01,70.89,Technology,Copiers,Record Copiers
+18,CUST-0273,Mr. Gregory Kelly Jr.,Corporate,USA,New Jamesshire,Delaware,33977,West,ORD-12679,2025-01-03,2025-01-05,Second Class,PROD-0003,1895.75,9,0.18,298.04,Technology,Copiers,Record Copiers
+19,CUST-0299,Emily Rich,Home Office,USA,East Calebchester,New Jersey,74561,West,ORD-29774,2024-11-13,2024-11-16,Standard Class,PROD-0003,928.39,9,0.27,244.36,Technology,Copiers,Record Copiers
+20,CUST-0283,Kyle Wilson,Corporate,USA,North Emilytown,New York,28945,East,ORD-58262,2024-08-09,2024-08-18,Same Day,PROD-0003,260.33,4,0.15,14.96,Technology,Copiers,Record Copiers
+21,CUST-0294,Nicolas Melendez,Corporate,USA,Tracybury,Delaware,67369,West,ORD-68044,2025-03-30,2025-04-07,Second Class,PROD-0004,1930.33,6,0.06,242.14,Technology,Machines,Thought Machines
+22,CUST-0167,Henry Wagner,Consumer,USA,Port James,Ohio,86289,East,ORD-11664,2023-11-06,2023-11-14,Same Day,PROD-0004,1605.26,6,0.2,107.48,Technology,Machines,Thought Machines
+23,CUST-0248,Kayla Oliver,Corporate,USA,Joshuabury,Maryland,48574,East,ORD-89331,2025-06-15,2025-06-25,First Class,PROD-0004,1435.94,9,0.06,147.19,Technology,Machines,Thought Machines
+24,CUST-0227,Jordan Andrade,Corporate,USA,Carrilloville,Pennsylvania,89425,South,ORD-74790,2024-11-02,2024-11-08,Standard Class,PROD-0004,1580.58,2,0.11,156.09,Technology,Machines,Thought Machines
+25,CUST-0056,Tyler Mcbride,Consumer,USA,Lawrenceview,Iowa,11759,West,ORD-52943,2025-03-23,2025-03-29,Second Class,PROD-0004,255.91,2,0.22,50.8,Technology,Machines,Thought Machines
+26,CUST-0142,Gary Thompson,Corporate,USA,West Shannontown,South Dakota,52994,West,ORD-40011,2024-11-26,2024-11-28,First Class,PROD-0004,732.8,6,0.01,176.34,Technology,Machines,Thought Machines
+27,CUST-0282,Jennifer Garcia,Consumer,USA,Michealmouth,Massachusetts,92620,Central,ORD-51391,2024-08-07,2024-08-12,First Class,PROD-0005,516.74,1,0.02,131.71,Technology,Phones,Institution Phones
+28,CUST-0155,Justin Hull,Consumer,USA,New Alexismouth,Hawaii,48036,West,ORD-51393,2023-12-02,2023-12-05,First Class,PROD-0005,1260.67,3,0.2,100.57,Technology,Phones,Institution Phones
+29,CUST-0228,Daniel Wells,Consumer,USA,Russostad,South Dakota,798,Central,ORD-47448,2024-08-10,2024-08-16,Second Class,PROD-0005,918.04,5,0.23,88.5,Technology,Phones,Institution Phones
+30,CUST-0134,Mercedes Yoder,Corporate,USA,South Amandamouth,Louisiana,77170,South,ORD-79607,2025-03-15,2025-03-17,Standard Class,PROD-0005,751.34,8,0.06,49.96,Technology,Phones,Institution Phones
+31,CUST-0110,Ryan Hansen,Home Office,USA,Lake Amberbury,Wisconsin,3997,West,ORD-22946,2024-04-24,2024-04-29,Second Class,PROD-0005,1747.78,4,0.2,237.39,Technology,Phones,Institution Phones
+32,CUST-0210,Jonathan Baker,Consumer,USA,Kristenport,Wisconsin,4052,South,ORD-37524,2025-01-05,2025-01-13,First Class,PROD-0005,1084.42,3,0.24,193.57,Technology,Phones,Institution Phones
+33,CUST-0043,Kelly Cox,Consumer,USA,Crosbyland,Illinois,48986,South,ORD-13072,2024-07-22,2024-07-23,Second Class,PROD-0006,328.72,10,0.06,32.29,Furniture,Chairs,What Chairs
+34,CUST-0126,Timothy Valentine,Corporate,USA,Jonathanland,Montana,86636,East,ORD-18580,2024-03-14,2024-03-18,Standard Class,PROD-0006,16.88,10,0.18,2.72,Furniture,Chairs,What Chairs
+35,CUST-0151,Robert Morris,Home Office,USA,Vaughnmouth,California,5584,South,ORD-14292,2023-09-12,2023-09-15,Same Day,PROD-0006,34.22,9,0.24,7.12,Furniture,Chairs,What Chairs
+36,CUST-0271,Mathew Moore,Home Office,USA,Laurafurt,Michigan,51556,South,ORD-97680,2024-01-12,2024-01-19,Same Day,PROD-0006,737.56,6,0.16,124.89,Furniture,Chairs,What Chairs
+37,CUST-0146,Jacob Palmer,Corporate,USA,Palmershire,Alabama,85070,South,ORD-93213,2024-07-05,2024-07-09,First Class,PROD-0006,703.47,10,0.13,117.83,Furniture,Chairs,What Chairs
+38,CUST-0285,Ryan Farmer,Corporate,USA,Johnland,Mississippi,58387,East,ORD-85921,2024-09-13,2024-09-23,Same Day,PROD-0006,1280.31,5,0.02,353.46,Furniture,Chairs,What Chairs
+39,CUST-0146,Jacob Palmer,Corporate,USA,Palmershire,Alabama,85070,South,ORD-43058,2025-05-04,2025-05-14,Same Day,PROD-0006,159.39,8,0.01,12.97,Furniture,Chairs,What Chairs
+40,CUST-0277,James Robinson,Consumer,USA,Johnsonport,Montana,55780,South,ORD-36083,2024-05-07,2024-05-10,First Class,PROD-0007,591.08,7,0.02,70.17,Furniture,Furnishings,Rock Furnishings
+41,CUST-0017,Michael Juarez,Home Office,USA,Singletonmouth,Rhode Island,35828,East,ORD-60826,2024-12-24,2024-12-30,First Class,PROD-0007,801.65,2,0.24,236.21,Furniture,Furnishings,Rock Furnishings
+42,CUST-0098,Matthew Conner,Home Office,USA,Nortonstad,Vermont,92927,East,ORD-51683,2024-08-11,2024-08-17,Second Class,PROD-0007,885.33,6,0.28,79.3,Furniture,Furnishings,Rock Furnishings
+43,CUST-0115,Jennifer Williams,Home Office,USA,Hillton,West Virginia,39563,South,ORD-86535,2025-03-07,2025-03-15,First Class,PROD-0007,1531.07,7,0.19,216.44,Furniture,Furnishings,Rock Furnishings
+44,CUST-0226,Jennifer Williams,Consumer,USA,South Julieburgh,New Jersey,50212,West,ORD-86837,2024-05-10,2024-05-15,Second Class,PROD-0008,821.37,3,0.03,203.97,Technology,Machines,Question Machines
+45,CUST-0038,Nathan House,Consumer,USA,Alvarezbury,Wisconsin,40681,Central,ORD-91319,2023-12-02,2023-12-04,Standard Class,PROD-0008,1068.11,10,0.25,156.99,Technology,Machines,Question Machines
+46,CUST-0057,Brittany Zhang,Consumer,USA,Lake Fred,Alabama,5310,Central,ORD-33221,2025-04-16,2025-04-19,First Class,PROD-0009,1586.74,3,0.26,137.51,Technology,Accessories,Join Accessories
+47,CUST-0217,Charles Orr,Corporate,USA,North Ryan,Arizona,56890,West,ORD-65161,2024-10-09,2024-10-19,First Class,PROD-0010,830.81,2,0.12,143.61,Office Supplies,Storage,Set Storage
+48,CUST-0194,Margaret Cochran,Corporate,USA,West Peterton,South Carolina,87878,West,ORD-71215,2023-10-30,2023-11-01,Standard Class,PROD-0010,1678.48,5,0.2,165.48,Office Supplies,Storage,Set Storage
+49,CUST-0287,Richard Padilla,Consumer,USA,Lake Kevin,New York,16657,East,ORD-40579,2024-04-03,2024-04-08,Standard Class,PROD-0010,1590.21,2,0.14,229.41,Office Supplies,Storage,Set Storage
+50,CUST-0255,Isabella Savage,Corporate,USA,Zoehaven,Florida,94036,Central,ORD-77477,2024-03-21,2024-03-29,First Class,PROD-0010,722.12,7,0.05,106.19,Office Supplies,Storage,Set Storage
+51,CUST-0035,Wendy Haney,Corporate,USA,Castillofurt,Michigan,57019,Central,ORD-21723,2024-09-09,2024-09-16,First Class,PROD-0010,115.1,9,0.24,13.23,Office Supplies,Storage,Set Storage
+52,CUST-0095,Stacey Lee,Home Office,USA,Sanchezstad,Oregon,62355,East,ORD-49196,2024-11-12,2024-11-22,Second Class,PROD-0010,1265.17,2,0.09,224.64,Office Supplies,Storage,Set Storage
+53,CUST-0093,Margaret Dunn,Corporate,USA,East Kimberly,New Hampshire,34314,Central,ORD-92600,2024-02-14,2024-02-19,Same Day,PROD-0010,1870.04,10,0.09,532.55,Office Supplies,Storage,Set Storage
+54,CUST-0131,Cassandra Brown,Home Office,USA,Lake Ryanton,Florida,43130,East,ORD-17046,2024-03-28,2024-04-07,Same Day,PROD-0010,716.95,5,0.13,51.36,Office Supplies,Storage,Set Storage
+55,CUST-0136,Robert Willis,Consumer,USA,Annetteview,Maine,38743,Central,ORD-83091,2024-02-08,2024-02-11,First Class,PROD-0010,1257.46,8,0.17,142.25,Office Supplies,Storage,Set Storage
+56,CUST-0095,Stacey Lee,Home Office,USA,Sanchezstad,Oregon,62355,East,ORD-69166,2024-07-05,2024-07-08,Second Class,PROD-0010,947.5,6,0.05,111.33,Office Supplies,Storage,Set Storage
+57,CUST-0255,Isabella Savage,Corporate,USA,Zoehaven,Florida,94036,Central,ORD-85146,2023-09-25,2023-10-04,Same Day,PROD-0011,1486.75,3,0.25,136.17,Furniture,Bookcases,Work Bookcases
+58,CUST-0072,Tina Washington,Corporate,USA,Berryburgh,Idaho,13854,West,ORD-89595,2023-09-11,2023-09-12,First Class,PROD-0011,422.04,7,0.05,60.24,Furniture,Bookcases,Work Bookcases
+59,CUST-0166,Nancy Santana,Home Office,USA,East Stephanie,New Jersey,23970,East,ORD-44712,2024-03-23,2024-03-24,Same Day,PROD-0011,158.85,6,0.13,29.37,Furniture,Bookcases,Work Bookcases
+60,CUST-0286,Raymond Gallagher,Corporate,USA,North Mikeview,Minnesota,78586,Central,ORD-12929,2024-12-21,2024-12-29,Same Day,PROD-0011,262.76,9,0.2,20.95,Furniture,Bookcases,Work Bookcases
+61,CUST-0071,Dustin Meyers,Home Office,USA,New Chase,West Virginia,12179,South,ORD-34937,2025-08-09,2025-08-11,Same Day,PROD-0011,1901.51,9,0.24,193.15,Furniture,Bookcases,Work Bookcases
+62,CUST-0072,Tina Washington,Corporate,USA,Berryburgh,Idaho,13854,West,ORD-77110,2024-06-05,2024-06-12,Standard Class,PROD-0012,397.54,8,0.01,91.67,Furniture,Chairs,Edge Chairs
+63,CUST-0144,David Jenkins,Corporate,USA,South Nathaniel,Alabama,17072,East,ORD-67422,2024-11-14,2024-11-20,Same Day,PROD-0012,1640.4,2,0.27,161.88,Furniture,Chairs,Edge Chairs
+64,CUST-0132,Emily Rodriguez,Home Office,USA,Simmonsshire,Arizona,40611,East,ORD-74130,2024-04-24,2024-05-04,First Class,PROD-0012,1095.78,9,0.07,305.94,Furniture,Chairs,Edge Chairs
+65,CUST-0156,Brittany Carpenter,Home Office,USA,Grantbury,Massachusetts,4516,West,ORD-40966,2024-03-07,2024-03-15,Same Day,PROD-0012,897.88,4,0.04,105.08,Furniture,Chairs,Edge Chairs
+66,CUST-0236,Chad Warren,Corporate,USA,North Nicole,Georgia,12887,West,ORD-86085,2025-01-29,2025-02-04,Same Day,PROD-0012,312.76,6,0.23,44.09,Furniture,Chairs,Edge Chairs
+67,CUST-0113,Olivia Ford,Corporate,USA,West Crystalfurt,Pennsylvania,20370,South,ORD-81262,2024-07-04,2024-07-08,Same Day,PROD-0012,1748.83,5,0.19,301.31,Furniture,Chairs,Edge Chairs
+68,CUST-0203,Stephanie Yoder,Corporate,USA,Tuckerton,Hawaii,30340,Central,ORD-32986,2024-02-12,2024-02-18,Standard Class,PROD-0012,537.52,7,0.13,63.27,Furniture,Chairs,Edge Chairs
+69,CUST-0018,Thomas Burgess,Consumer,USA,Robinsonland,Wisconsin,75631,Central,ORD-17476,2023-11-04,2023-11-12,Same Day,PROD-0013,919.92,8,0.24,208.21,Technology,Machines,Soon Machines
+70,CUST-0173,Ricky Perry,Home Office,USA,West Lisa,Arizona,11327,East,ORD-52612,2024-04-24,2024-05-02,Second Class,PROD-0014,776.8,1,0.09,193.49,Technology,Accessories,Conference Accessories
+71,CUST-0049,Daniel May,Corporate,USA,Kiddtown,Kentucky,44709,Central,ORD-50994,2024-12-12,2024-12-15,Same Day,PROD-0014,798.25,4,0.1,52.19,Technology,Accessories,Conference Accessories
+72,CUST-0163,Heather Howard,Corporate,USA,Port Lisaburgh,New Mexico,47451,South,ORD-35918,2024-02-09,2024-02-10,Same Day,PROD-0014,147.97,4,0.3,16.09,Technology,Accessories,Conference Accessories
+73,CUST-0100,Patricia Smith,Home Office,USA,Lake Eric,New Jersey,57678,East,ORD-49416,2024-01-11,2024-01-14,Same Day,PROD-0014,636.26,2,0.19,141.07,Technology,Accessories,Conference Accessories
+74,CUST-0286,Raymond Gallagher,Corporate,USA,North Mikeview,Minnesota,78586,Central,ORD-90323,2024-12-16,2024-12-25,Standard Class,PROD-0015,1935.62,6,0.22,224.02,Furniture,Furnishings,Plant Furnishings
+75,CUST-0262,Gina Mercer,Corporate,USA,Snyderhaven,Tennessee,76340,Central,ORD-59865,2024-11-04,2024-11-06,Same Day,PROD-0015,680.84,9,0.16,42.45,Furniture,Furnishings,Plant Furnishings
+76,CUST-0229,Christopher Hall III,Corporate,USA,East Shannon,Arkansas,61179,Central,ORD-43097,2024-02-22,2024-03-01,Standard Class,PROD-0015,1690.64,7,0.1,339.36,Furniture,Furnishings,Plant Furnishings
+77,CUST-0174,David Davis,Home Office,USA,Edwardland,Nebraska,88575,West,ORD-10574,2025-04-30,2025-05-10,First Class,PROD-0016,1452.55,3,0.11,226.97,Furniture,Chairs,Feel Chairs
+78,CUST-0018,Thomas Burgess,Consumer,USA,Robinsonland,Wisconsin,75631,Central,ORD-61065,2023-11-25,2023-11-28,Second Class,PROD-0016,1537.32,9,0.11,340.4,Furniture,Chairs,Feel Chairs
+79,CUST-0187,Herbert Chavez,Consumer,USA,Mortonmouth,Nevada,61592,South,ORD-76088,2023-09-13,2023-09-20,Second Class,PROD-0016,1446.92,3,0.12,126.15,Furniture,Chairs,Feel Chairs
+80,CUST-0009,Andrea Jackson,Consumer,USA,New Alexandria,Maryland,56649,East,ORD-18871,2024-06-06,2024-06-09,First Class,PROD-0017,888.92,3,0.02,165.39,Office Supplies,Binders,Sure Binders
+81,CUST-0289,Jennifer Williams,Corporate,USA,West Dennis,Delaware,53584,South,ORD-11485,2023-10-18,2023-10-20,Standard Class,PROD-0017,913.44,1,0.26,169.83,Office Supplies,Binders,Sure Binders
+82,CUST-0196,Gary Ford,Home Office,USA,Lake James,North Carolina,45339,South,ORD-37197,2024-10-14,2024-10-23,Standard Class,PROD-0017,1207.04,9,0.12,339.74,Office Supplies,Binders,Sure Binders
+83,CUST-0055,Lauren Silva,Corporate,USA,West Tina,North Dakota,98841,Central,ORD-71763,2025-06-26,2025-07-05,Same Day,PROD-0017,1728.94,1,0.12,431.45,Office Supplies,Binders,Sure Binders
+84,CUST-0262,Gina Mercer,Corporate,USA,Snyderhaven,Tennessee,76340,Central,ORD-49511,2025-07-06,2025-07-13,Second Class,PROD-0017,52.77,8,0.28,12.34,Office Supplies,Binders,Sure Binders
+85,CUST-0277,James Robinson,Consumer,USA,Johnsonport,Montana,55780,South,ORD-13387,2023-11-27,2023-11-28,First Class,PROD-0017,1115.53,4,0.23,98.73,Office Supplies,Binders,Sure Binders
+86,CUST-0027,Jenna Contreras,Home Office,USA,West Jasonstad,Oregon,7958,East,ORD-77833,2024-01-07,2024-01-08,Same Day,PROD-0017,432.77,1,0.23,65.37,Office Supplies,Binders,Sure Binders
+87,CUST-0074,Ashley Garza MD,Home Office,USA,East Daniel,Missouri,6904,West,ORD-25604,2023-11-10,2023-11-11,Second Class,PROD-0017,1395.94,4,0.28,143.11,Office Supplies,Binders,Sure Binders
+88,CUST-0102,Kristin Beasley,Home Office,USA,North Scott,South Carolina,35696,South,ORD-42679,2024-02-24,2024-02-25,Same Day,PROD-0018,569.48,7,0.2,59.4,Office Supplies,Binders,Agent Binders
+89,CUST-0297,Andrew Johnson,Corporate,USA,East Mathewbury,New Mexico,51675,West,ORD-67230,2024-09-24,2024-10-01,First Class,PROD-0018,984.2,7,0.01,274.94,Office Supplies,Binders,Agent Binders
+90,CUST-0056,Tyler Mcbride,Consumer,USA,Lawrenceview,Iowa,11759,West,ORD-91376,2024-06-07,2024-06-10,Second Class,PROD-0019,211.12,7,0.12,41.59,Technology,Accessories,War Accessories
+91,CUST-0132,Emily Rodriguez,Home Office,USA,Simmonsshire,Arizona,40611,East,ORD-13185,2024-11-14,2024-11-24,Second Class,PROD-0019,1869.39,9,0.18,294.99,Technology,Accessories,War Accessories
+92,CUST-0065,Eric Rodriguez,Home Office,USA,Taraburgh,Oregon,65854,Central,ORD-53054,2025-05-05,2025-05-15,Second Class,PROD-0019,1134.73,1,0.29,106.18,Technology,Accessories,War Accessories
+93,CUST-0259,Brittany Robinson,Corporate,USA,Port Samuel,Tennessee,93864,Central,ORD-92767,2024-12-23,2025-01-01,Standard Class,PROD-0019,1227.3,7,0.03,173.22,Technology,Accessories,War Accessories
+94,CUST-0139,Brenda Jackson,Home Office,USA,New Tina,Idaho,96676,South,ORD-42521,2024-05-21,2024-05-26,First Class,PROD-0019,1182.8,1,0.22,217.34,Technology,Accessories,War Accessories
+95,CUST-0038,Nathan House,Consumer,USA,Alvarezbury,Wisconsin,40681,Central,ORD-65167,2024-04-18,2024-04-19,Second Class,PROD-0019,366.64,2,0.12,90.83,Technology,Accessories,War Accessories
+96,CUST-0230,Justin Hill,Corporate,USA,Lake Jon,Alaska,15170,Central,ORD-61257,2024-07-15,2024-07-20,Standard Class,PROD-0019,1527.35,7,0.09,188.95,Technology,Accessories,War Accessories
+97,CUST-0075,Angela Ochoa,Consumer,USA,New Tami,Florida,77175,West,ORD-44507,2024-07-15,2024-07-22,Second Class,PROD-0020,1949.0,4,0.25,502.71,Office Supplies,Appliances,Need Appliances
+98,CUST-0158,Robin Hanson MD,Corporate,USA,Tinachester,Indiana,8171,South,ORD-78880,2025-04-20,2025-04-27,Same Day,PROD-0020,1767.57,7,0.01,481.73,Office Supplies,Appliances,Need Appliances
+99,CUST-0039,Susan Brown,Consumer,USA,Maymouth,Colorado,4924,Central,ORD-41474,2025-04-05,2025-04-10,Second Class,PROD-0020,874.02,3,0.07,246.97,Office Supplies,Appliances,Need Appliances
+100,CUST-0203,Stephanie Yoder,Corporate,USA,Tuckerton,Hawaii,30340,Central,ORD-66195,2024-01-12,2024-01-21,First Class,PROD-0020,904.64,6,0.04,127.91,Office Supplies,Appliances,Need Appliances
+101,CUST-0285,Ryan Farmer,Corporate,USA,Johnland,Mississippi,58387,East,ORD-75220,2024-03-15,2024-03-25,First Class,PROD-0020,409.54,10,0.07,122.67,Office Supplies,Appliances,Need Appliances
+102,CUST-0232,Sherry York,Home Office,USA,New Michael,New Mexico,91723,Central,ORD-69741,2024-07-08,2024-07-10,Same Day,PROD-0021,1580.76,5,0.1,375.22,Furniture,Chairs,Reflect Chairs
+103,CUST-0273,Mr. Gregory Kelly Jr.,Corporate,USA,New Jamesshire,Delaware,33977,West,ORD-70821,2024-01-01,2024-01-05,First Class,PROD-0021,861.42,10,0.27,96.95,Furniture,Chairs,Reflect Chairs
+104,CUST-0202,Carlos Campbell,Consumer,USA,Riveraville,Kentucky,9299,West,ORD-83513,2024-11-29,2024-11-30,Second Class,PROD-0021,499.77,1,0.07,144.49,Furniture,Chairs,Reflect Chairs
+105,CUST-0142,Gary Thompson,Corporate,USA,West Shannontown,South Dakota,52994,West,ORD-24301,2025-05-24,2025-05-30,First Class,PROD-0022,1641.67,1,0.25,333.38,Technology,Phones,You Phones
+106,CUST-0198,Robert Anderson,Corporate,USA,Jordanberg,Kentucky,59946,South,ORD-32140,2025-06-10,2025-06-13,First Class,PROD-0022,998.94,9,0.19,94.2,Technology,Phones,You Phones
+107,CUST-0273,Mr. Gregory Kelly Jr.,Corporate,USA,New Jamesshire,Delaware,33977,West,ORD-32081,2024-05-04,2024-05-14,First Class,PROD-0023,268.32,9,0.05,66.84,Furniture,Bookcases,Collection Bookcases
+108,CUST-0157,Stephen Davis,Consumer,USA,Port Samanthaton,Idaho,98326,South,ORD-76154,2023-12-26,2023-12-29,Standard Class,PROD-0023,1596.64,5,0.1,288.77,Furniture,Bookcases,Collection Bookcases
+109,CUST-0158,Robin Hanson MD,Corporate,USA,Tinachester,Indiana,8171,South,ORD-77321,2024-10-06,2024-10-13,First Class,PROD-0023,1117.73,4,0.23,316.65,Furniture,Bookcases,Collection Bookcases
+110,CUST-0283,Kyle Wilson,Corporate,USA,North Emilytown,New York,28945,East,ORD-28133,2025-06-25,2025-06-28,Same Day,PROD-0023,331.85,6,0.25,72.99,Furniture,Bookcases,Collection Bookcases
+111,CUST-0233,David Miller,Home Office,USA,Lake Robert,Maryland,89347,Central,ORD-88202,2025-05-13,2025-05-17,Second Class,PROD-0023,1993.59,4,0.13,462.5,Furniture,Bookcases,Collection Bookcases
+112,CUST-0125,Jesus Kidd,Consumer,USA,North Thomas,South Carolina,75420,East,ORD-29432,2024-12-22,2024-12-28,Same Day,PROD-0023,1938.36,4,0.22,274.7,Furniture,Bookcases,Collection Bookcases
+113,CUST-0265,Jennifer Lowe,Home Office,USA,Caseyport,Mississippi,41132,West,ORD-17517,2023-09-06,2023-09-15,Second Class,PROD-0023,1919.35,5,0.29,271.83,Furniture,Bookcases,Collection Bookcases
+114,CUST-0029,John Martin,Corporate,USA,North Kristin,Alaska,51879,South,ORD-76469,2024-09-24,2024-09-25,Second Class,PROD-0024,1488.57,1,0.02,236.75,Office Supplies,Binders,Provide Binders
+115,CUST-0213,Dr. Catherine Coleman,Consumer,USA,Tristanview,Connecticut,72669,East,ORD-23528,2023-09-13,2023-09-21,First Class,PROD-0024,171.76,5,0.23,45.95,Office Supplies,Binders,Provide Binders
+116,CUST-0150,Matthew Thomas,Home Office,USA,Fosterside,New Mexico,8014,South,ORD-85540,2024-11-12,2024-11-15,Same Day,PROD-0024,1729.99,1,0.13,189.29,Office Supplies,Binders,Provide Binders
+117,CUST-0291,William Acevedo MD,Consumer,USA,Port Andrewberg,Minnesota,84283,East,ORD-70165,2023-12-29,2024-01-04,Second Class,PROD-0024,496.84,4,0.26,59.96,Office Supplies,Binders,Provide Binders
+118,CUST-0052,Tracy Wolf,Corporate,USA,West Isaac,Florida,82036,South,ORD-55892,2025-04-05,2025-04-10,Standard Class,PROD-0025,813.19,8,0.18,45.47,Technology,Accessories,Memory Accessories
+119,CUST-0139,Brenda Jackson,Home Office,USA,New Tina,Idaho,96676,South,ORD-74035,2025-05-21,2025-05-31,Second Class,PROD-0025,1701.31,7,0.03,484.13,Technology,Accessories,Memory Accessories
+120,CUST-0220,Kayla Griffin,Corporate,USA,Diazchester,Missouri,87097,West,ORD-76668,2025-04-16,2025-04-23,Second Class,PROD-0025,183.89,6,0.06,11.15,Technology,Accessories,Memory Accessories
+121,CUST-0185,Cassandra Burch,Home Office,USA,East Rhonda,California,1300,Central,ORD-25469,2025-04-10,2025-04-16,Same Day,PROD-0025,1609.39,4,0.01,414.16,Technology,Accessories,Memory Accessories
+122,CUST-0281,Sherri Perez,Home Office,USA,Rodriguezchester,Virginia,666,South,ORD-77393,2023-10-28,2023-11-04,First Class,PROD-0025,150.25,3,0.14,13.73,Technology,Accessories,Memory Accessories
+123,CUST-0014,Maria Delgado,Consumer,USA,Jenniferborough,Vermont,81758,South,ORD-65046,2023-10-16,2023-10-25,Second Class,PROD-0025,628.39,10,0.09,150.28,Technology,Accessories,Memory Accessories
+124,CUST-0074,Ashley Garza MD,Home Office,USA,East Daniel,Missouri,6904,West,ORD-43779,2024-01-07,2024-01-14,Second Class,PROD-0025,1581.12,1,0.06,136.83,Technology,Accessories,Memory Accessories
+125,CUST-0167,Henry Wagner,Consumer,USA,Port James,Ohio,86289,East,ORD-16518,2023-12-28,2024-01-02,Standard Class,PROD-0025,1312.1,7,0.25,182.0,Technology,Accessories,Memory Accessories
+126,CUST-0101,Alexis Edwards,Corporate,USA,North Kristi,Pennsylvania,17232,West,ORD-38853,2024-11-17,2024-11-21,First Class,PROD-0026,1201.27,8,0.13,202.93,Technology,Accessories,Mr Accessories
+127,CUST-0084,Jay Thompson,Corporate,USA,Patrickmouth,Massachusetts,68044,Central,ORD-16044,2024-05-23,2024-05-25,Same Day,PROD-0026,1082.57,9,0.05,121.9,Technology,Accessories,Mr Accessories
+128,CUST-0292,Stephanie Ryan,Home Office,USA,Masonberg,Illinois,20079,West,ORD-89439,2025-07-15,2025-07-18,First Class,PROD-0026,1885.67,6,0.26,189.87,Technology,Accessories,Mr Accessories
+129,CUST-0164,Craig Garcia,Corporate,USA,South Carolinemouth,Kansas,68748,Central,ORD-51393,2023-08-26,2023-08-30,Standard Class,PROD-0027,1457.75,8,0.09,136.33,Furniture,Bookcases,Himself Bookcases
+130,CUST-0084,Jay Thompson,Corporate,USA,Patrickmouth,Massachusetts,68044,Central,ORD-74087,2024-01-23,2024-01-27,Second Class,PROD-0027,1157.14,3,0.11,90.94,Furniture,Bookcases,Himself Bookcases
+131,CUST-0152,Jonathan Bean,Corporate,USA,Petersonfort,South Carolina,78658,Central,ORD-70554,2024-02-23,2024-03-03,Second Class,PROD-0027,1404.55,9,0.03,175.99,Furniture,Bookcases,Himself Bookcases
+132,CUST-0047,Sherri Chase,Corporate,USA,Lake Molly,Indiana,44604,Central,ORD-17054,2024-05-02,2024-05-09,Second Class,PROD-0028,257.64,4,0.09,71.21,Technology,Machines,Choose Machines
+133,CUST-0181,Kelly Shannon,Corporate,USA,Edwardshire,Florida,82191,East,ORD-48431,2024-10-25,2024-11-02,Second Class,PROD-0028,1363.42,8,0.05,116.15,Technology,Machines,Choose Machines
+134,CUST-0129,Joseph Pratt,Consumer,USA,East Carlos,Michigan,63217,West,ORD-35072,2025-06-01,2025-06-09,Standard Class,PROD-0028,276.4,8,0.3,65.75,Technology,Machines,Choose Machines
+135,CUST-0086,Rebecca Mejia,Consumer,USA,North Joanne,New Jersey,6307,Central,ORD-39811,2024-11-30,2024-12-04,First Class,PROD-0028,1417.94,3,0.21,273.85,Technology,Machines,Choose Machines
+136,CUST-0286,Raymond Gallagher,Corporate,USA,North Mikeview,Minnesota,78586,Central,ORD-23986,2025-05-19,2025-05-23,Second Class,PROD-0028,1152.29,10,0.0,96.25,Technology,Machines,Choose Machines
+137,CUST-0241,Mark Hale,Corporate,USA,East Josephberg,Connecticut,34922,West,ORD-88046,2024-02-05,2024-02-10,Standard Class,PROD-0028,1859.56,7,0.02,348.94,Technology,Machines,Choose Machines
+138,CUST-0227,Jordan Andrade,Corporate,USA,Carrilloville,Pennsylvania,89425,South,ORD-85720,2025-07-11,2025-07-13,First Class,PROD-0028,1661.27,1,0.1,294.64,Technology,Machines,Choose Machines
+139,CUST-0176,Susan Montoya,Home Office,USA,Cameronstad,New Mexico,74027,East,ORD-66784,2024-04-03,2024-04-04,Standard Class,PROD-0029,183.68,5,0.0,38.26,Technology,Machines,Box Machines
+140,CUST-0266,Andrew Garcia,Consumer,USA,South Kristinberg,Mississippi,81279,South,ORD-36835,2024-10-20,2024-10-28,Same Day,PROD-0029,191.19,5,0.22,22.03,Technology,Machines,Box Machines
+141,CUST-0254,Robert Craig,Consumer,USA,Lewisstad,New Jersey,54910,East,ORD-81971,2025-03-10,2025-03-11,Same Day,PROD-0029,1415.89,7,0.29,140.91,Technology,Machines,Box Machines
+142,CUST-0261,Jeffrey Moore,Home Office,USA,Justinbury,Maryland,66130,Central,ORD-90468,2024-01-17,2024-01-24,First Class,PROD-0029,1824.97,2,0.04,170.29,Technology,Machines,Box Machines
+143,CUST-0290,Kellie Harris,Corporate,USA,New Traci,Wisconsin,92222,West,ORD-21673,2025-07-06,2025-07-11,Standard Class,PROD-0030,71.72,9,0.2,13.71,Technology,Copiers,About Copiers
+144,CUST-0222,Kimberly Kelly,Home Office,USA,New Davidbury,Nebraska,48871,South,ORD-59901,2024-06-10,2024-06-11,Same Day,PROD-0030,1577.19,4,0.28,366.49,Technology,Copiers,About Copiers
+145,CUST-0023,Teresa Garcia,Home Office,USA,North Amanda,Utah,54178,East,ORD-36295,2023-10-08,2023-10-17,Same Day,PROD-0030,347.44,8,0.03,45.22,Technology,Copiers,About Copiers
+146,CUST-0292,Stephanie Ryan,Home Office,USA,Masonberg,Illinois,20079,West,ORD-41231,2024-03-04,2024-03-12,First Class,PROD-0031,517.86,6,0.2,40.28,Furniture,Bookcases,Of Bookcases
+147,CUST-0119,Shane Trevino,Home Office,USA,East Tina,New Jersey,66342,West,ORD-39181,2023-12-11,2023-12-21,First Class,PROD-0031,175.14,4,0.05,11.29,Furniture,Bookcases,Of Bookcases
+148,CUST-0068,Jack Murphy,Consumer,USA,North Alexa,Montana,97080,South,ORD-63361,2024-06-11,2024-06-12,Second Class,PROD-0031,78.94,2,0.12,16.06,Furniture,Bookcases,Of Bookcases
+149,CUST-0009,Andrea Jackson,Consumer,USA,New Alexandria,Maryland,56649,East,ORD-45273,2024-04-19,2024-04-21,Same Day,PROD-0031,1465.74,6,0.13,370.76,Furniture,Bookcases,Of Bookcases
+150,CUST-0260,Alan Randall,Consumer,USA,South Shannonfurt,Utah,63002,East,ORD-25223,2025-02-19,2025-02-23,Same Day,PROD-0031,1833.21,3,0.16,503.26,Furniture,Bookcases,Of Bookcases
+151,CUST-0238,Christina Jones,Consumer,USA,Tracyland,Arkansas,90030,East,ORD-96725,2024-08-13,2024-08-18,First Class,PROD-0031,745.28,9,0.14,114.84,Furniture,Bookcases,Of Bookcases
+152,CUST-0221,Dominique Douglas,Corporate,USA,Jonesport,Georgia,58352,East,ORD-85978,2024-08-22,2024-08-31,First Class,PROD-0031,146.88,8,0.03,20.45,Furniture,Bookcases,Of Bookcases
+153,CUST-0015,Jennifer Waters,Corporate,USA,Jacksonburgh,Maine,2329,South,ORD-98798,2024-11-02,2024-11-09,Same Day,PROD-0032,404.57,10,0.15,71.72,Technology,Machines,Special Machines
+154,CUST-0244,Lisa Sanchez,Consumer,USA,South Douglas,Hawaii,91090,East,ORD-68642,2024-05-25,2024-05-29,Second Class,PROD-0032,1814.88,4,0.06,94.46,Technology,Machines,Special Machines
+155,CUST-0183,Michelle Kennedy,Consumer,USA,East Christianberg,New Jersey,78006,West,ORD-87618,2023-09-30,2023-10-07,Standard Class,PROD-0032,843.9,6,0.01,109.94,Technology,Machines,Special Machines
+156,CUST-0177,Ruben Monroe,Corporate,USA,Port Joshua,Arizona,25375,Central,ORD-12195,2024-02-06,2024-02-08,First Class,PROD-0032,1460.67,9,0.1,360.08,Technology,Machines,Special Machines
+157,CUST-0064,Tony David,Consumer,USA,Port Joshuamouth,Utah,58169,South,ORD-29871,2025-08-12,2025-08-15,Standard Class,PROD-0032,236.31,6,0.2,63.25,Technology,Machines,Special Machines
+158,CUST-0019,Amber Rivera,Corporate,USA,Port Cathyview,California,94950,East,ORD-21759,2025-06-19,2025-06-23,First Class,PROD-0032,1271.39,2,0.1,149.11,Technology,Machines,Special Machines
+159,CUST-0280,Jeffrey Holmes,Home Office,USA,East Thomas,Massachusetts,72460,Central,ORD-45708,2024-02-24,2024-02-28,Second Class,PROD-0032,518.75,1,0.03,109.69,Technology,Machines,Special Machines
+160,CUST-0149,Brian Johns,Home Office,USA,North Samuelshire,Alaska,89184,South,ORD-18272,2025-05-04,2025-05-09,Second Class,PROD-0032,785.38,10,0.08,178.26,Technology,Machines,Special Machines
+161,CUST-0222,Kimberly Kelly,Home Office,USA,New Davidbury,Nebraska,48871,South,ORD-12359,2025-01-05,2025-01-12,Standard Class,PROD-0032,1162.55,3,0.27,176.77,Technology,Machines,Special Machines
+162,CUST-0198,Robert Anderson,Corporate,USA,Jordanberg,Kentucky,59946,South,ORD-56962,2023-09-02,2023-09-10,Second Class,PROD-0033,322.24,6,0.01,82.58,Technology,Accessories,Case Accessories
+163,CUST-0008,Robert Stein,Consumer,USA,Port Earl,Arkansas,31545,East,ORD-86001,2025-08-12,2025-08-22,Standard Class,PROD-0033,598.52,9,0.11,55.02,Technology,Accessories,Case Accessories
+164,CUST-0267,Alexis Taylor,Home Office,USA,Hintonland,Kansas,26875,West,ORD-56348,2024-08-19,2024-08-21,Same Day,PROD-0033,1531.69,10,0.05,404.33,Technology,Accessories,Case Accessories
+165,CUST-0037,Blake Harrison MD,Home Office,USA,West Douglasview,New Jersey,74946,West,ORD-51006,2023-09-17,2023-09-27,Second Class,PROD-0034,1029.22,6,0.18,280.21,Technology,Phones,Management Phones
+166,CUST-0123,Brenda Peterson,Consumer,USA,Port Keith,Missouri,94699,West,ORD-19745,2024-07-06,2024-07-15,Standard Class,PROD-0034,830.18,3,0.14,74.08,Technology,Phones,Management Phones
+167,CUST-0267,Alexis Taylor,Home Office,USA,Hintonland,Kansas,26875,West,ORD-77894,2025-03-14,2025-03-19,First Class,PROD-0034,567.19,5,0.15,50.2,Technology,Phones,Management Phones
+168,CUST-0133,Charles Hughes,Corporate,USA,Nathanchester,Delaware,53183,West,ORD-75935,2023-10-01,2023-10-02,Second Class,PROD-0035,904.6,6,0.05,252.13,Office Supplies,Binders,Once Binders
+169,CUST-0201,Joseph Berry,Consumer,USA,South Joseph,Washington,14677,East,ORD-79905,2025-08-08,2025-08-18,Same Day,PROD-0035,1013.67,2,0.09,180.07,Office Supplies,Binders,Once Binders
+170,CUST-0154,Anthony Paul,Home Office,USA,Valerieborough,Idaho,56040,South,ORD-46996,2024-04-24,2024-04-25,First Class,PROD-0035,740.02,7,0.2,102.7,Office Supplies,Binders,Once Binders
+171,CUST-0214,Jessica Kennedy,Consumer,USA,Amychester,Indiana,52650,South,ORD-95779,2024-02-20,2024-02-22,Standard Class,PROD-0035,773.91,9,0.27,68.44,Office Supplies,Binders,Once Binders
+172,CUST-0012,Jonathan Lopez,Consumer,USA,South David,Nevada,99292,South,ORD-23268,2024-10-03,2024-10-06,Second Class,PROD-0035,787.88,10,0.24,185.54,Office Supplies,Binders,Once Binders
+173,CUST-0051,Nathan Reeves,Home Office,USA,Mclaughlinland,Alabama,1026,East,ORD-72841,2023-10-10,2023-10-11,Second Class,PROD-0035,1675.59,9,0.12,459.59,Office Supplies,Binders,Once Binders
+174,CUST-0251,Walter Lynch,Corporate,USA,New Jacob,Texas,38463,West,ORD-92671,2024-06-25,2024-07-01,Second Class,PROD-0035,1196.54,6,0.07,190.97,Office Supplies,Binders,Once Binders
+175,CUST-0175,Bryan Tran,Home Office,USA,East Deborah,Tennessee,41145,East,ORD-50459,2025-08-11,2025-08-13,Same Day,PROD-0036,720.68,9,0.22,65.95,Office Supplies,Binders,Bar Binders
+176,CUST-0167,Henry Wagner,Consumer,USA,Port James,Ohio,86289,East,ORD-93279,2024-08-21,2024-08-22,Standard Class,PROD-0036,1033.51,7,0.18,191.55,Office Supplies,Binders,Bar Binders
+177,CUST-0291,William Acevedo MD,Consumer,USA,Port Andrewberg,Minnesota,84283,East,ORD-63947,2024-03-17,2024-03-19,Same Day,PROD-0037,304.66,2,0.09,18.54,Furniture,Tables,President Tables
+178,CUST-0060,Mr. Tyler Stevens,Consumer,USA,Jamesville,Virginia,75189,West,ORD-49803,2025-01-19,2025-01-27,Same Day,PROD-0037,1238.39,3,0.14,164.3,Furniture,Tables,President Tables
+179,CUST-0194,Margaret Cochran,Corporate,USA,West Peterton,South Carolina,87878,West,ORD-83294,2024-07-16,2024-07-22,First Class,PROD-0037,35.63,1,0.22,4.02,Furniture,Tables,President Tables
+180,CUST-0155,Justin Hull,Consumer,USA,New Alexismouth,Hawaii,48036,West,ORD-45873,2024-01-16,2024-01-25,First Class,PROD-0037,1467.78,7,0.27,242.25,Furniture,Tables,President Tables
+181,CUST-0117,Nancy Velasquez,Home Office,USA,East Anthonyfurt,Tennessee,4567,South,ORD-71785,2025-07-09,2025-07-17,Second Class,PROD-0038,942.99,8,0.16,240.84,Furniture,Tables,Various Tables
+182,CUST-0018,Thomas Burgess,Consumer,USA,Robinsonland,Wisconsin,75631,Central,ORD-19691,2024-02-02,2024-02-04,Standard Class,PROD-0038,281.08,8,0.11,59.47,Furniture,Tables,Various Tables
+183,CUST-0223,Natalie Olson,Corporate,USA,Hallchester,New Hampshire,7151,West,ORD-18978,2024-11-05,2024-11-08,Same Day,PROD-0039,1747.83,4,0.06,296.06,Furniture,Tables,Ten Tables
+184,CUST-0290,Kellie Harris,Corporate,USA,New Traci,Wisconsin,92222,West,ORD-80529,2024-06-29,2024-06-30,Second Class,PROD-0039,1271.15,8,0.17,370.51,Furniture,Tables,Ten Tables
+185,CUST-0176,Susan Montoya,Home Office,USA,Cameronstad,New Mexico,74027,East,ORD-10215,2024-04-03,2024-04-12,Same Day,PROD-0039,1607.41,2,0.05,93.02,Furniture,Tables,Ten Tables
+186,CUST-0296,Ashley Hill,Home Office,USA,Jaimestad,Minnesota,84436,West,ORD-88300,2025-03-13,2025-03-19,Standard Class,PROD-0039,1832.23,1,0.01,92.73,Furniture,Tables,Ten Tables
+187,CUST-0045,Lisa Page,Home Office,USA,South Walter,Utah,66638,Central,ORD-86256,2025-03-06,2025-03-16,Same Day,PROD-0039,1240.97,9,0.25,292.78,Furniture,Tables,Ten Tables
+188,CUST-0083,Chad Rodriguez,Consumer,USA,South Pamela,Arkansas,70085,East,ORD-49787,2024-07-10,2024-07-18,Standard Class,PROD-0039,698.47,4,0.3,121.09,Furniture,Tables,Ten Tables
+189,CUST-0049,Daniel May,Corporate,USA,Kiddtown,Kentucky,44709,Central,ORD-10761,2023-09-05,2023-09-10,Same Day,PROD-0039,1026.72,10,0.11,188.41,Furniture,Tables,Ten Tables
+190,CUST-0110,Ryan Hansen,Home Office,USA,Lake Amberbury,Wisconsin,3997,West,ORD-58809,2024-03-29,2024-04-01,Second Class,PROD-0040,1043.11,5,0.29,179.16,Office Supplies,Storage,Wind Storage
+191,CUST-0142,Gary Thompson,Corporate,USA,West Shannontown,South Dakota,52994,West,ORD-72048,2024-02-01,2024-02-02,Second Class,PROD-0040,1770.11,10,0.11,166.61,Office Supplies,Storage,Wind Storage
+192,CUST-0291,William Acevedo MD,Consumer,USA,Port Andrewberg,Minnesota,84283,East,ORD-97011,2024-08-07,2024-08-10,Standard Class,PROD-0040,341.14,6,0.01,100.84,Office Supplies,Storage,Wind Storage
+193,CUST-0090,Jason Harris,Corporate,USA,Larsonmouth,Indiana,8442,West,ORD-97824,2024-09-07,2024-09-10,First Class,PROD-0040,911.86,3,0.28,243.81,Office Supplies,Storage,Wind Storage
+194,CUST-0271,Mathew Moore,Home Office,USA,Laurafurt,Michigan,51556,South,ORD-96486,2024-01-24,2024-01-25,First Class,PROD-0040,1858.31,7,0.13,300.39,Office Supplies,Storage,Wind Storage
+195,CUST-0209,Mark Harris,Corporate,USA,North Julieburgh,Connecticut,81451,South,ORD-55414,2024-08-09,2024-08-10,Second Class,PROD-0040,1212.34,7,0.26,122.65,Office Supplies,Storage,Wind Storage
+196,CUST-0095,Stacey Lee,Home Office,USA,Sanchezstad,Oregon,62355,East,ORD-56283,2025-02-14,2025-02-19,First Class,PROD-0040,810.26,4,0.16,150.89,Office Supplies,Storage,Wind Storage
+197,CUST-0080,Travis Perry DVM,Corporate,USA,Port Alexander,Georgia,72331,South,ORD-79057,2024-03-27,2024-03-31,First Class,PROD-0041,1607.04,1,0.1,156.08,Office Supplies,Appliances,By Appliances
+198,CUST-0040,Joshua Mcdowell,Home Office,USA,Katherineview,Georgia,27264,Central,ORD-94665,2025-06-12,2025-06-13,Same Day,PROD-0041,1610.01,5,0.14,300.37,Office Supplies,Appliances,By Appliances
+199,CUST-0068,Jack Murphy,Consumer,USA,North Alexa,Montana,97080,South,ORD-48628,2023-11-23,2023-11-24,Second Class,PROD-0041,47.82,8,0.22,13.58,Office Supplies,Appliances,By Appliances
+200,CUST-0157,Stephen Davis,Consumer,USA,Port Samanthaton,Idaho,98326,South,ORD-24655,2025-04-02,2025-04-08,First Class,PROD-0041,1883.23,6,0.01,251.49,Office Supplies,Appliances,By Appliances
+201,CUST-0076,Kristen Spencer,Corporate,USA,Beckerberg,Ohio,63673,West,ORD-58014,2023-11-30,2023-12-06,First Class,PROD-0041,1816.88,8,0.01,331.51,Office Supplies,Appliances,By Appliances
+202,CUST-0297,Andrew Johnson,Corporate,USA,East Mathewbury,New Mexico,51675,West,ORD-40318,2025-03-29,2025-04-06,Second Class,PROD-0041,1968.77,10,0.22,294.87,Office Supplies,Appliances,By Appliances
+203,CUST-0286,Raymond Gallagher,Corporate,USA,North Mikeview,Minnesota,78586,Central,ORD-60829,2024-04-18,2024-04-20,Standard Class,PROD-0042,222.24,7,0.18,20.62,Furniture,Furnishings,Beat Furnishings
+204,CUST-0219,Susan Bowman,Consumer,USA,Lake Joel,Vermont,65406,East,ORD-78554,2023-10-27,2023-11-02,First Class,PROD-0042,160.71,5,0.13,45.74,Furniture,Furnishings,Beat Furnishings
+205,CUST-0151,Robert Morris,Home Office,USA,Vaughnmouth,California,5584,South,ORD-16458,2024-02-17,2024-02-18,Second Class,PROD-0042,1563.83,8,0.12,295.51,Furniture,Furnishings,Beat Furnishings
+206,CUST-0238,Christina Jones,Consumer,USA,Tracyland,Arkansas,90030,East,ORD-47472,2025-07-19,2025-07-21,First Class,PROD-0042,1726.25,4,0.18,91.7,Furniture,Furnishings,Beat Furnishings
+207,CUST-0111,Miguel Grant,Corporate,USA,West Lori,Michigan,49160,Central,ORD-11593,2024-12-16,2024-12-25,Same Day,PROD-0042,1283.25,3,0.04,350.41,Furniture,Furnishings,Beat Furnishings
+208,CUST-0060,Mr. Tyler Stevens,Consumer,USA,Jamesville,Virginia,75189,West,ORD-15823,2024-05-01,2024-05-07,First Class,PROD-0042,1057.96,2,0.23,198.38,Furniture,Furnishings,Beat Furnishings
+209,CUST-0277,James Robinson,Consumer,USA,Johnsonport,Montana,55780,South,ORD-42404,2025-01-26,2025-01-28,Same Day,PROD-0042,382.9,5,0.16,81.38,Furniture,Furnishings,Beat Furnishings
+210,CUST-0076,Kristen Spencer,Corporate,USA,Beckerberg,Ohio,63673,West,ORD-93944,2025-03-01,2025-03-04,Standard Class,PROD-0043,1369.51,4,0.21,271.26,Furniture,Chairs,Employee Chairs
+211,CUST-0219,Susan Bowman,Consumer,USA,Lake Joel,Vermont,65406,East,ORD-39023,2024-05-18,2024-05-20,Standard Class,PROD-0043,241.24,10,0.19,51.16,Furniture,Chairs,Employee Chairs
+212,CUST-0299,Emily Rich,Home Office,USA,East Calebchester,New Jersey,74561,West,ORD-19196,2025-06-28,2025-07-07,First Class,PROD-0043,1381.69,8,0.02,299.22,Furniture,Chairs,Employee Chairs
+213,CUST-0020,Jill George,Corporate,USA,East Michaelstad,Louisiana,32584,Central,ORD-59603,2024-04-11,2024-04-21,First Class,PROD-0043,1913.23,8,0.27,470.28,Furniture,Chairs,Employee Chairs
+214,CUST-0265,Jennifer Lowe,Home Office,USA,Caseyport,Mississippi,41132,West,ORD-72390,2023-12-20,2023-12-23,Second Class,PROD-0044,1017.72,4,0.29,126.72,Office Supplies,Appliances,Practice Appliances
+215,CUST-0068,Jack Murphy,Consumer,USA,North Alexa,Montana,97080,South,ORD-82932,2023-10-29,2023-10-30,Same Day,PROD-0044,1827.37,10,0.14,109.87,Office Supplies,Appliances,Practice Appliances
+216,CUST-0032,Brian Romero,Corporate,USA,Morseside,Indiana,38293,West,ORD-16541,2025-03-17,2025-03-20,Same Day,PROD-0044,73.27,2,0.16,8.86,Office Supplies,Appliances,Practice Appliances
+217,CUST-0096,Bradley Mitchell,Consumer,USA,Justinborough,Georgia,45076,East,ORD-29213,2024-07-19,2024-07-29,Standard Class,PROD-0044,1108.7,10,0.22,186.44,Office Supplies,Appliances,Practice Appliances
+218,CUST-0162,Julie Daniels,Consumer,USA,Romerofort,Texas,70861,South,ORD-11328,2024-06-01,2024-06-04,Same Day,PROD-0045,1419.59,2,0.11,340.45,Furniture,Tables,Actually Tables
+219,CUST-0292,Stephanie Ryan,Home Office,USA,Masonberg,Illinois,20079,West,ORD-49630,2025-07-20,2025-07-29,Second Class,PROD-0045,1771.25,3,0.24,264.43,Furniture,Tables,Actually Tables
+220,CUST-0059,Gary Buck,Home Office,USA,Littlefort,Tennessee,20705,South,ORD-92594,2025-07-16,2025-07-18,Standard Class,PROD-0045,1604.07,5,0.12,115.77,Furniture,Tables,Actually Tables
+221,CUST-0234,Patrick Mooney,Home Office,USA,East Timothy,Kansas,85093,Central,ORD-50127,2024-04-16,2024-04-23,Standard Class,PROD-0046,317.13,1,0.24,49.26,Technology,Accessories,Message Accessories
+222,CUST-0095,Stacey Lee,Home Office,USA,Sanchezstad,Oregon,62355,East,ORD-43221,2024-11-12,2024-11-15,First Class,PROD-0046,729.5,3,0.16,171.85,Technology,Accessories,Message Accessories
+223,CUST-0214,Jessica Kennedy,Consumer,USA,Amychester,Indiana,52650,South,ORD-85939,2023-09-15,2023-09-19,Standard Class,PROD-0046,751.05,9,0.23,107.11,Technology,Accessories,Message Accessories
+224,CUST-0112,Andrew Rodriguez,Corporate,USA,Jerryton,Utah,28268,East,ORD-26247,2024-01-15,2024-01-17,Same Day,PROD-0046,1681.18,8,0.3,470.82,Technology,Accessories,Message Accessories
+225,CUST-0194,Margaret Cochran,Corporate,USA,West Peterton,South Carolina,87878,West,ORD-78506,2024-12-26,2024-12-28,Second Class,PROD-0046,726.7,10,0.01,196.77,Technology,Accessories,Message Accessories
+226,CUST-0107,Kyle Murray,Corporate,USA,Munozburgh,Alaska,8586,Central,ORD-56140,2024-11-19,2024-11-29,Second Class,PROD-0046,513.18,6,0.13,128.64,Technology,Accessories,Message Accessories
+227,CUST-0281,Sherri Perez,Home Office,USA,Rodriguezchester,Virginia,666,South,ORD-75813,2025-07-18,2025-07-24,Second Class,PROD-0046,1524.72,2,0.21,162.54,Technology,Accessories,Message Accessories
+228,CUST-0055,Lauren Silva,Corporate,USA,West Tina,North Dakota,98841,Central,ORD-79417,2024-06-10,2024-06-19,Standard Class,PROD-0047,1555.62,10,0.2,220.43,Office Supplies,Paper,Huge Paper
+229,CUST-0257,Dr. Natalie Johnson,Home Office,USA,East Jeffrey,Massachusetts,48900,West,ORD-51861,2024-08-15,2024-08-20,First Class,PROD-0047,1988.24,10,0.24,319.36,Office Supplies,Paper,Huge Paper
+230,CUST-0022,Nancy Stevenson,Consumer,USA,Lake Aimee,Massachusetts,45310,Central,ORD-23026,2024-07-30,2024-08-02,Standard Class,PROD-0047,968.64,4,0.11,67.57,Office Supplies,Paper,Huge Paper
+231,CUST-0197,Cynthia Parker,Corporate,USA,Debrabury,Maine,25438,Central,ORD-35357,2025-03-09,2025-03-12,Second Class,PROD-0047,1562.21,8,0.04,386.1,Office Supplies,Paper,Huge Paper
+232,CUST-0266,Andrew Garcia,Consumer,USA,South Kristinberg,Mississippi,81279,South,ORD-45427,2025-07-12,2025-07-13,Second Class,PROD-0047,982.45,2,0.01,287.93,Office Supplies,Paper,Huge Paper
+233,CUST-0160,Angela Robbins,Home Office,USA,Herrerafurt,Rhode Island,53721,South,ORD-70160,2024-07-26,2024-07-27,Standard Class,PROD-0047,104.53,3,0.27,11.84,Office Supplies,Paper,Huge Paper
+234,CUST-0155,Justin Hull,Consumer,USA,New Alexismouth,Hawaii,48036,West,ORD-54339,2025-01-21,2025-01-23,Second Class,PROD-0048,1528.24,6,0.04,374.54,Furniture,Bookcases,Imagine Bookcases
+235,CUST-0212,Beth Lopez,Home Office,USA,West Troyshire,Illinois,14711,West,ORD-50605,2024-12-11,2024-12-20,Standard Class,PROD-0048,1855.78,2,0.15,278.29,Furniture,Bookcases,Imagine Bookcases
+236,CUST-0060,Mr. Tyler Stevens,Consumer,USA,Jamesville,Virginia,75189,West,ORD-64637,2025-01-19,2025-01-29,Standard Class,PROD-0048,1727.33,1,0.08,287.31,Furniture,Bookcases,Imagine Bookcases
+237,CUST-0081,Michelle Wilson,Home Office,USA,East Michelle,Minnesota,32955,Central,ORD-61176,2025-07-05,2025-07-10,Standard Class,PROD-0049,1247.69,9,0.18,131.6,Furniture,Bookcases,Find Bookcases
+238,CUST-0287,Richard Padilla,Consumer,USA,Lake Kevin,New York,16657,East,ORD-16544,2024-10-25,2024-11-02,First Class,PROD-0049,1981.22,8,0.15,142.65,Furniture,Bookcases,Find Bookcases
+239,CUST-0013,Brooke Farley,Corporate,USA,North Felicia,Arizona,81714,South,ORD-68901,2024-03-07,2024-03-11,First Class,PROD-0049,764.38,6,0.02,156.57,Furniture,Bookcases,Find Bookcases
+240,CUST-0184,Michael Drake,Corporate,USA,East Tracy,Ohio,28538,Central,ORD-57497,2025-04-07,2025-04-11,Same Day,PROD-0049,1801.19,3,0.14,209.34,Furniture,Bookcases,Find Bookcases
+241,CUST-0071,Dustin Meyers,Home Office,USA,New Chase,West Virginia,12179,South,ORD-12998,2023-12-24,2023-12-27,Standard Class,PROD-0049,1486.29,9,0.22,355.42,Furniture,Bookcases,Find Bookcases
+242,CUST-0252,Scott Johnson DVM,Home Office,USA,Davischester,Montana,94361,East,ORD-40628,2024-10-12,2024-10-19,Second Class,PROD-0050,1971.63,2,0.06,318.52,Furniture,Furnishings,Everybody Furnishings
+243,CUST-0194,Margaret Cochran,Corporate,USA,West Peterton,South Carolina,87878,West,ORD-42772,2024-04-19,2024-04-20,Same Day,PROD-0050,243.83,3,0.04,32.83,Furniture,Furnishings,Everybody Furnishings
+244,CUST-0115,Jennifer Williams,Home Office,USA,Hillton,West Virginia,39563,South,ORD-73920,2023-12-30,2024-01-04,Same Day,PROD-0051,696.19,1,0.03,123.69,Office Supplies,Paper,Bar Paper
+245,CUST-0096,Bradley Mitchell,Consumer,USA,Justinborough,Georgia,45076,East,ORD-66945,2025-06-07,2025-06-15,Standard Class,PROD-0051,1628.77,3,0.03,341.02,Office Supplies,Paper,Bar Paper
+246,CUST-0126,Timothy Valentine,Corporate,USA,Jonathanland,Montana,86636,East,ORD-88602,2025-08-11,2025-08-13,Same Day,PROD-0052,213.96,7,0.17,40.01,Technology,Phones,Protect Phones
+247,CUST-0126,Timothy Valentine,Corporate,USA,Jonathanland,Montana,86636,East,ORD-11798,2023-12-23,2023-12-31,Standard Class,PROD-0052,522.2,4,0.27,40.75,Technology,Phones,Protect Phones
+248,CUST-0008,Robert Stein,Consumer,USA,Port Earl,Arkansas,31545,East,ORD-63454,2024-06-20,2024-06-26,Same Day,PROD-0052,542.49,7,0.13,45.44,Technology,Phones,Protect Phones
+249,CUST-0179,Matthew Walker,Corporate,USA,New Amy,Alaska,9544,East,ORD-85104,2023-09-28,2023-09-29,Second Class,PROD-0052,476.35,5,0.03,54.01,Technology,Phones,Protect Phones
+250,CUST-0074,Ashley Garza MD,Home Office,USA,East Daniel,Missouri,6904,West,ORD-93270,2024-03-15,2024-03-21,First Class,PROD-0052,506.89,10,0.11,147.01,Technology,Phones,Protect Phones
+251,CUST-0171,Carol Ryan,Consumer,USA,Colefurt,Kansas,64868,East,ORD-73047,2024-11-21,2024-11-25,Second Class,PROD-0053,59.5,1,0.21,6.86,Office Supplies,Appliances,Outside Appliances
+252,CUST-0171,Carol Ryan,Consumer,USA,Colefurt,Kansas,64868,East,ORD-72218,2024-10-03,2024-10-12,Standard Class,PROD-0053,1180.14,2,0.19,68.93,Office Supplies,Appliances,Outside Appliances
+253,CUST-0161,Wanda Ramirez,Corporate,USA,Darrylmouth,Michigan,16794,East,ORD-31312,2023-10-23,2023-10-29,Standard Class,PROD-0053,1991.14,10,0.09,444.99,Office Supplies,Appliances,Outside Appliances
+254,CUST-0007,Jennifer Elliott,Corporate,USA,East Kevin,Rhode Island,59765,East,ORD-28360,2024-06-30,2024-07-01,First Class,PROD-0054,1124.53,10,0.26,178.35,Office Supplies,Appliances,Until Appliances
+255,CUST-0242,Jennifer Townsend,Corporate,USA,New Joseph,Idaho,90019,Central,ORD-27277,2025-04-02,2025-04-07,First Class,PROD-0054,1524.44,10,0.27,269.15,Office Supplies,Appliances,Until Appliances
+256,CUST-0140,Jared Mitchell,Corporate,USA,Brownville,New Hampshire,50298,East,ORD-31718,2025-04-27,2025-04-29,Same Day,PROD-0054,1403.48,5,0.13,81.78,Office Supplies,Appliances,Until Appliances
+257,CUST-0152,Jonathan Bean,Corporate,USA,Petersonfort,South Carolina,78658,Central,ORD-51416,2025-08-21,2025-08-25,Same Day,PROD-0054,865.1,7,0.04,51.87,Office Supplies,Appliances,Until Appliances
+258,CUST-0100,Patricia Smith,Home Office,USA,Lake Eric,New Jersey,57678,East,ORD-57153,2025-08-19,2025-08-22,First Class,PROD-0054,909.54,2,0.08,62.72,Office Supplies,Appliances,Until Appliances
+259,CUST-0162,Julie Daniels,Consumer,USA,Romerofort,Texas,70861,South,ORD-58315,2025-02-09,2025-02-12,Standard Class,PROD-0054,1762.06,8,0.25,154.33,Office Supplies,Appliances,Until Appliances
+260,CUST-0069,Robert Robertson,Corporate,USA,Stephenshire,Arkansas,8568,East,ORD-88816,2025-04-30,2025-05-05,Standard Class,PROD-0054,160.75,10,0.29,34.45,Office Supplies,Appliances,Until Appliances
+261,CUST-0225,Anthony Jones,Consumer,USA,Blackport,West Virginia,31767,Central,ORD-84424,2024-12-12,2024-12-21,Second Class,PROD-0055,1054.11,8,0.09,290.81,Office Supplies,Binders,Father Binders
+262,CUST-0299,Emily Rich,Home Office,USA,East Calebchester,New Jersey,74561,West,ORD-74508,2024-09-02,2024-09-06,Standard Class,PROD-0055,1686.27,1,0.29,173.31,Office Supplies,Binders,Father Binders
+263,CUST-0058,Richard Chavez,Consumer,USA,New Daniel,Iowa,45803,East,ORD-13650,2025-05-17,2025-05-20,Standard Class,PROD-0055,1437.43,7,0.29,311.27,Office Supplies,Binders,Father Binders
+264,CUST-0202,Carlos Campbell,Consumer,USA,Riveraville,Kentucky,9299,West,ORD-34350,2025-01-22,2025-01-28,Standard Class,PROD-0055,1235.77,4,0.08,136.17,Office Supplies,Binders,Father Binders
+265,CUST-0118,Steven Arnold,Home Office,USA,Lake Jamesshire,New York,44720,West,ORD-95750,2024-07-09,2024-07-10,First Class,PROD-0056,1601.64,10,0.06,330.95,Technology,Accessories,Cultural Accessories
+266,CUST-0285,Ryan Farmer,Corporate,USA,Johnland,Mississippi,58387,East,ORD-51905,2024-06-30,2024-07-05,Same Day,PROD-0056,46.54,10,0.04,13.59,Technology,Accessories,Cultural Accessories
+267,CUST-0119,Shane Trevino,Home Office,USA,East Tina,New Jersey,66342,West,ORD-28685,2024-06-04,2024-06-11,Standard Class,PROD-0056,1788.81,7,0.23,105.61,Technology,Accessories,Cultural Accessories
+268,CUST-0299,Emily Rich,Home Office,USA,East Calebchester,New Jersey,74561,West,ORD-58469,2024-03-27,2024-03-30,Second Class,PROD-0056,35.48,1,0.02,7.93,Technology,Accessories,Cultural Accessories
+269,CUST-0021,Mark Gonzales,Home Office,USA,Dakotastad,Nevada,61885,South,ORD-85821,2024-10-06,2024-10-09,Same Day,PROD-0056,1082.74,3,0.23,100.83,Technology,Accessories,Cultural Accessories
+270,CUST-0028,Gary Gutierrez,Corporate,USA,Frederickville,Wisconsin,29660,West,ORD-75221,2023-10-23,2023-10-30,First Class,PROD-0056,20.74,1,0.19,5.62,Technology,Accessories,Cultural Accessories
+271,CUST-0016,Dr. Mary Andersen MD,Corporate,USA,Port Sarahmouth,Pennsylvania,78603,Central,ORD-10718,2024-04-11,2024-04-12,Same Day,PROD-0056,814.28,3,0.29,108.95,Technology,Accessories,Cultural Accessories
+272,CUST-0203,Stephanie Yoder,Corporate,USA,Tuckerton,Hawaii,30340,Central,ORD-47134,2025-01-27,2025-01-31,Same Day,PROD-0057,1035.3,2,0.15,250.58,Technology,Accessories,Stop Accessories
+273,CUST-0167,Henry Wagner,Consumer,USA,Port James,Ohio,86289,East,ORD-79570,2023-09-28,2023-09-29,Second Class,PROD-0057,114.64,4,0.07,25.85,Technology,Accessories,Stop Accessories
+274,CUST-0204,Tammy Rodriguez,Corporate,USA,Heathershire,Missouri,2661,East,ORD-32191,2025-05-14,2025-05-23,First Class,PROD-0057,471.09,1,0.01,86.48,Technology,Accessories,Stop Accessories
+275,CUST-0131,Cassandra Brown,Home Office,USA,Lake Ryanton,Florida,43130,East,ORD-92987,2023-12-25,2024-01-02,First Class,PROD-0058,1957.83,4,0.05,562.51,Office Supplies,Binders,Hot Binders
+276,CUST-0099,Kevin Woods,Consumer,USA,Port Clintonside,Montana,54615,Central,ORD-64532,2025-04-12,2025-04-16,Same Day,PROD-0058,59.07,3,0.17,14.5,Office Supplies,Binders,Hot Binders
+277,CUST-0135,Mark Lamb,Consumer,USA,South Evelyn,Alabama,97406,West,ORD-20003,2025-06-07,2025-06-11,Standard Class,PROD-0058,23.81,7,0.1,2.55,Office Supplies,Binders,Hot Binders
+278,CUST-0169,Sean Turner,Home Office,USA,West Rickyfort,Alaska,25485,West,ORD-80062,2025-01-12,2025-01-16,Second Class,PROD-0058,1927.45,10,0.18,420.33,Office Supplies,Binders,Hot Binders
+279,CUST-0248,Kayla Oliver,Corporate,USA,Joshuabury,Maryland,48574,East,ORD-84020,2024-10-14,2024-10-17,First Class,PROD-0058,112.38,1,0.29,25.18,Office Supplies,Binders,Hot Binders
+280,CUST-0212,Beth Lopez,Home Office,USA,West Troyshire,Illinois,14711,West,ORD-82322,2024-04-17,2024-04-25,Same Day,PROD-0058,1433.79,6,0.1,184.87,Office Supplies,Binders,Hot Binders
+281,CUST-0265,Jennifer Lowe,Home Office,USA,Caseyport,Mississippi,41132,West,ORD-13198,2025-05-23,2025-05-31,Second Class,PROD-0059,1810.28,1,0.13,200.14,Office Supplies,Binders,Eat Binders
+282,CUST-0102,Kristin Beasley,Home Office,USA,North Scott,South Carolina,35696,South,ORD-61692,2024-07-11,2024-07-17,Second Class,PROD-0059,1275.74,4,0.09,319.79,Office Supplies,Binders,Eat Binders
+283,CUST-0183,Michelle Kennedy,Consumer,USA,East Christianberg,New Jersey,78006,West,ORD-20617,2024-08-08,2024-08-10,Second Class,PROD-0059,1796.05,6,0.08,510.16,Office Supplies,Binders,Eat Binders
+284,CUST-0058,Richard Chavez,Consumer,USA,New Daniel,Iowa,45803,East,ORD-44655,2024-12-04,2024-12-11,Standard Class,PROD-0059,1921.08,1,0.09,282.64,Office Supplies,Binders,Eat Binders
+285,CUST-0234,Patrick Mooney,Home Office,USA,East Timothy,Kansas,85093,Central,ORD-27669,2023-09-07,2023-09-13,Standard Class,PROD-0059,1064.24,6,0.26,215.26,Office Supplies,Binders,Eat Binders
+286,CUST-0145,Terri Macdonald,Corporate,USA,South Megan,Nebraska,30179,East,ORD-83521,2024-08-05,2024-08-08,Standard Class,PROD-0059,1429.86,4,0.13,378.25,Office Supplies,Binders,Eat Binders
+287,CUST-0072,Tina Washington,Corporate,USA,Berryburgh,Idaho,13854,West,ORD-95806,2025-03-04,2025-03-05,Standard Class,PROD-0060,1919.1,8,0.18,455.45,Furniture,Chairs,Usually Chairs
+288,CUST-0084,Jay Thompson,Corporate,USA,Patrickmouth,Massachusetts,68044,Central,ORD-56004,2024-08-04,2024-08-14,Same Day,PROD-0060,845.13,4,0.06,136.92,Furniture,Chairs,Usually Chairs
+289,CUST-0066,David Castillo,Corporate,USA,Michaelhaven,Louisiana,29376,West,ORD-10281,2024-04-03,2024-04-04,First Class,PROD-0060,990.34,8,0.17,199.45,Furniture,Chairs,Usually Chairs
+290,CUST-0077,John Thompson,Corporate,USA,Lake Bradleychester,Ohio,70758,Central,ORD-65884,2023-12-19,2023-12-25,First Class,PROD-0060,1297.45,8,0.05,136.86,Furniture,Chairs,Usually Chairs
+291,CUST-0240,Samantha Bennett,Consumer,USA,East Jennifer,Kansas,30466,West,ORD-17455,2025-05-16,2025-05-26,First Class,PROD-0060,405.17,7,0.25,28.44,Furniture,Chairs,Usually Chairs
+292,CUST-0267,Alexis Taylor,Home Office,USA,Hintonland,Kansas,26875,West,ORD-88069,2023-12-26,2024-01-02,Same Day,PROD-0060,1760.89,5,0.21,154.75,Furniture,Chairs,Usually Chairs
+293,CUST-0036,Joseph Molina MD,Home Office,USA,Christopherview,Florida,80450,East,ORD-58083,2024-01-22,2024-01-28,Second Class,PROD-0060,1358.64,3,0.07,347.34,Furniture,Chairs,Usually Chairs
+294,CUST-0016,Dr. Mary Andersen MD,Corporate,USA,Port Sarahmouth,Pennsylvania,78603,Central,ORD-36536,2024-11-17,2024-11-20,First Class,PROD-0060,1956.1,8,0.15,247.7,Furniture,Chairs,Usually Chairs
+295,CUST-0078,Nathan Bryant,Home Office,USA,Port Anthony,Louisiana,50357,East,ORD-98212,2025-03-21,2025-03-24,Same Day,PROD-0060,340.49,3,0.21,94.66,Furniture,Chairs,Usually Chairs
+296,CUST-0021,Mark Gonzales,Home Office,USA,Dakotastad,Nevada,61885,South,ORD-38783,2025-06-27,2025-07-06,Same Day,PROD-0061,605.27,6,0.03,180.33,Technology,Phones,Style Phones
+297,CUST-0133,Charles Hughes,Corporate,USA,Nathanchester,Delaware,53183,West,ORD-58822,2024-09-28,2024-10-08,Second Class,PROD-0061,1565.27,8,0.21,90.48,Technology,Phones,Style Phones
+298,CUST-0026,Kayla Carpenter,Home Office,USA,New Sabrina,Arizona,11909,East,ORD-20030,2025-05-20,2025-05-24,Same Day,PROD-0061,330.63,7,0.19,40.11,Technology,Phones,Style Phones
+299,CUST-0044,Susan Ward,Corporate,USA,New Elizabethside,Minnesota,38535,West,ORD-10225,2024-11-30,2024-12-05,First Class,PROD-0061,1747.73,2,0.16,202.98,Technology,Phones,Style Phones
+300,CUST-0188,Jay Stein,Consumer,USA,East Gabrielmouth,Pennsylvania,91092,East,ORD-92965,2024-01-23,2024-02-01,Second Class,PROD-0061,640.46,7,0.19,137.99,Technology,Phones,Style Phones
+301,CUST-0005,Daniel Meyer,Home Office,USA,Lake Sharonborough,New Jersey,96149,Central,ORD-99267,2024-10-03,2024-10-13,Standard Class,PROD-0061,1517.54,9,0.21,300.32,Technology,Phones,Style Phones
+302,CUST-0074,Ashley Garza MD,Home Office,USA,East Daniel,Missouri,6904,West,ORD-52165,2023-08-31,2023-09-07,Second Class,PROD-0061,1027.65,2,0.05,67.19,Technology,Phones,Style Phones
+303,CUST-0246,William Williams,Corporate,USA,South Larryshire,New York,37878,Central,ORD-49351,2024-04-30,2024-05-08,Same Day,PROD-0061,1501.03,7,0.03,443.76,Technology,Phones,Style Phones
+304,CUST-0083,Chad Rodriguez,Consumer,USA,South Pamela,Arkansas,70085,East,ORD-88554,2024-04-04,2024-04-05,Same Day,PROD-0061,655.06,4,0.11,54.09,Technology,Phones,Style Phones
+305,CUST-0219,Susan Bowman,Consumer,USA,Lake Joel,Vermont,65406,East,ORD-37793,2023-12-21,2023-12-26,Standard Class,PROD-0061,299.91,4,0.09,77.99,Technology,Phones,Style Phones
+306,CUST-0044,Susan Ward,Corporate,USA,New Elizabethside,Minnesota,38535,West,ORD-90970,2024-02-07,2024-02-09,Same Day,PROD-0062,1307.38,3,0.05,381.28,Office Supplies,Appliances,Way Appliances
+307,CUST-0049,Daniel May,Corporate,USA,Kiddtown,Kentucky,44709,Central,ORD-98802,2023-12-11,2023-12-14,Second Class,PROD-0062,1425.75,8,0.0,286.45,Office Supplies,Appliances,Way Appliances
+308,CUST-0103,Patricia Davis,Corporate,USA,Willisfurt,Iowa,58965,West,ORD-28766,2024-03-01,2024-03-03,Second Class,PROD-0062,1954.9,8,0.25,145.55,Office Supplies,Appliances,Way Appliances
+309,CUST-0039,Susan Brown,Consumer,USA,Maymouth,Colorado,4924,Central,ORD-24451,2023-11-14,2023-11-22,Standard Class,PROD-0062,1161.86,2,0.28,276.7,Office Supplies,Appliances,Way Appliances
+310,CUST-0040,Joshua Mcdowell,Home Office,USA,Katherineview,Georgia,27264,Central,ORD-65047,2023-09-02,2023-09-06,Second Class,PROD-0062,1394.97,1,0.28,367.02,Office Supplies,Appliances,Way Appliances
+311,CUST-0073,Matthew Ramirez,Home Office,USA,West Johnathanton,New York,87561,East,ORD-13802,2024-04-14,2024-04-20,Same Day,PROD-0062,1804.97,8,0.05,320.32,Office Supplies,Appliances,Way Appliances
+312,CUST-0249,Joseph Young,Corporate,USA,Charlesland,Oregon,24523,West,ORD-60954,2024-10-20,2024-10-24,Same Day,PROD-0062,1649.88,4,0.05,344.02,Office Supplies,Appliances,Way Appliances
+313,CUST-0125,Jesus Kidd,Consumer,USA,North Thomas,South Carolina,75420,East,ORD-83241,2025-03-09,2025-03-10,Standard Class,PROD-0063,706.85,5,0.09,193.84,Furniture,Furnishings,Past Furnishings
+314,CUST-0234,Patrick Mooney,Home Office,USA,East Timothy,Kansas,85093,Central,ORD-73550,2025-01-24,2025-01-26,Standard Class,PROD-0063,937.16,8,0.23,141.89,Furniture,Furnishings,Past Furnishings
+315,CUST-0215,Tammy Silva,Corporate,USA,Lake Margaretmouth,Florida,27573,Central,ORD-20628,2024-02-01,2024-02-11,Standard Class,PROD-0063,1636.81,4,0.29,481.99,Furniture,Furnishings,Past Furnishings
+316,CUST-0160,Angela Robbins,Home Office,USA,Herrerafurt,Rhode Island,53721,South,ORD-36891,2024-11-29,2024-12-08,Standard Class,PROD-0063,1465.26,5,0.07,184.12,Furniture,Furnishings,Past Furnishings
+317,CUST-0015,Jennifer Waters,Corporate,USA,Jacksonburgh,Maine,2329,South,ORD-80420,2023-08-24,2023-09-02,Standard Class,PROD-0063,587.23,4,0.22,32.24,Furniture,Furnishings,Past Furnishings
+318,CUST-0050,Preston Anderson,Corporate,USA,Carrieport,South Carolina,56153,West,ORD-81954,2024-04-20,2024-04-29,Same Day,PROD-0063,200.06,6,0.11,19.24,Furniture,Furnishings,Past Furnishings
+319,CUST-0197,Cynthia Parker,Corporate,USA,Debrabury,Maine,25438,Central,ORD-91839,2024-12-19,2024-12-22,Second Class,PROD-0063,1324.08,1,0.19,311.5,Furniture,Furnishings,Past Furnishings
+320,CUST-0289,Jennifer Williams,Corporate,USA,West Dennis,Delaware,53584,South,ORD-92319,2024-11-21,2024-11-26,Same Day,PROD-0064,833.39,10,0.04,229.38,Technology,Copiers,Me Copiers
+321,CUST-0190,Brian Campos,Corporate,USA,East Melindaton,Kentucky,56709,West,ORD-56997,2025-04-06,2025-04-14,Same Day,PROD-0064,24.7,5,0.28,5.37,Technology,Copiers,Me Copiers
+322,CUST-0092,Louis Roberts,Corporate,USA,South Caleb,Tennessee,80043,Central,ORD-91244,2024-06-05,2024-06-06,Second Class,PROD-0064,1359.55,7,0.12,398.7,Technology,Copiers,Me Copiers
+323,CUST-0136,Robert Willis,Consumer,USA,Annetteview,Maine,38743,Central,ORD-54824,2025-05-21,2025-05-28,First Class,PROD-0064,72.26,7,0.15,8.94,Technology,Copiers,Me Copiers
+324,CUST-0294,Nicolas Melendez,Corporate,USA,Tracybury,Delaware,67369,West,ORD-43989,2025-06-18,2025-06-28,Same Day,PROD-0065,1767.67,6,0.17,295.49,Furniture,Furnishings,Decision Furnishings
+325,CUST-0069,Robert Robertson,Corporate,USA,Stephenshire,Arkansas,8568,East,ORD-48687,2024-08-26,2024-09-04,Second Class,PROD-0065,1892.47,3,0.05,493.78,Furniture,Furnishings,Decision Furnishings
+326,CUST-0108,Tammy Valdez,Corporate,USA,North Jerry,Nevada,33852,West,ORD-96758,2023-10-16,2023-10-23,First Class,PROD-0065,1582.5,8,0.06,281.63,Furniture,Furnishings,Decision Furnishings
+327,CUST-0227,Jordan Andrade,Corporate,USA,Carrilloville,Pennsylvania,89425,South,ORD-28238,2024-06-03,2024-06-12,Second Class,PROD-0065,1281.23,3,0.28,172.92,Furniture,Furnishings,Decision Furnishings
+328,CUST-0008,Robert Stein,Consumer,USA,Port Earl,Arkansas,31545,East,ORD-42259,2024-09-22,2024-10-02,First Class,PROD-0065,1547.59,6,0.12,448.67,Furniture,Furnishings,Decision Furnishings
+329,CUST-0132,Emily Rodriguez,Home Office,USA,Simmonsshire,Arizona,40611,East,ORD-71246,2024-03-11,2024-03-12,Second Class,PROD-0065,877.88,6,0.22,215.44,Furniture,Furnishings,Decision Furnishings
+330,CUST-0006,Daniel French,Home Office,USA,North Alyssa,Indiana,39335,West,ORD-92439,2023-12-07,2023-12-11,Second Class,PROD-0065,625.76,6,0.14,66.42,Furniture,Furnishings,Decision Furnishings
+331,CUST-0154,Anthony Paul,Home Office,USA,Valerieborough,Idaho,56040,South,ORD-38775,2025-02-22,2025-03-03,Standard Class,PROD-0065,976.8,4,0.05,75.91,Furniture,Furnishings,Decision Furnishings
+332,CUST-0050,Preston Anderson,Corporate,USA,Carrieport,South Carolina,56153,West,ORD-35711,2024-12-27,2025-01-05,Same Day,PROD-0065,959.72,9,0.27,206.38,Furniture,Furnishings,Decision Furnishings
+333,CUST-0204,Tammy Rodriguez,Corporate,USA,Heathershire,Missouri,2661,East,ORD-76157,2023-10-26,2023-10-31,Second Class,PROD-0066,1380.67,5,0.29,102.97,Furniture,Chairs,Group Chairs
+334,CUST-0182,Stacy Walker,Home Office,USA,West Chad,New York,62513,Central,ORD-51196,2024-04-21,2024-04-24,Second Class,PROD-0066,477.09,1,0.04,82.72,Furniture,Chairs,Group Chairs
+335,CUST-0225,Anthony Jones,Consumer,USA,Blackport,West Virginia,31767,Central,ORD-84522,2024-12-09,2024-12-13,Standard Class,PROD-0067,66.72,7,0.07,10.48,Technology,Accessories,Company Accessories
+336,CUST-0166,Nancy Santana,Home Office,USA,East Stephanie,New Jersey,23970,East,ORD-81754,2024-12-21,2024-12-26,Second Class,PROD-0067,1050.06,7,0.05,182.51,Technology,Accessories,Company Accessories
+337,CUST-0222,Kimberly Kelly,Home Office,USA,New Davidbury,Nebraska,48871,South,ORD-12585,2025-03-01,2025-03-05,First Class,PROD-0067,1619.58,8,0.05,184.31,Technology,Accessories,Company Accessories
+338,CUST-0270,Jessica Lopez,Corporate,USA,Fosterton,Washington,71397,South,ORD-98454,2025-02-18,2025-02-21,Second Class,PROD-0067,1766.15,5,0.09,522.63,Technology,Accessories,Company Accessories
+339,CUST-0188,Jay Stein,Consumer,USA,East Gabrielmouth,Pennsylvania,91092,East,ORD-40645,2024-01-25,2024-01-29,Standard Class,PROD-0067,1413.79,5,0.03,103.94,Technology,Accessories,Company Accessories
+340,CUST-0182,Stacy Walker,Home Office,USA,West Chad,New York,62513,Central,ORD-66930,2024-10-17,2024-10-25,Second Class,PROD-0068,1271.91,10,0.16,233.98,Technology,Phones,Sign Phones
+341,CUST-0198,Robert Anderson,Corporate,USA,Jordanberg,Kentucky,59946,South,ORD-64909,2025-05-30,2025-06-07,Second Class,PROD-0068,919.52,8,0.16,127.34,Technology,Phones,Sign Phones
+342,CUST-0214,Jessica Kennedy,Consumer,USA,Amychester,Indiana,52650,South,ORD-47078,2025-02-14,2025-02-24,First Class,PROD-0068,972.87,2,0.01,253.73,Technology,Phones,Sign Phones
+343,CUST-0280,Jeffrey Holmes,Home Office,USA,East Thomas,Massachusetts,72460,Central,ORD-62477,2025-02-26,2025-03-01,Second Class,PROD-0068,1224.45,4,0.01,159.28,Technology,Phones,Sign Phones
+344,CUST-0280,Jeffrey Holmes,Home Office,USA,East Thomas,Massachusetts,72460,Central,ORD-93869,2024-03-14,2024-03-22,Same Day,PROD-0069,271.45,5,0.29,28.52,Office Supplies,Paper,Themselves Paper
+345,CUST-0188,Jay Stein,Consumer,USA,East Gabrielmouth,Pennsylvania,91092,East,ORD-51674,2025-01-28,2025-01-29,Standard Class,PROD-0069,1865.6,2,0.15,205.35,Office Supplies,Paper,Themselves Paper
+346,CUST-0075,Angela Ochoa,Consumer,USA,New Tami,Florida,77175,West,ORD-51450,2025-05-13,2025-05-16,Second Class,PROD-0069,925.38,10,0.25,62.92,Office Supplies,Paper,Themselves Paper
+347,CUST-0241,Mark Hale,Corporate,USA,East Josephberg,Connecticut,34922,West,ORD-94011,2024-02-09,2024-02-12,First Class,PROD-0069,1653.6,5,0.15,147.9,Office Supplies,Paper,Themselves Paper
+348,CUST-0112,Andrew Rodriguez,Corporate,USA,Jerryton,Utah,28268,East,ORD-78577,2025-03-02,2025-03-11,First Class,PROD-0070,1651.37,7,0.12,131.93,Office Supplies,Paper,Performance Paper
+349,CUST-0063,Virginia Frazier,Corporate,USA,Dixonberg,Wisconsin,65661,West,ORD-22355,2025-05-09,2025-05-19,First Class,PROD-0070,1918.01,1,0.19,223.54,Office Supplies,Paper,Performance Paper
+350,CUST-0211,Julie Hester,Corporate,USA,Matthewsview,Wyoming,14418,West,ORD-94479,2024-04-06,2024-04-14,Second Class,PROD-0071,1826.55,4,0.18,391.81,Technology,Copiers,Policy Copiers
+351,CUST-0092,Louis Roberts,Corporate,USA,South Caleb,Tennessee,80043,Central,ORD-22204,2024-10-19,2024-10-24,Standard Class,PROD-0071,867.97,6,0.07,215.78,Technology,Copiers,Policy Copiers
+352,CUST-0053,Vicki Lopez,Corporate,USA,East Debbie,California,20175,East,ORD-80688,2025-08-03,2025-08-11,Same Day,PROD-0071,858.47,4,0.1,89.66,Technology,Copiers,Policy Copiers
+353,CUST-0083,Chad Rodriguez,Consumer,USA,South Pamela,Arkansas,70085,East,ORD-31319,2023-09-16,2023-09-22,Standard Class,PROD-0072,624.36,7,0.16,36.12,Technology,Copiers,Improve Copiers
+354,CUST-0187,Herbert Chavez,Consumer,USA,Mortonmouth,Nevada,61592,South,ORD-32107,2024-03-15,2024-03-24,First Class,PROD-0072,1188.66,3,0.07,275.47,Technology,Copiers,Improve Copiers
+355,CUST-0169,Sean Turner,Home Office,USA,West Rickyfort,Alaska,25485,West,ORD-20268,2024-09-11,2024-09-20,Same Day,PROD-0072,1335.7,8,0.1,132.04,Technology,Copiers,Improve Copiers
+356,CUST-0020,Jill George,Corporate,USA,East Michaelstad,Louisiana,32584,Central,ORD-15030,2024-10-01,2024-10-07,First Class,PROD-0073,1956.81,7,0.21,560.8,Technology,Phones,Experience Phones
+357,CUST-0289,Jennifer Williams,Corporate,USA,West Dennis,Delaware,53584,South,ORD-55920,2023-10-23,2023-11-01,Standard Class,PROD-0073,1579.66,1,0.24,238.48,Technology,Phones,Experience Phones
+358,CUST-0259,Brittany Robinson,Corporate,USA,Port Samuel,Tennessee,93864,Central,ORD-63018,2024-08-14,2024-08-17,Second Class,PROD-0073,58.78,8,0.26,3.64,Technology,Phones,Experience Phones
+359,CUST-0107,Kyle Murray,Corporate,USA,Munozburgh,Alaska,8586,Central,ORD-29015,2024-04-18,2024-04-23,First Class,PROD-0073,1384.53,7,0.26,268.42,Technology,Phones,Experience Phones
+360,CUST-0223,Natalie Olson,Corporate,USA,Hallchester,New Hampshire,7151,West,ORD-99106,2025-02-06,2025-02-12,First Class,PROD-0073,651.24,6,0.07,108.17,Technology,Phones,Experience Phones
+361,CUST-0083,Chad Rodriguez,Consumer,USA,South Pamela,Arkansas,70085,East,ORD-55464,2024-03-12,2024-03-15,Same Day,PROD-0073,696.47,7,0.05,115.51,Technology,Phones,Experience Phones
+362,CUST-0057,Brittany Zhang,Consumer,USA,Lake Fred,Alabama,5310,Central,ORD-41400,2025-03-07,2025-03-13,Same Day,PROD-0074,584.55,5,0.09,63.77,Office Supplies,Storage,Culture Storage
+363,CUST-0209,Mark Harris,Corporate,USA,North Julieburgh,Connecticut,81451,South,ORD-41528,2024-04-30,2024-05-08,Second Class,PROD-0074,1101.21,5,0.08,207.51,Office Supplies,Storage,Culture Storage
+364,CUST-0090,Jason Harris,Corporate,USA,Larsonmouth,Indiana,8442,West,ORD-93105,2025-08-17,2025-08-20,Second Class,PROD-0075,1686.17,3,0.18,101.64,Technology,Phones,Manager Phones
+365,CUST-0019,Amber Rivera,Corporate,USA,Port Cathyview,California,94950,East,ORD-85849,2024-08-27,2024-09-05,First Class,PROD-0075,491.71,10,0.06,140.63,Technology,Phones,Manager Phones
+366,CUST-0060,Mr. Tyler Stevens,Consumer,USA,Jamesville,Virginia,75189,West,ORD-16213,2024-07-28,2024-07-30,Standard Class,PROD-0075,197.17,10,0.13,57.7,Technology,Phones,Manager Phones
+367,CUST-0065,Eric Rodriguez,Home Office,USA,Taraburgh,Oregon,65854,Central,ORD-11030,2024-08-26,2024-09-05,Second Class,PROD-0075,66.79,1,0.21,9.48,Technology,Phones,Manager Phones
+368,CUST-0286,Raymond Gallagher,Corporate,USA,North Mikeview,Minnesota,78586,Central,ORD-64750,2024-07-28,2024-08-04,First Class,PROD-0076,1423.5,9,0.27,207.22,Office Supplies,Paper,Shoulder Paper
+369,CUST-0200,Randy Fisher,Consumer,USA,East Amy,Alabama,77022,Central,ORD-28712,2023-12-19,2023-12-25,Second Class,PROD-0076,1883.15,4,0.07,115.21,Office Supplies,Paper,Shoulder Paper
+370,CUST-0131,Cassandra Brown,Home Office,USA,Lake Ryanton,Florida,43130,East,ORD-99842,2023-10-15,2023-10-24,Same Day,PROD-0076,1422.82,7,0.04,426.38,Office Supplies,Paper,Shoulder Paper
+371,CUST-0160,Angela Robbins,Home Office,USA,Herrerafurt,Rhode Island,53721,South,ORD-34961,2023-10-28,2023-11-07,First Class,PROD-0076,1045.71,10,0.09,172.63,Office Supplies,Paper,Shoulder Paper
+372,CUST-0260,Alan Randall,Consumer,USA,South Shannonfurt,Utah,63002,East,ORD-15311,2023-09-26,2023-09-27,Second Class,PROD-0076,1415.22,10,0.12,311.16,Office Supplies,Paper,Shoulder Paper
+373,CUST-0203,Stephanie Yoder,Corporate,USA,Tuckerton,Hawaii,30340,Central,ORD-69722,2024-05-21,2024-05-31,Second Class,PROD-0076,463.3,3,0.22,111.23,Office Supplies,Paper,Shoulder Paper
+374,CUST-0280,Jeffrey Holmes,Home Office,USA,East Thomas,Massachusetts,72460,Central,ORD-15880,2025-02-24,2025-03-02,First Class,PROD-0076,1811.67,9,0.22,95.87,Office Supplies,Paper,Shoulder Paper
+375,CUST-0173,Ricky Perry,Home Office,USA,West Lisa,Arizona,11327,East,ORD-90542,2025-05-27,2025-05-29,Standard Class,PROD-0076,1249.73,3,0.2,252.96,Office Supplies,Paper,Shoulder Paper
+376,CUST-0256,Erin Patterson,Corporate,USA,New Michellestad,Texas,35454,East,ORD-14357,2025-03-11,2025-03-19,Same Day,PROD-0076,1431.1,3,0.22,161.8,Office Supplies,Paper,Shoulder Paper
+377,CUST-0004,Sarah Floyd,Corporate,USA,Port Rachel,Indiana,9367,Central,ORD-40451,2024-02-27,2024-03-02,Standard Class,PROD-0077,1288.41,5,0.29,185.0,Furniture,Tables,Single Tables
+378,CUST-0006,Daniel French,Home Office,USA,North Alyssa,Indiana,39335,West,ORD-87715,2024-06-19,2024-06-23,Second Class,PROD-0077,1342.83,5,0.1,278.76,Furniture,Tables,Single Tables
+379,CUST-0187,Herbert Chavez,Consumer,USA,Mortonmouth,Nevada,61592,South,ORD-10829,2024-09-10,2024-09-12,Standard Class,PROD-0077,719.61,3,0.26,191.14,Furniture,Tables,Single Tables
+380,CUST-0280,Jeffrey Holmes,Home Office,USA,East Thomas,Massachusetts,72460,Central,ORD-59222,2024-07-22,2024-07-23,First Class,PROD-0077,590.03,5,0.01,30.81,Furniture,Tables,Single Tables
+381,CUST-0005,Daniel Meyer,Home Office,USA,Lake Sharonborough,New Jersey,96149,Central,ORD-50291,2025-05-11,2025-05-19,Same Day,PROD-0077,169.88,2,0.09,42.29,Furniture,Tables,Single Tables
+382,CUST-0087,Charles Hodge,Home Office,USA,Andrewbury,Kentucky,3016,East,ORD-45044,2024-09-24,2024-09-27,Standard Class,PROD-0078,1312.06,8,0.04,286.57,Furniture,Chairs,There Chairs
+383,CUST-0114,Kevin Braun,Consumer,USA,Lake Rodney,Utah,57273,Central,ORD-95511,2025-08-21,2025-08-24,Second Class,PROD-0078,1270.77,8,0.13,155.75,Furniture,Chairs,There Chairs
+384,CUST-0135,Mark Lamb,Consumer,USA,South Evelyn,Alabama,97406,West,ORD-45454,2025-03-21,2025-03-25,First Class,PROD-0078,1083.35,4,0.27,138.17,Furniture,Chairs,There Chairs
+385,CUST-0112,Andrew Rodriguez,Corporate,USA,Jerryton,Utah,28268,East,ORD-22360,2024-03-03,2024-03-05,Second Class,PROD-0079,1502.83,4,0.19,306.73,Technology,Machines,Friend Machines
+386,CUST-0285,Ryan Farmer,Corporate,USA,Johnland,Mississippi,58387,East,ORD-94600,2024-09-02,2024-09-04,First Class,PROD-0079,920.35,10,0.14,211.13,Technology,Machines,Friend Machines
+387,CUST-0256,Erin Patterson,Corporate,USA,New Michellestad,Texas,35454,East,ORD-28027,2024-07-05,2024-07-15,Same Day,PROD-0079,1638.09,3,0.09,171.44,Technology,Machines,Friend Machines
+388,CUST-0166,Nancy Santana,Home Office,USA,East Stephanie,New Jersey,23970,East,ORD-57651,2024-10-13,2024-10-23,First Class,PROD-0079,783.22,4,0.06,205.56,Technology,Machines,Friend Machines
+389,CUST-0167,Henry Wagner,Consumer,USA,Port James,Ohio,86289,East,ORD-32896,2024-04-21,2024-04-25,First Class,PROD-0079,709.85,5,0.07,118.0,Technology,Machines,Friend Machines
+390,CUST-0277,James Robinson,Consumer,USA,Johnsonport,Montana,55780,South,ORD-71990,2023-12-10,2023-12-13,First Class,PROD-0079,1008.0,9,0.05,140.22,Technology,Machines,Friend Machines
+391,CUST-0043,Kelly Cox,Consumer,USA,Crosbyland,Illinois,48986,South,ORD-98146,2024-09-08,2024-09-09,First Class,PROD-0079,781.16,5,0.04,186.21,Technology,Machines,Friend Machines
+392,CUST-0032,Brian Romero,Corporate,USA,Morseside,Indiana,38293,West,ORD-23479,2024-04-28,2024-05-05,Second Class,PROD-0079,670.66,8,0.1,189.72,Technology,Machines,Friend Machines
+393,CUST-0128,Lacey Taylor,Consumer,USA,New Tyler,Tennessee,68820,East,ORD-25776,2024-10-24,2024-10-30,First Class,PROD-0079,1361.93,9,0.21,329.5,Technology,Machines,Friend Machines
+394,CUST-0089,Thomas Jackson,Corporate,USA,Gardnerport,Illinois,96269,Central,ORD-85331,2024-10-21,2024-10-24,First Class,PROD-0079,1921.46,8,0.27,304.93,Technology,Machines,Friend Machines
+395,CUST-0129,Joseph Pratt,Consumer,USA,East Carlos,Michigan,63217,West,ORD-31185,2025-01-28,2025-01-30,Second Class,PROD-0079,1912.33,6,0.14,554.92,Technology,Machines,Friend Machines
+396,CUST-0188,Jay Stein,Consumer,USA,East Gabrielmouth,Pennsylvania,91092,East,ORD-80652,2025-08-02,2025-08-05,Second Class,PROD-0080,1913.13,3,0.02,406.71,Office Supplies,Paper,Else Paper
+397,CUST-0116,Melissa Garcia,Consumer,USA,Malonetown,Tennessee,28713,West,ORD-81986,2025-06-25,2025-06-30,Second Class,PROD-0080,1744.21,4,0.03,380.84,Office Supplies,Paper,Else Paper
+398,CUST-0073,Matthew Ramirez,Home Office,USA,West Johnathanton,New York,87561,East,ORD-39470,2024-09-28,2024-10-05,Standard Class,PROD-0081,621.14,5,0.27,102.42,Furniture,Bookcases,Recognize Bookcases
+399,CUST-0074,Ashley Garza MD,Home Office,USA,East Daniel,Missouri,6904,West,ORD-78836,2024-08-15,2024-08-24,First Class,PROD-0081,577.15,5,0.24,147.22,Furniture,Bookcases,Recognize Bookcases
+400,CUST-0222,Kimberly Kelly,Home Office,USA,New Davidbury,Nebraska,48871,South,ORD-26195,2025-01-01,2025-01-02,First Class,PROD-0081,747.09,9,0.16,197.38,Furniture,Bookcases,Recognize Bookcases
+401,CUST-0280,Jeffrey Holmes,Home Office,USA,East Thomas,Massachusetts,72460,Central,ORD-51676,2025-04-29,2025-05-05,First Class,PROD-0081,496.64,8,0.07,118.75,Furniture,Bookcases,Recognize Bookcases
+402,CUST-0121,Steven Johnson,Consumer,USA,West Jacquelineland,Vermont,36841,West,ORD-63634,2024-10-25,2024-11-04,Standard Class,PROD-0082,1695.41,5,0.18,95.2,Furniture,Chairs,Firm Chairs
+403,CUST-0032,Brian Romero,Corporate,USA,Morseside,Indiana,38293,West,ORD-20237,2023-09-02,2023-09-09,Same Day,PROD-0082,1341.34,1,0.28,100.95,Furniture,Chairs,Firm Chairs
+404,CUST-0283,Kyle Wilson,Corporate,USA,North Emilytown,New York,28945,East,ORD-89557,2023-09-06,2023-09-10,First Class,PROD-0082,1396.66,9,0.16,208.31,Furniture,Chairs,Firm Chairs
+405,CUST-0083,Chad Rodriguez,Consumer,USA,South Pamela,Arkansas,70085,East,ORD-67061,2025-07-28,2025-08-06,Second Class,PROD-0082,1560.01,4,0.13,385.39,Furniture,Chairs,Firm Chairs
+406,CUST-0136,Robert Willis,Consumer,USA,Annetteview,Maine,38743,Central,ORD-65010,2024-03-29,2024-04-04,Standard Class,PROD-0082,1911.08,10,0.04,359.62,Furniture,Chairs,Firm Chairs
+407,CUST-0265,Jennifer Lowe,Home Office,USA,Caseyport,Mississippi,41132,West,ORD-99104,2024-03-02,2024-03-03,Standard Class,PROD-0082,210.98,10,0.18,55.22,Furniture,Chairs,Firm Chairs
+408,CUST-0030,Michael Tran,Corporate,USA,Leeborough,Nebraska,76193,East,ORD-29494,2024-02-04,2024-02-14,Second Class,PROD-0083,1581.93,4,0.29,464.15,Office Supplies,Storage,Cause Storage
+409,CUST-0290,Kellie Harris,Corporate,USA,New Traci,Wisconsin,92222,West,ORD-48103,2024-01-21,2024-01-24,Second Class,PROD-0084,1849.33,9,0.15,519.14,Technology,Accessories,General Accessories
+410,CUST-0266,Andrew Garcia,Consumer,USA,South Kristinberg,Mississippi,81279,South,ORD-16784,2024-11-09,2024-11-13,Standard Class,PROD-0085,1947.97,9,0.13,437.36,Technology,Accessories,Police Accessories
+411,CUST-0118,Steven Arnold,Home Office,USA,Lake Jamesshire,New York,44720,West,ORD-29167,2025-06-06,2025-06-16,Second Class,PROD-0085,1862.36,10,0.29,536.46,Technology,Accessories,Police Accessories
+412,CUST-0117,Nancy Velasquez,Home Office,USA,East Anthonyfurt,Tennessee,4567,South,ORD-39488,2024-10-06,2024-10-14,Standard Class,PROD-0085,1610.42,6,0.02,326.99,Technology,Accessories,Police Accessories
+413,CUST-0075,Angela Ochoa,Consumer,USA,New Tami,Florida,77175,West,ORD-91725,2023-09-22,2023-10-01,Same Day,PROD-0085,73.72,5,0.02,8.66,Technology,Accessories,Police Accessories
+414,CUST-0004,Sarah Floyd,Corporate,USA,Port Rachel,Indiana,9367,Central,ORD-83640,2024-07-24,2024-07-30,Second Class,PROD-0085,264.87,3,0.05,60.05,Technology,Accessories,Police Accessories
+415,CUST-0195,Todd Coleman,Consumer,USA,Porterbury,Florida,43819,Central,ORD-23355,2024-09-28,2024-10-02,Standard Class,PROD-0086,25.17,5,0.19,4.42,Furniture,Tables,Someone Tables
+416,CUST-0112,Andrew Rodriguez,Corporate,USA,Jerryton,Utah,28268,East,ORD-28109,2024-02-18,2024-02-23,Same Day,PROD-0086,1669.04,4,0.22,158.96,Furniture,Tables,Someone Tables
+417,CUST-0044,Susan Ward,Corporate,USA,New Elizabethside,Minnesota,38535,West,ORD-20579,2025-04-04,2025-04-12,Second Class,PROD-0086,1337.57,7,0.04,72.06,Furniture,Tables,Someone Tables
+418,CUST-0114,Kevin Braun,Consumer,USA,Lake Rodney,Utah,57273,Central,ORD-51279,2024-10-22,2024-10-28,First Class,PROD-0086,744.05,3,0.04,134.21,Furniture,Tables,Someone Tables
+419,CUST-0080,Travis Perry DVM,Corporate,USA,Port Alexander,Georgia,72331,South,ORD-93812,2024-08-18,2024-08-24,Second Class,PROD-0086,1092.14,5,0.25,172.59,Furniture,Tables,Someone Tables
+420,CUST-0007,Jennifer Elliott,Corporate,USA,East Kevin,Rhode Island,59765,East,ORD-59769,2024-06-08,2024-06-18,Standard Class,PROD-0087,378.65,4,0.07,113.41,Furniture,Chairs,Operation Chairs
+421,CUST-0027,Jenna Contreras,Home Office,USA,West Jasonstad,Oregon,7958,East,ORD-51132,2024-11-21,2024-11-26,First Class,PROD-0087,405.69,2,0.01,43.01,Furniture,Chairs,Operation Chairs
+422,CUST-0181,Kelly Shannon,Corporate,USA,Edwardshire,Florida,82191,East,ORD-55152,2024-04-29,2024-05-04,Second Class,PROD-0087,355.94,1,0.25,46.23,Furniture,Chairs,Operation Chairs
+423,CUST-0276,James West,Home Office,USA,Martinezfurt,West Virginia,33332,Central,ORD-98686,2024-01-03,2024-01-05,Same Day,PROD-0087,1174.64,10,0.29,343.27,Furniture,Chairs,Operation Chairs
+424,CUST-0111,Miguel Grant,Corporate,USA,West Lori,Michigan,49160,Central,ORD-53104,2024-05-27,2024-06-04,First Class,PROD-0088,751.39,10,0.04,163.66,Furniture,Chairs,Hit Chairs
+425,CUST-0223,Natalie Olson,Corporate,USA,Hallchester,New Hampshire,7151,West,ORD-39379,2024-07-19,2024-07-27,Standard Class,PROD-0088,1817.03,2,0.01,312.02,Furniture,Chairs,Hit Chairs
+426,CUST-0170,Samantha Meza,Consumer,USA,North Danielmouth,Connecticut,65524,Central,ORD-20420,2023-10-21,2023-10-28,Standard Class,PROD-0088,1023.32,6,0.1,55.58,Furniture,Chairs,Hit Chairs
+427,CUST-0251,Walter Lynch,Corporate,USA,New Jacob,Texas,38463,West,ORD-35328,2025-03-04,2025-03-14,Second Class,PROD-0088,70.0,4,0.19,8.04,Furniture,Chairs,Hit Chairs
+428,CUST-0294,Nicolas Melendez,Corporate,USA,Tracybury,Delaware,67369,West,ORD-45650,2024-08-06,2024-08-15,Same Day,PROD-0088,337.49,4,0.19,24.46,Furniture,Chairs,Hit Chairs
+429,CUST-0045,Lisa Page,Home Office,USA,South Walter,Utah,66638,Central,ORD-71428,2024-07-26,2024-07-27,Standard Class,PROD-0089,893.3,9,0.13,255.62,Furniture,Furnishings,Third Furnishings
+430,CUST-0011,Gloria Singleton,Consumer,USA,Port Jasonfurt,Montana,25031,Central,ORD-89260,2024-04-01,2024-04-08,Standard Class,PROD-0089,1301.21,5,0.27,193.78,Furniture,Furnishings,Third Furnishings
+431,CUST-0290,Kellie Harris,Corporate,USA,New Traci,Wisconsin,92222,West,ORD-81882,2024-07-17,2024-07-26,Second Class,PROD-0089,1194.8,2,0.02,113.63,Furniture,Furnishings,Third Furnishings
+432,CUST-0229,Christopher Hall III,Corporate,USA,East Shannon,Arkansas,61179,Central,ORD-56491,2023-11-16,2023-11-18,First Class,PROD-0089,998.2,3,0.03,269.08,Furniture,Furnishings,Third Furnishings
+433,CUST-0089,Thomas Jackson,Corporate,USA,Gardnerport,Illinois,96269,Central,ORD-70914,2024-05-28,2024-06-05,Second Class,PROD-0089,188.49,1,0.26,43.89,Furniture,Furnishings,Third Furnishings
+434,CUST-0208,Leah Kerr,Consumer,USA,Lisafurt,Pennsylvania,569,East,ORD-88056,2025-08-17,2025-08-21,Standard Class,PROD-0089,1256.43,2,0.09,157.18,Furniture,Furnishings,Third Furnishings
+435,CUST-0095,Stacey Lee,Home Office,USA,Sanchezstad,Oregon,62355,East,ORD-22838,2023-12-31,2024-01-09,Same Day,PROD-0089,1689.46,8,0.29,492.37,Furniture,Furnishings,Third Furnishings
+436,CUST-0210,Jonathan Baker,Consumer,USA,Kristenport,Wisconsin,4052,South,ORD-17439,2023-10-13,2023-10-14,First Class,PROD-0089,1963.74,7,0.28,421.33,Furniture,Furnishings,Third Furnishings
+437,CUST-0073,Matthew Ramirez,Home Office,USA,West Johnathanton,New York,87561,East,ORD-32626,2025-02-19,2025-02-27,First Class,PROD-0090,204.49,2,0.08,48.61,Furniture,Furnishings,Hand Furnishings
+438,CUST-0193,Daniel Sims,Corporate,USA,South Timothy,West Virginia,96845,West,ORD-90252,2025-01-14,2025-01-17,Standard Class,PROD-0090,920.93,3,0.28,146.92,Furniture,Furnishings,Hand Furnishings
+439,CUST-0028,Gary Gutierrez,Corporate,USA,Frederickville,Wisconsin,29660,West,ORD-23544,2025-02-17,2025-02-23,First Class,PROD-0090,886.11,3,0.17,62.23,Furniture,Furnishings,Hand Furnishings
+440,CUST-0300,April Walter,Consumer,USA,Bushburgh,North Dakota,32578,West,ORD-43781,2025-05-04,2025-05-05,Standard Class,PROD-0090,283.01,2,0.07,35.85,Furniture,Furnishings,Hand Furnishings
+441,CUST-0068,Jack Murphy,Consumer,USA,North Alexa,Montana,97080,South,ORD-24544,2023-12-10,2023-12-11,Second Class,PROD-0090,870.89,8,0.29,130.31,Furniture,Furnishings,Hand Furnishings
+442,CUST-0266,Andrew Garcia,Consumer,USA,South Kristinberg,Mississippi,81279,South,ORD-23810,2024-06-15,2024-06-18,Second Class,PROD-0090,793.53,4,0.17,158.16,Furniture,Furnishings,Hand Furnishings
+443,CUST-0224,David Martin,Corporate,USA,New Derrick,Nevada,81759,South,ORD-13059,2024-01-07,2024-01-15,First Class,PROD-0090,1348.14,3,0.2,363.45,Furniture,Furnishings,Hand Furnishings
+444,CUST-0191,William Cruz,Consumer,USA,Smithburgh,Nebraska,21774,West,ORD-42547,2024-09-03,2024-09-09,Standard Class,PROD-0091,1155.64,8,0.11,251.49,Technology,Phones,Stand Phones
+445,CUST-0157,Stephen Davis,Consumer,USA,Port Samanthaton,Idaho,98326,South,ORD-34753,2024-09-17,2024-09-24,First Class,PROD-0091,1269.9,5,0.29,107.97,Technology,Phones,Stand Phones
+446,CUST-0097,Marcus Brown,Home Office,USA,East Misty,Maine,37724,West,ORD-30375,2025-05-12,2025-05-17,First Class,PROD-0091,1016.6,10,0.17,209.56,Technology,Phones,Stand Phones
+447,CUST-0262,Gina Mercer,Corporate,USA,Snyderhaven,Tennessee,76340,Central,ORD-48977,2024-07-28,2024-07-31,Standard Class,PROD-0091,283.8,1,0.14,42.08,Technology,Phones,Stand Phones
+448,CUST-0076,Kristen Spencer,Corporate,USA,Beckerberg,Ohio,63673,West,ORD-75622,2024-05-03,2024-05-06,Second Class,PROD-0092,1634.62,10,0.25,148.68,Office Supplies,Storage,Doctor Storage
+449,CUST-0012,Jonathan Lopez,Consumer,USA,South David,Nevada,99292,South,ORD-91030,2025-01-05,2025-01-14,Same Day,PROD-0092,1150.07,1,0.22,63.51,Office Supplies,Storage,Doctor Storage
+450,CUST-0141,Megan Mitchell,Consumer,USA,North Virginiachester,South Carolina,14204,East,ORD-61361,2024-06-26,2024-07-05,First Class,PROD-0093,292.62,6,0.12,63.68,Furniture,Furnishings,Page Furnishings
+451,CUST-0260,Alan Randall,Consumer,USA,South Shannonfurt,Utah,63002,East,ORD-63329,2025-02-08,2025-02-15,Standard Class,PROD-0093,1932.54,9,0.06,211.29,Furniture,Furnishings,Page Furnishings
+452,CUST-0249,Joseph Young,Corporate,USA,Charlesland,Oregon,24523,West,ORD-84774,2024-09-29,2024-10-06,First Class,PROD-0093,582.89,9,0.22,55.28,Furniture,Furnishings,Page Furnishings
+453,CUST-0154,Anthony Paul,Home Office,USA,Valerieborough,Idaho,56040,South,ORD-52871,2024-04-08,2024-04-11,Second Class,PROD-0093,1044.66,6,0.07,59.14,Furniture,Furnishings,Page Furnishings
+454,CUST-0081,Michelle Wilson,Home Office,USA,East Michelle,Minnesota,32955,Central,ORD-70683,2025-01-21,2025-01-30,Same Day,PROD-0093,1488.13,4,0.21,197.25,Furniture,Furnishings,Page Furnishings
+455,CUST-0037,Blake Harrison MD,Home Office,USA,West Douglasview,New Jersey,74946,West,ORD-73696,2024-07-03,2024-07-12,Standard Class,PROD-0093,1417.53,7,0.28,271.22,Furniture,Furnishings,Page Furnishings
+456,CUST-0061,Jessica Brock,Corporate,USA,Gordonstad,Washington,15468,Central,ORD-67156,2024-08-20,2024-08-25,Standard Class,PROD-0094,1237.59,5,0.23,323.77,Furniture,Tables,Garden Tables
+457,CUST-0294,Nicolas Melendez,Corporate,USA,Tracybury,Delaware,67369,West,ORD-99748,2023-12-24,2023-12-31,First Class,PROD-0094,820.9,9,0.05,187.24,Furniture,Tables,Garden Tables
+458,CUST-0276,James West,Home Office,USA,Martinezfurt,West Virginia,33332,Central,ORD-88864,2023-11-02,2023-11-06,Standard Class,PROD-0094,17.37,6,0.05,4.76,Furniture,Tables,Garden Tables
+459,CUST-0177,Ruben Monroe,Corporate,USA,Port Joshua,Arizona,25375,Central,ORD-23338,2023-09-11,2023-09-13,First Class,PROD-0095,508.57,4,0.09,101.79,Technology,Phones,Tax Phones
+460,CUST-0157,Stephen Davis,Consumer,USA,Port Samanthaton,Idaho,98326,South,ORD-38295,2024-09-26,2024-09-28,Second Class,PROD-0095,303.25,4,0.17,24.64,Technology,Phones,Tax Phones
+461,CUST-0102,Kristin Beasley,Home Office,USA,North Scott,South Carolina,35696,South,ORD-59864,2023-09-04,2023-09-10,Same Day,PROD-0095,1829.16,1,0.1,457.05,Technology,Phones,Tax Phones
+462,CUST-0296,Ashley Hill,Home Office,USA,Jaimestad,Minnesota,84436,West,ORD-52006,2024-09-29,2024-10-01,Second Class,PROD-0095,689.5,1,0.14,50.89,Technology,Phones,Tax Phones
+463,CUST-0180,Angela Reese,Consumer,USA,Ginamouth,Alabama,94228,West,ORD-96852,2024-10-13,2024-10-19,First Class,PROD-0095,1177.21,9,0.28,340.2,Technology,Phones,Tax Phones
+464,CUST-0254,Robert Craig,Consumer,USA,Lewisstad,New Jersey,54910,East,ORD-48467,2024-11-09,2024-11-10,Standard Class,PROD-0096,1497.17,4,0.28,442.4,Office Supplies,Storage,Glass Storage
+465,CUST-0015,Jennifer Waters,Corporate,USA,Jacksonburgh,Maine,2329,South,ORD-22467,2024-05-29,2024-06-05,First Class,PROD-0096,542.64,2,0.12,140.87,Office Supplies,Storage,Glass Storage
+466,CUST-0287,Richard Padilla,Consumer,USA,Lake Kevin,New York,16657,East,ORD-99642,2024-10-21,2024-10-24,Standard Class,PROD-0096,1139.16,6,0.01,155.84,Office Supplies,Storage,Glass Storage
+467,CUST-0231,Steven Reed,Consumer,USA,Port Kimberly,Alabama,44889,East,ORD-28218,2024-05-08,2024-05-11,Same Day,PROD-0096,756.16,8,0.08,96.33,Office Supplies,Storage,Glass Storage
+468,CUST-0043,Kelly Cox,Consumer,USA,Crosbyland,Illinois,48986,South,ORD-33413,2025-01-22,2025-01-31,Same Day,PROD-0096,645.99,7,0.29,87.25,Office Supplies,Storage,Glass Storage
+469,CUST-0271,Mathew Moore,Home Office,USA,Laurafurt,Michigan,51556,South,ORD-17052,2025-02-17,2025-02-23,First Class,PROD-0096,1402.54,9,0.0,174.37,Office Supplies,Storage,Glass Storage
+470,CUST-0112,Andrew Rodriguez,Corporate,USA,Jerryton,Utah,28268,East,ORD-26278,2024-09-18,2024-09-27,Standard Class,PROD-0096,1080.11,6,0.12,266.26,Office Supplies,Storage,Glass Storage
+471,CUST-0295,Molly Walker,Consumer,USA,North Terri,Utah,62077,Central,ORD-27545,2024-11-19,2024-11-27,Standard Class,PROD-0097,1940.52,1,0.04,258.08,Office Supplies,Binders,Question Binders
+472,CUST-0003,Michael Bowen,Corporate,USA,North Sarahville,Minnesota,93326,West,ORD-25229,2024-11-14,2024-11-18,Second Class,PROD-0097,341.4,2,0.21,54.02,Office Supplies,Binders,Question Binders
+473,CUST-0143,Paige Patterson,Corporate,USA,Laurenburgh,Massachusetts,57099,West,ORD-28532,2024-11-23,2024-11-28,Second Class,PROD-0097,901.26,3,0.29,117.92,Office Supplies,Binders,Question Binders
+474,CUST-0290,Kellie Harris,Corporate,USA,New Traci,Wisconsin,92222,West,ORD-26273,2025-05-15,2025-05-18,Same Day,PROD-0097,732.65,9,0.08,108.63,Office Supplies,Binders,Question Binders
+475,CUST-0125,Jesus Kidd,Consumer,USA,North Thomas,South Carolina,75420,East,ORD-45245,2024-11-14,2024-11-23,Standard Class,PROD-0097,865.7,6,0.19,90.23,Office Supplies,Binders,Question Binders
+476,CUST-0006,Daniel French,Home Office,USA,North Alyssa,Indiana,39335,West,ORD-98337,2024-11-18,2024-11-24,Second Class,PROD-0097,1940.31,4,0.13,536.88,Office Supplies,Binders,Question Binders
+477,CUST-0260,Alan Randall,Consumer,USA,South Shannonfurt,Utah,63002,East,ORD-45853,2023-09-19,2023-09-27,Second Class,PROD-0097,1292.17,7,0.14,386.49,Office Supplies,Binders,Question Binders
+478,CUST-0183,Michelle Kennedy,Consumer,USA,East Christianberg,New Jersey,78006,West,ORD-15504,2024-06-20,2024-06-30,Standard Class,PROD-0097,1790.52,3,0.12,517.71,Office Supplies,Binders,Question Binders
+479,CUST-0183,Michelle Kennedy,Consumer,USA,East Christianberg,New Jersey,78006,West,ORD-47712,2024-02-15,2024-02-17,Standard Class,PROD-0097,1254.09,3,0.19,71.65,Office Supplies,Binders,Question Binders
+480,CUST-0083,Chad Rodriguez,Consumer,USA,South Pamela,Arkansas,70085,East,ORD-84564,2024-03-31,2024-04-09,Standard Class,PROD-0097,586.03,7,0.22,161.27,Office Supplies,Binders,Question Binders
+481,CUST-0120,Melissa Wiggins DDS,Corporate,USA,West Rita,Utah,62442,East,ORD-59924,2024-05-23,2024-05-28,Same Day,PROD-0097,604.02,6,0.18,166.44,Office Supplies,Binders,Question Binders
+482,CUST-0029,John Martin,Corporate,USA,North Kristin,Alaska,51879,South,ORD-38012,2024-11-02,2024-11-06,Standard Class,PROD-0098,338.16,7,0.27,59.59,Office Supplies,Storage,National Storage
+483,CUST-0292,Stephanie Ryan,Home Office,USA,Masonberg,Illinois,20079,West,ORD-12635,2024-05-27,2024-06-04,First Class,PROD-0098,1484.43,2,0.13,178.96,Office Supplies,Storage,National Storage
+484,CUST-0261,Jeffrey Moore,Home Office,USA,Justinbury,Maryland,66130,Central,ORD-57847,2023-09-30,2023-10-08,Same Day,PROD-0098,73.99,7,0.25,4.14,Office Supplies,Storage,National Storage
+485,CUST-0173,Ricky Perry,Home Office,USA,West Lisa,Arizona,11327,East,ORD-89577,2023-08-30,2023-09-09,First Class,PROD-0098,1128.25,6,0.05,331.53,Office Supplies,Storage,National Storage
+486,CUST-0265,Jennifer Lowe,Home Office,USA,Caseyport,Mississippi,41132,West,ORD-61153,2025-06-16,2025-06-24,Second Class,PROD-0099,66.19,9,0.15,18.5,Office Supplies,Paper,Successful Paper
+487,CUST-0110,Ryan Hansen,Home Office,USA,Lake Amberbury,Wisconsin,3997,West,ORD-68429,2024-12-30,2025-01-07,First Class,PROD-0099,357.3,4,0.07,105.39,Office Supplies,Paper,Successful Paper
+488,CUST-0136,Robert Willis,Consumer,USA,Annetteview,Maine,38743,Central,ORD-74348,2025-08-11,2025-08-12,First Class,PROD-0099,631.09,2,0.06,96.28,Office Supplies,Paper,Successful Paper
+489,CUST-0247,Carlos Moss,Home Office,USA,Rasmussenmouth,West Virginia,3464,West,ORD-66062,2025-01-17,2025-01-18,Standard Class,PROD-0099,179.37,3,0.16,21.09,Office Supplies,Paper,Successful Paper
+490,CUST-0293,Darryl Contreras,Home Office,USA,Jackshire,Oregon,19059,Central,ORD-30037,2025-04-26,2025-04-30,Second Class,PROD-0099,688.15,8,0.21,150.58,Office Supplies,Paper,Successful Paper
+491,CUST-0162,Julie Daniels,Consumer,USA,Romerofort,Texas,70861,South,ORD-74403,2024-10-06,2024-10-12,Standard Class,PROD-0099,1077.76,9,0.29,95.2,Office Supplies,Paper,Successful Paper
+492,CUST-0151,Robert Morris,Home Office,USA,Vaughnmouth,California,5584,South,ORD-25785,2024-06-02,2024-06-03,First Class,PROD-0099,1426.41,10,0.01,215.95,Office Supplies,Paper,Successful Paper
+493,CUST-0034,Kathryn Orr,Home Office,USA,South Bob,Florida,93635,East,ORD-67491,2025-07-02,2025-07-09,Standard Class,PROD-0100,163.05,8,0.18,12.75,Office Supplies,Binders,Step Binders
+494,CUST-0015,Jennifer Waters,Corporate,USA,Jacksonburgh,Maine,2329,South,ORD-21365,2025-04-11,2025-04-19,Second Class,PROD-0100,996.32,5,0.06,246.09,Office Supplies,Binders,Step Binders
+495,CUST-0014,Maria Delgado,Consumer,USA,Jenniferborough,Vermont,81758,South,ORD-43017,2024-06-17,2024-06-24,First Class,PROD-0100,1703.08,1,0.29,493.7,Office Supplies,Binders,Step Binders
+496,CUST-0061,Jessica Brock,Corporate,USA,Gordonstad,Washington,15468,Central,ORD-88461,2025-01-10,2025-01-20,Standard Class,PROD-0100,186.98,1,0.11,30.08,Office Supplies,Binders,Step Binders
+497,CUST-0123,Brenda Peterson,Consumer,USA,Port Keith,Missouri,94699,West,ORD-74839,2023-11-20,2023-11-24,Standard Class,PROD-0100,1315.12,6,0.24,243.14,Office Supplies,Binders,Step Binders
+498,CUST-0202,Carlos Campbell,Consumer,USA,Riveraville,Kentucky,9299,West,ORD-15146,2024-11-05,2024-11-09,Second Class,PROD-0100,784.62,10,0.14,82.01,Office Supplies,Binders,Step Binders
+499,CUST-0095,Stacey Lee,Home Office,USA,Sanchezstad,Oregon,62355,East,ORD-96418,2024-05-09,2024-05-15,Standard Class,PROD-0100,1684.77,8,0.19,491.33,Office Supplies,Binders,Step Binders
+500,CUST-0083,Chad Rodriguez,Consumer,USA,South Pamela,Arkansas,70085,East,ORD-69618,2024-01-03,2024-01-13,Second Class,PROD-0101,1983.28,6,0.27,320.07,Technology,Phones,Wind Phones
+501,CUST-0154,Anthony Paul,Home Office,USA,Valerieborough,Idaho,56040,South,ORD-66960,2024-04-13,2024-04-22,Same Day,PROD-0101,1442.42,6,0.07,338.29,Technology,Phones,Wind Phones
+502,CUST-0242,Jennifer Townsend,Corporate,USA,New Joseph,Idaho,90019,Central,ORD-74761,2025-05-12,2025-05-19,Same Day,PROD-0101,1252.87,1,0.17,375.69,Technology,Phones,Wind Phones
+503,CUST-0028,Gary Gutierrez,Corporate,USA,Frederickville,Wisconsin,29660,West,ORD-33052,2025-02-16,2025-02-18,Standard Class,PROD-0101,1121.39,2,0.26,151.67,Technology,Phones,Wind Phones
+504,CUST-0176,Susan Montoya,Home Office,USA,Cameronstad,New Mexico,74027,East,ORD-54491,2024-11-20,2024-11-27,First Class,PROD-0101,1523.21,8,0.1,430.75,Technology,Phones,Wind Phones
+505,CUST-0155,Justin Hull,Consumer,USA,New Alexismouth,Hawaii,48036,West,ORD-47323,2025-03-06,2025-03-12,Standard Class,PROD-0101,651.58,9,0.26,110.7,Technology,Phones,Wind Phones
+506,CUST-0294,Nicolas Melendez,Corporate,USA,Tracybury,Delaware,67369,West,ORD-53788,2023-12-07,2023-12-10,Second Class,PROD-0101,1202.63,5,0.12,341.5,Technology,Phones,Wind Phones
+507,CUST-0042,Mr. Patrick Brown PhD,Consumer,USA,East Donnatown,Arizona,69135,East,ORD-29703,2024-03-31,2024-04-07,Second Class,PROD-0102,672.73,6,0.25,128.52,Technology,Copiers,Miss Copiers
+508,CUST-0060,Mr. Tyler Stevens,Consumer,USA,Jamesville,Virginia,75189,West,ORD-78417,2025-06-21,2025-06-23,Second Class,PROD-0102,610.27,2,0.0,166.99,Technology,Copiers,Miss Copiers
+509,CUST-0117,Nancy Velasquez,Home Office,USA,East Anthonyfurt,Tennessee,4567,South,ORD-66486,2025-05-20,2025-05-24,First Class,PROD-0102,811.2,1,0.2,43.83,Technology,Copiers,Miss Copiers
+510,CUST-0137,Mary Fields,Home Office,USA,East Denise,Michigan,52260,East,ORD-77142,2024-10-27,2024-10-30,Second Class,PROD-0102,1492.81,10,0.17,130.67,Technology,Copiers,Miss Copiers
+511,CUST-0076,Kristen Spencer,Corporate,USA,Beckerberg,Ohio,63673,West,ORD-47807,2023-12-31,2024-01-01,Same Day,PROD-0102,1779.29,7,0.13,175.99,Technology,Copiers,Miss Copiers
+512,CUST-0270,Jessica Lopez,Corporate,USA,Fosterton,Washington,71397,South,ORD-62633,2023-12-14,2023-12-21,First Class,PROD-0103,1280.26,10,0.11,197.35,Office Supplies,Storage,Near Storage
+513,CUST-0063,Virginia Frazier,Corporate,USA,Dixonberg,Wisconsin,65661,West,ORD-38902,2023-11-22,2023-12-01,Standard Class,PROD-0103,1922.01,10,0.27,346.46,Office Supplies,Storage,Near Storage
+514,CUST-0005,Daniel Meyer,Home Office,USA,Lake Sharonborough,New Jersey,96149,Central,ORD-92098,2023-10-28,2023-11-02,Same Day,PROD-0103,143.58,6,0.02,42.02,Office Supplies,Storage,Near Storage
+515,CUST-0152,Jonathan Bean,Corporate,USA,Petersonfort,South Carolina,78658,Central,ORD-92612,2024-03-07,2024-03-15,First Class,PROD-0103,10.27,9,0.24,1.52,Office Supplies,Storage,Near Storage
+516,CUST-0160,Angela Robbins,Home Office,USA,Herrerafurt,Rhode Island,53721,South,ORD-69199,2025-08-10,2025-08-12,Same Day,PROD-0103,342.46,6,0.13,39.35,Office Supplies,Storage,Near Storage
+517,CUST-0253,Lisa Love,Home Office,USA,Bakerside,Missouri,1190,East,ORD-20303,2025-06-12,2025-06-22,Same Day,PROD-0103,1792.29,1,0.04,344.98,Office Supplies,Storage,Near Storage
+518,CUST-0274,Jennifer Francis,Home Office,USA,Williamside,Idaho,97664,West,ORD-44849,2023-09-10,2023-09-19,Second Class,PROD-0104,740.24,1,0.07,164.77,Furniture,Tables,Network Tables
+519,CUST-0058,Richard Chavez,Consumer,USA,New Daniel,Iowa,45803,East,ORD-87433,2024-07-29,2024-08-06,Standard Class,PROD-0104,906.02,5,0.07,189.58,Furniture,Tables,Network Tables
+520,CUST-0090,Jason Harris,Corporate,USA,Larsonmouth,Indiana,8442,West,ORD-54670,2024-10-16,2024-10-23,First Class,PROD-0104,586.31,5,0.04,157.84,Furniture,Tables,Network Tables
+521,CUST-0032,Brian Romero,Corporate,USA,Morseside,Indiana,38293,West,ORD-14389,2025-01-24,2025-02-03,Standard Class,PROD-0104,1876.44,10,0.04,266.33,Furniture,Tables,Network Tables
+522,CUST-0216,Mary Fox,Consumer,USA,South Alexander,Oregon,14469,Central,ORD-95133,2025-01-27,2025-01-30,Same Day,PROD-0104,379.22,1,0.06,54.1,Furniture,Tables,Network Tables
+523,CUST-0094,Luke May,Home Office,USA,South Lori,North Carolina,16404,Central,ORD-25544,2025-03-26,2025-04-04,Standard Class,PROD-0104,271.29,3,0.25,52.76,Furniture,Tables,Network Tables
+524,CUST-0058,Richard Chavez,Consumer,USA,New Daniel,Iowa,45803,East,ORD-65374,2023-12-26,2023-12-29,First Class,PROD-0105,1846.26,7,0.25,251.0,Office Supplies,Appliances,Prove Appliances
+525,CUST-0216,Mary Fox,Consumer,USA,South Alexander,Oregon,14469,Central,ORD-81746,2025-05-07,2025-05-09,Second Class,PROD-0105,685.17,5,0.2,76.73,Office Supplies,Appliances,Prove Appliances
+526,CUST-0075,Angela Ochoa,Consumer,USA,New Tami,Florida,77175,West,ORD-13630,2025-01-16,2025-01-22,Standard Class,PROD-0105,1498.92,5,0.21,341.77,Office Supplies,Appliances,Prove Appliances
+527,CUST-0258,Marco Brandt,Corporate,USA,Ricardoside,West Virginia,98281,Central,ORD-30108,2023-08-28,2023-08-30,Second Class,PROD-0106,285.99,5,0.1,48.98,Office Supplies,Appliances,Chair Appliances
+528,CUST-0100,Patricia Smith,Home Office,USA,Lake Eric,New Jersey,57678,East,ORD-50615,2023-10-09,2023-10-16,First Class,PROD-0106,414.55,4,0.29,56.72,Office Supplies,Appliances,Chair Appliances
+529,CUST-0070,Rachel Trevino,Home Office,USA,Jonesview,Delaware,49537,Central,ORD-42872,2024-02-10,2024-02-13,First Class,PROD-0106,1302.14,6,0.21,66.16,Office Supplies,Appliances,Chair Appliances
+530,CUST-0097,Marcus Brown,Home Office,USA,East Misty,Maine,37724,West,ORD-14323,2024-04-01,2024-04-03,Same Day,PROD-0106,1928.52,4,0.03,481.77,Office Supplies,Appliances,Chair Appliances
+531,CUST-0144,David Jenkins,Corporate,USA,South Nathaniel,Alabama,17072,East,ORD-88877,2023-11-10,2023-11-16,First Class,PROD-0106,1205.52,10,0.14,237.35,Office Supplies,Appliances,Chair Appliances
+532,CUST-0202,Carlos Campbell,Consumer,USA,Riveraville,Kentucky,9299,West,ORD-55463,2025-01-06,2025-01-14,Second Class,PROD-0106,1719.52,10,0.05,468.03,Office Supplies,Appliances,Chair Appliances
+533,CUST-0085,Amanda Hall,Corporate,USA,North Kentberg,Kentucky,82400,East,ORD-95347,2025-01-04,2025-01-08,Same Day,PROD-0107,1250.21,2,0.3,171.54,Office Supplies,Storage,Conference Storage
+534,CUST-0048,Alexander Sandoval,Consumer,USA,Caseybury,Rhode Island,9856,South,ORD-49272,2024-08-22,2024-08-28,Standard Class,PROD-0107,611.98,4,0.06,171.6,Office Supplies,Storage,Conference Storage
+535,CUST-0294,Nicolas Melendez,Corporate,USA,Tracybury,Delaware,67369,West,ORD-11105,2024-05-08,2024-05-13,Second Class,PROD-0107,1503.02,1,0.17,437.91,Office Supplies,Storage,Conference Storage
+536,CUST-0041,Timothy Miller,Consumer,USA,South William,Illinois,79183,East,ORD-91444,2025-07-27,2025-07-30,First Class,PROD-0107,878.92,10,0.26,175.51,Office Supplies,Storage,Conference Storage
+537,CUST-0122,Nathan Glenn,Consumer,USA,Natashashire,Virginia,11249,East,ORD-76187,2024-05-26,2024-06-05,Standard Class,PROD-0108,542.13,3,0.16,32.14,Technology,Machines,Religious Machines
+538,CUST-0212,Beth Lopez,Home Office,USA,West Troyshire,Illinois,14711,West,ORD-14016,2025-01-08,2025-01-13,First Class,PROD-0108,1253.0,5,0.08,276.53,Technology,Machines,Religious Machines
+539,CUST-0111,Miguel Grant,Corporate,USA,West Lori,Michigan,49160,Central,ORD-41691,2025-06-12,2025-06-19,First Class,PROD-0109,683.05,6,0.04,201.82,Office Supplies,Binders,Assume Binders
+540,CUST-0053,Vicki Lopez,Corporate,USA,East Debbie,California,20175,East,ORD-51044,2024-08-09,2024-08-12,Same Day,PROD-0109,1856.2,9,0.29,535.88,Office Supplies,Binders,Assume Binders
+541,CUST-0201,Joseph Berry,Consumer,USA,South Joseph,Washington,14677,East,ORD-92594,2025-06-30,2025-07-01,Same Day,PROD-0109,1351.77,7,0.22,152.43,Office Supplies,Binders,Assume Binders
+542,CUST-0005,Daniel Meyer,Home Office,USA,Lake Sharonborough,New Jersey,96149,Central,ORD-70486,2025-07-15,2025-07-22,Standard Class,PROD-0110,961.21,3,0.07,104.01,Furniture,Tables,Democrat Tables
+543,CUST-0227,Jordan Andrade,Corporate,USA,Carrilloville,Pennsylvania,89425,South,ORD-90766,2025-06-11,2025-06-21,Standard Class,PROD-0110,258.03,7,0.06,52.12,Furniture,Tables,Democrat Tables
+544,CUST-0167,Henry Wagner,Consumer,USA,Port James,Ohio,86289,East,ORD-22288,2024-05-24,2024-05-25,First Class,PROD-0110,1069.26,1,0.03,153.92,Furniture,Tables,Democrat Tables
+545,CUST-0289,Jennifer Williams,Corporate,USA,West Dennis,Delaware,53584,South,ORD-48587,2024-08-03,2024-08-05,Standard Class,PROD-0110,755.4,3,0.21,149.69,Furniture,Tables,Democrat Tables
+546,CUST-0109,Mackenzie Aguilar,Home Office,USA,North Robert,Kentucky,67736,Central,ORD-47498,2024-02-19,2024-02-29,Standard Class,PROD-0110,508.55,5,0.04,138.23,Furniture,Tables,Democrat Tables
+547,CUST-0134,Mercedes Yoder,Corporate,USA,South Amandamouth,Louisiana,77170,South,ORD-10592,2023-08-26,2023-09-04,Standard Class,PROD-0110,411.3,2,0.25,25.34,Furniture,Tables,Democrat Tables
+548,CUST-0261,Jeffrey Moore,Home Office,USA,Justinbury,Maryland,66130,Central,ORD-86490,2025-06-28,2025-07-02,Same Day,PROD-0111,772.11,4,0.15,127.29,Office Supplies,Binders,Pick Binders
+549,CUST-0155,Justin Hull,Consumer,USA,New Alexismouth,Hawaii,48036,West,ORD-88156,2025-06-20,2025-06-29,Same Day,PROD-0112,387.83,8,0.23,60.14,Furniture,Tables,Series Tables
+550,CUST-0038,Nathan House,Consumer,USA,Alvarezbury,Wisconsin,40681,Central,ORD-88016,2023-08-28,2023-09-05,Second Class,PROD-0112,15.91,1,0.22,2.86,Furniture,Tables,Series Tables
+551,CUST-0204,Tammy Rodriguez,Corporate,USA,Heathershire,Missouri,2661,East,ORD-91613,2025-01-29,2025-02-07,First Class,PROD-0112,835.83,2,0.08,192.39,Furniture,Tables,Series Tables
+552,CUST-0243,Terry Watts,Corporate,USA,Lisahaven,New Mexico,34455,Central,ORD-63315,2024-10-31,2024-11-09,Second Class,PROD-0112,1084.87,3,0.12,300.62,Furniture,Tables,Series Tables
+553,CUST-0235,Douglas Smith,Home Office,USA,Cherylburgh,Hawaii,93308,East,ORD-10117,2023-10-08,2023-10-15,First Class,PROD-0112,1771.81,1,0.24,186.39,Furniture,Tables,Series Tables
+554,CUST-0128,Lacey Taylor,Consumer,USA,New Tyler,Tennessee,68820,East,ORD-50487,2024-10-16,2024-10-24,Standard Class,PROD-0112,1633.81,5,0.26,432.93,Furniture,Tables,Series Tables
+555,CUST-0153,Jenny Fleming,Consumer,USA,Kiddstad,Arkansas,66784,South,ORD-92157,2025-05-29,2025-05-31,Standard Class,PROD-0112,1612.33,6,0.18,233.17,Furniture,Tables,Series Tables
+556,CUST-0274,Jennifer Francis,Home Office,USA,Williamside,Idaho,97664,West,ORD-76057,2023-10-22,2023-10-29,Second Class,PROD-0113,46.85,10,0.17,3.93,Office Supplies,Appliances,Quite Appliances
+557,CUST-0259,Brittany Robinson,Corporate,USA,Port Samuel,Tennessee,93864,Central,ORD-33657,2024-03-01,2024-03-04,First Class,PROD-0113,12.63,5,0.3,2.94,Office Supplies,Appliances,Quite Appliances
+558,CUST-0054,Kyle Rivera,Corporate,USA,Garyville,Montana,29618,South,ORD-58002,2023-12-17,2023-12-26,Second Class,PROD-0113,89.48,4,0.13,10.32,Office Supplies,Appliances,Quite Appliances
+559,CUST-0272,Steven Palmer,Corporate,USA,Laurafort,Maine,82630,West,ORD-63938,2024-03-26,2024-04-03,Standard Class,PROD-0114,1953.17,10,0.07,150.32,Furniture,Furnishings,Should Furnishings
+560,CUST-0159,Gary Leon,Corporate,USA,Harrisstad,New Hampshire,9893,East,ORD-34173,2025-04-10,2025-04-13,Second Class,PROD-0115,1632.87,4,0.2,83.59,Office Supplies,Storage,Because Storage
+561,CUST-0280,Jeffrey Holmes,Home Office,USA,East Thomas,Massachusetts,72460,Central,ORD-43951,2024-04-12,2024-04-18,Standard Class,PROD-0115,1996.94,9,0.11,265.71,Office Supplies,Storage,Because Storage
+562,CUST-0150,Matthew Thomas,Home Office,USA,Fosterside,New Mexico,8014,South,ORD-32067,2025-02-13,2025-02-15,Second Class,PROD-0115,892.04,5,0.05,126.86,Office Supplies,Storage,Because Storage
+563,CUST-0226,Jennifer Williams,Consumer,USA,South Julieburgh,New Jersey,50212,West,ORD-28523,2025-07-21,2025-07-25,Standard Class,PROD-0115,1459.2,10,0.05,166.9,Office Supplies,Storage,Because Storage
+564,CUST-0286,Raymond Gallagher,Corporate,USA,North Mikeview,Minnesota,78586,Central,ORD-43865,2024-09-19,2024-09-29,First Class,PROD-0115,1468.96,10,0.28,358.99,Office Supplies,Storage,Because Storage
+565,CUST-0065,Eric Rodriguez,Home Office,USA,Taraburgh,Oregon,65854,Central,ORD-15634,2024-10-22,2024-10-30,First Class,PROD-0115,1938.03,1,0.23,214.97,Office Supplies,Storage,Because Storage
+566,CUST-0199,Gina Wilson,Corporate,USA,South Natashaland,Arkansas,33658,South,ORD-39147,2024-01-12,2024-01-13,Same Day,PROD-0115,1492.72,8,0.23,377.38,Office Supplies,Storage,Because Storage
+567,CUST-0005,Daniel Meyer,Home Office,USA,Lake Sharonborough,New Jersey,96149,Central,ORD-86039,2023-10-29,2023-11-01,Standard Class,PROD-0116,487.71,2,0.07,57.39,Furniture,Bookcases,Last Bookcases
+568,CUST-0118,Steven Arnold,Home Office,USA,Lake Jamesshire,New York,44720,West,ORD-58246,2023-09-03,2023-09-08,Second Class,PROD-0116,273.43,2,0.17,62.95,Furniture,Bookcases,Last Bookcases
+569,CUST-0299,Emily Rich,Home Office,USA,East Calebchester,New Jersey,74561,West,ORD-90219,2024-12-31,2025-01-06,Same Day,PROD-0116,989.35,3,0.13,111.45,Furniture,Bookcases,Last Bookcases
+570,CUST-0263,Rebecca Hogan,Home Office,USA,Michellebury,Maine,18261,East,ORD-95229,2024-06-27,2024-06-30,Same Day,PROD-0116,1432.25,3,0.06,243.75,Furniture,Bookcases,Last Bookcases
+571,CUST-0203,Stephanie Yoder,Corporate,USA,Tuckerton,Hawaii,30340,Central,ORD-39976,2024-06-06,2024-06-08,Second Class,PROD-0117,10.39,1,0.24,1.51,Furniture,Bookcases,Might Bookcases
+572,CUST-0202,Carlos Campbell,Consumer,USA,Riveraville,Kentucky,9299,West,ORD-92242,2023-11-29,2023-11-30,First Class,PROD-0117,673.73,4,0.12,178.49,Furniture,Bookcases,Might Bookcases
+573,CUST-0240,Samantha Bennett,Consumer,USA,East Jennifer,Kansas,30466,West,ORD-25356,2023-10-27,2023-10-28,First Class,PROD-0117,1085.92,9,0.26,227.64,Furniture,Bookcases,Might Bookcases
+574,CUST-0084,Jay Thompson,Corporate,USA,Patrickmouth,Massachusetts,68044,Central,ORD-54610,2024-04-26,2024-05-02,Standard Class,PROD-0117,26.47,5,0.21,3.51,Furniture,Bookcases,Might Bookcases
+575,CUST-0080,Travis Perry DVM,Corporate,USA,Port Alexander,Georgia,72331,South,ORD-80477,2024-10-19,2024-10-21,First Class,PROD-0118,355.2,6,0.12,19.7,Furniture,Furnishings,Environmental Furnishings
+576,CUST-0154,Anthony Paul,Home Office,USA,Valerieborough,Idaho,56040,South,ORD-50941,2024-06-30,2024-07-07,Standard Class,PROD-0118,443.15,7,0.2,107.86,Furniture,Furnishings,Environmental Furnishings
+577,CUST-0245,Michael Robbins,Corporate,USA,Sierramouth,Nebraska,35766,West,ORD-29755,2024-11-17,2024-11-26,Second Class,PROD-0118,1874.21,9,0.17,231.23,Furniture,Furnishings,Environmental Furnishings
+578,CUST-0292,Stephanie Ryan,Home Office,USA,Masonberg,Illinois,20079,West,ORD-34720,2024-10-29,2024-11-08,Standard Class,PROD-0118,50.95,1,0.02,4.21,Furniture,Furnishings,Environmental Furnishings
+579,CUST-0292,Stephanie Ryan,Home Office,USA,Masonberg,Illinois,20079,West,ORD-23445,2025-08-12,2025-08-20,Second Class,PROD-0119,1557.51,10,0.24,415.52,Office Supplies,Paper,Listen Paper
+580,CUST-0152,Jonathan Bean,Corporate,USA,Petersonfort,South Carolina,78658,Central,ORD-81113,2024-08-13,2024-08-16,First Class,PROD-0119,1419.01,7,0.21,373.02,Office Supplies,Paper,Listen Paper
+581,CUST-0036,Joseph Molina MD,Home Office,USA,Christopherview,Florida,80450,East,ORD-24091,2024-08-03,2024-08-10,First Class,PROD-0119,1959.04,2,0.19,436.84,Office Supplies,Paper,Listen Paper
+582,CUST-0031,Roger Taylor,Home Office,USA,Robinmouth,Wyoming,74869,Central,ORD-91224,2024-11-09,2024-11-10,Second Class,PROD-0119,880.87,5,0.2,149.66,Office Supplies,Paper,Listen Paper
+583,CUST-0045,Lisa Page,Home Office,USA,South Walter,Utah,66638,Central,ORD-59409,2025-05-23,2025-05-31,First Class,PROD-0119,1836.95,3,0.03,324.32,Office Supplies,Paper,Listen Paper
+584,CUST-0199,Gina Wilson,Corporate,USA,South Natashaland,Arkansas,33658,South,ORD-57897,2024-10-28,2024-10-31,Standard Class,PROD-0120,1627.43,1,0.13,110.28,Office Supplies,Binders,Hard Binders
+585,CUST-0211,Julie Hester,Corporate,USA,Matthewsview,Wyoming,14418,West,ORD-21148,2025-08-03,2025-08-04,Second Class,PROD-0120,1264.77,7,0.01,95.46,Office Supplies,Binders,Hard Binders
+586,CUST-0017,Michael Juarez,Home Office,USA,Singletonmouth,Rhode Island,35828,East,ORD-93714,2024-01-24,2024-01-25,First Class,PROD-0120,1302.49,10,0.15,365.91,Office Supplies,Binders,Hard Binders
+587,CUST-0228,Daniel Wells,Consumer,USA,Russostad,South Dakota,798,Central,ORD-85519,2024-03-21,2024-03-23,Same Day,PROD-0120,409.23,3,0.17,27.3,Office Supplies,Binders,Hard Binders
+588,CUST-0006,Daniel French,Home Office,USA,North Alyssa,Indiana,39335,West,ORD-85780,2024-11-22,2024-12-01,Standard Class,PROD-0121,758.38,1,0.13,64.26,Furniture,Furnishings,Space Furnishings
+589,CUST-0164,Craig Garcia,Corporate,USA,South Carolinemouth,Kansas,68748,Central,ORD-75149,2025-04-12,2025-04-17,Same Day,PROD-0121,498.53,5,0.04,53.28,Furniture,Furnishings,Space Furnishings
+590,CUST-0145,Terri Macdonald,Corporate,USA,South Megan,Nebraska,30179,East,ORD-96314,2023-10-31,2023-11-02,First Class,PROD-0121,1348.78,5,0.2,209.04,Furniture,Furnishings,Space Furnishings
+591,CUST-0010,Sandra Bates,Corporate,USA,Hernandezmouth,Maryland,96553,West,ORD-36072,2024-09-18,2024-09-26,First Class,PROD-0121,520.76,9,0.01,32.57,Furniture,Furnishings,Space Furnishings
+592,CUST-0006,Daniel French,Home Office,USA,North Alyssa,Indiana,39335,West,ORD-62398,2025-05-02,2025-05-12,Same Day,PROD-0121,637.88,8,0.08,143.6,Furniture,Furnishings,Space Furnishings
+593,CUST-0213,Dr. Catherine Coleman,Consumer,USA,Tristanview,Connecticut,72669,East,ORD-86558,2023-12-29,2024-01-01,Second Class,PROD-0121,1164.86,6,0.19,157.32,Furniture,Furnishings,Space Furnishings
+594,CUST-0022,Nancy Stevenson,Consumer,USA,Lake Aimee,Massachusetts,45310,Central,ORD-65138,2025-04-21,2025-04-24,Same Day,PROD-0121,1028.67,4,0.1,208.26,Furniture,Furnishings,Space Furnishings
+595,CUST-0125,Jesus Kidd,Consumer,USA,North Thomas,South Carolina,75420,East,ORD-21013,2025-07-09,2025-07-16,Second Class,PROD-0121,176.72,9,0.19,39.45,Furniture,Furnishings,Space Furnishings
+596,CUST-0029,John Martin,Corporate,USA,North Kristin,Alaska,51879,South,ORD-13396,2025-06-08,2025-06-15,Second Class,PROD-0122,1312.72,4,0.25,203.07,Furniture,Chairs,Fear Chairs
+597,CUST-0162,Julie Daniels,Consumer,USA,Romerofort,Texas,70861,South,ORD-68653,2023-12-22,2023-12-28,Standard Class,PROD-0122,1614.33,4,0.14,451.96,Furniture,Chairs,Fear Chairs
+598,CUST-0258,Marco Brandt,Corporate,USA,Ricardoside,West Virginia,98281,Central,ORD-90855,2025-05-19,2025-05-25,Second Class,PROD-0122,323.59,9,0.08,18.59,Furniture,Chairs,Fear Chairs
+599,CUST-0225,Anthony Jones,Consumer,USA,Blackport,West Virginia,31767,Central,ORD-88440,2025-02-26,2025-03-08,Same Day,PROD-0122,259.88,7,0.13,40.22,Furniture,Chairs,Fear Chairs
+600,CUST-0150,Matthew Thomas,Home Office,USA,Fosterside,New Mexico,8014,South,ORD-15123,2024-09-08,2024-09-11,Second Class,PROD-0122,263.08,1,0.28,39.38,Furniture,Chairs,Fear Chairs
+601,CUST-0195,Todd Coleman,Consumer,USA,Porterbury,Florida,43819,Central,ORD-54846,2024-12-12,2024-12-16,Standard Class,PROD-0122,1365.8,7,0.3,208.81,Furniture,Chairs,Fear Chairs
+602,CUST-0141,Megan Mitchell,Consumer,USA,North Virginiachester,South Carolina,14204,East,ORD-63175,2024-06-17,2024-06-18,Standard Class,PROD-0122,567.2,3,0.22,113.91,Furniture,Chairs,Fear Chairs
+603,CUST-0089,Thomas Jackson,Corporate,USA,Gardnerport,Illinois,96269,Central,ORD-94353,2024-02-10,2024-02-16,Same Day,PROD-0122,1156.57,4,0.07,276.88,Furniture,Chairs,Fear Chairs
+604,CUST-0234,Patrick Mooney,Home Office,USA,East Timothy,Kansas,85093,Central,ORD-54231,2024-05-19,2024-05-20,Same Day,PROD-0123,1117.51,1,0.24,96.7,Furniture,Bookcases,Raise Bookcases
+605,CUST-0018,Thomas Burgess,Consumer,USA,Robinsonland,Wisconsin,75631,Central,ORD-38841,2025-05-05,2025-05-11,Second Class,PROD-0123,1655.34,2,0.03,112.72,Furniture,Bookcases,Raise Bookcases
+606,CUST-0216,Mary Fox,Consumer,USA,South Alexander,Oregon,14469,Central,ORD-43885,2023-10-19,2023-10-23,Same Day,PROD-0123,376.88,4,0.2,35.16,Furniture,Bookcases,Raise Bookcases
+607,CUST-0065,Eric Rodriguez,Home Office,USA,Taraburgh,Oregon,65854,Central,ORD-18178,2023-10-08,2023-10-13,Standard Class,PROD-0123,1317.06,9,0.17,325.31,Furniture,Bookcases,Raise Bookcases
+608,CUST-0092,Louis Roberts,Corporate,USA,South Caleb,Tennessee,80043,Central,ORD-75763,2025-02-23,2025-02-25,Second Class,PROD-0123,869.11,5,0.29,121.72,Furniture,Bookcases,Raise Bookcases
+609,CUST-0106,Kristin Richards,Consumer,USA,Morenoview,Nevada,86504,South,ORD-41232,2025-08-10,2025-08-16,First Class,PROD-0124,1018.66,4,0.2,278.1,Technology,Phones,Blood Phones
+610,CUST-0227,Jordan Andrade,Corporate,USA,Carrilloville,Pennsylvania,89425,South,ORD-71805,2024-11-19,2024-11-24,First Class,PROD-0124,478.83,4,0.22,114.01,Technology,Phones,Blood Phones
+611,CUST-0206,Brenda Adams,Consumer,USA,Lake Donnafurt,Nebraska,36263,South,ORD-89315,2025-06-01,2025-06-10,First Class,PROD-0124,799.84,1,0.22,114.09,Technology,Phones,Blood Phones
+612,CUST-0143,Paige Patterson,Corporate,USA,Laurenburgh,Massachusetts,57099,West,ORD-85387,2025-03-12,2025-03-13,Standard Class,PROD-0124,994.28,5,0.01,170.07,Technology,Phones,Blood Phones
+613,CUST-0190,Brian Campos,Corporate,USA,East Melindaton,Kentucky,56709,West,ORD-65508,2024-06-16,2024-06-23,Second Class,PROD-0125,336.39,7,0.12,69.88,Office Supplies,Storage,Opportunity Storage
+614,CUST-0299,Emily Rich,Home Office,USA,East Calebchester,New Jersey,74561,West,ORD-19226,2025-03-29,2025-03-30,Same Day,PROD-0125,628.25,10,0.12,131.67,Office Supplies,Storage,Opportunity Storage
+615,CUST-0133,Charles Hughes,Corporate,USA,Nathanchester,Delaware,53183,West,ORD-26754,2024-01-31,2024-02-02,Same Day,PROD-0125,274.74,5,0.04,66.08,Office Supplies,Storage,Opportunity Storage
+616,CUST-0281,Sherri Perez,Home Office,USA,Rodriguezchester,Virginia,666,South,ORD-57039,2025-06-26,2025-06-27,Same Day,PROD-0125,1950.91,7,0.17,525.91,Office Supplies,Storage,Opportunity Storage
+617,CUST-0211,Julie Hester,Corporate,USA,Matthewsview,Wyoming,14418,West,ORD-96715,2024-01-01,2024-01-10,Same Day,PROD-0125,305.39,2,0.17,26.26,Office Supplies,Storage,Opportunity Storage
+618,CUST-0261,Jeffrey Moore,Home Office,USA,Justinbury,Maryland,66130,Central,ORD-30938,2024-09-21,2024-09-25,First Class,PROD-0125,1203.87,6,0.22,180.42,Office Supplies,Storage,Opportunity Storage
+619,CUST-0272,Steven Palmer,Corporate,USA,Laurafort,Maine,82630,West,ORD-66475,2025-01-14,2025-01-24,Same Day,PROD-0125,1467.58,1,0.02,349.79,Office Supplies,Storage,Opportunity Storage
+620,CUST-0252,Scott Johnson DVM,Home Office,USA,Davischester,Montana,94361,East,ORD-79163,2025-07-23,2025-07-28,Second Class,PROD-0125,1239.82,2,0.25,245.86,Office Supplies,Storage,Opportunity Storage
+621,CUST-0143,Paige Patterson,Corporate,USA,Laurenburgh,Massachusetts,57099,West,ORD-60654,2025-07-13,2025-07-20,Standard Class,PROD-0126,931.85,3,0.2,111.04,Technology,Accessories,Rule Accessories
+622,CUST-0079,Justin Jacobson,Corporate,USA,Danielburgh,Indiana,50912,East,ORD-13159,2023-12-26,2023-12-31,Standard Class,PROD-0126,1692.06,7,0.19,164.5,Technology,Accessories,Rule Accessories
+623,CUST-0042,Mr. Patrick Brown PhD,Consumer,USA,East Donnatown,Arizona,69135,East,ORD-55892,2025-07-13,2025-07-18,Same Day,PROD-0126,1914.29,9,0.21,530.2,Technology,Accessories,Rule Accessories
+624,CUST-0236,Chad Warren,Corporate,USA,North Nicole,Georgia,12887,West,ORD-20844,2025-08-08,2025-08-15,Same Day,PROD-0126,67.11,2,0.05,17.29,Technology,Accessories,Rule Accessories
+625,CUST-0154,Anthony Paul,Home Office,USA,Valerieborough,Idaho,56040,South,ORD-63017,2024-05-27,2024-06-06,First Class,PROD-0126,538.69,3,0.23,44.93,Technology,Accessories,Rule Accessories
+626,CUST-0150,Matthew Thomas,Home Office,USA,Fosterside,New Mexico,8014,South,ORD-11481,2025-07-09,2025-07-13,Standard Class,PROD-0126,1566.44,8,0.28,141.9,Technology,Accessories,Rule Accessories
+627,CUST-0240,Samantha Bennett,Consumer,USA,East Jennifer,Kansas,30466,West,ORD-86045,2024-06-08,2024-06-14,First Class,PROD-0126,349.96,3,0.04,83.71,Technology,Accessories,Rule Accessories
+628,CUST-0264,James Boyd,Corporate,USA,Floresside,Colorado,56476,West,ORD-67281,2024-08-03,2024-08-05,Second Class,PROD-0127,149.6,2,0.12,16.2,Furniture,Tables,Eat Tables
+629,CUST-0284,Michael Brown,Consumer,USA,Garciatown,Florida,5927,East,ORD-16505,2024-12-10,2024-12-19,Standard Class,PROD-0127,1461.2,8,0.16,378.04,Furniture,Tables,Eat Tables
+630,CUST-0057,Brittany Zhang,Consumer,USA,Lake Fred,Alabama,5310,Central,ORD-97394,2025-06-17,2025-06-27,Second Class,PROD-0127,118.93,1,0.14,14.63,Furniture,Tables,Eat Tables
+631,CUST-0180,Angela Reese,Consumer,USA,Ginamouth,Alabama,94228,West,ORD-61095,2024-09-10,2024-09-17,Second Class,PROD-0127,979.62,9,0.16,234.35,Furniture,Tables,Eat Tables
+632,CUST-0149,Brian Johns,Home Office,USA,North Samuelshire,Alaska,89184,South,ORD-96568,2024-09-30,2024-10-02,Second Class,PROD-0128,1059.61,8,0.09,245.85,Furniture,Furnishings,Pay Furnishings
+633,CUST-0158,Robin Hanson MD,Corporate,USA,Tinachester,Indiana,8171,South,ORD-54741,2025-03-20,2025-03-26,Standard Class,PROD-0128,1619.25,1,0.2,239.11,Furniture,Furnishings,Pay Furnishings
+634,CUST-0189,Jorge Washington,Home Office,USA,Port Terrifort,Oklahoma,52307,Central,ORD-36390,2024-11-06,2024-11-13,Same Day,PROD-0129,1658.25,3,0.02,173.74,Furniture,Furnishings,Quickly Furnishings
+635,CUST-0009,Andrea Jackson,Consumer,USA,New Alexandria,Maryland,56649,East,ORD-94458,2024-09-23,2024-09-29,Same Day,PROD-0130,1259.97,10,0.03,226.21,Furniture,Tables,Single Tables
+636,CUST-0186,Rita Jefferson,Consumer,USA,South Mark,Virginia,98002,Central,ORD-43064,2023-09-26,2023-10-03,First Class,PROD-0130,1051.85,1,0.08,104.32,Furniture,Tables,Single Tables
+637,CUST-0243,Terry Watts,Corporate,USA,Lisahaven,New Mexico,34455,Central,ORD-56954,2024-07-19,2024-07-24,Second Class,PROD-0131,1156.37,6,0.16,237.5,Furniture,Bookcases,Thousand Bookcases
+638,CUST-0092,Louis Roberts,Corporate,USA,South Caleb,Tennessee,80043,Central,ORD-89863,2024-07-18,2024-07-19,Second Class,PROD-0131,1341.71,4,0.25,205.41,Furniture,Bookcases,Thousand Bookcases
+639,CUST-0269,Billy Hodges,Consumer,USA,Brittanyville,Mississippi,41187,South,ORD-77899,2025-04-03,2025-04-13,Standard Class,PROD-0131,1052.82,8,0.16,247.97,Furniture,Bookcases,Thousand Bookcases
+640,CUST-0049,Daniel May,Corporate,USA,Kiddtown,Kentucky,44709,Central,ORD-39190,2024-05-19,2024-05-22,Standard Class,PROD-0131,1457.67,5,0.3,316.06,Furniture,Bookcases,Thousand Bookcases
+641,CUST-0098,Matthew Conner,Home Office,USA,Nortonstad,Vermont,92927,East,ORD-22670,2024-12-11,2024-12-17,First Class,PROD-0131,1891.31,9,0.11,288.12,Furniture,Bookcases,Thousand Bookcases
+642,CUST-0060,Mr. Tyler Stevens,Consumer,USA,Jamesville,Virginia,75189,West,ORD-33952,2024-08-01,2024-08-08,Same Day,PROD-0131,1678.74,4,0.1,236.53,Furniture,Bookcases,Thousand Bookcases
+643,CUST-0241,Mark Hale,Corporate,USA,East Josephberg,Connecticut,34922,West,ORD-91683,2023-09-22,2023-09-28,Second Class,PROD-0132,596.67,3,0.14,103.79,Office Supplies,Storage,Brother Storage
+644,CUST-0190,Brian Campos,Corporate,USA,East Melindaton,Kentucky,56709,West,ORD-34827,2023-09-10,2023-09-20,Same Day,PROD-0132,654.65,3,0.22,170.49,Office Supplies,Storage,Brother Storage
+645,CUST-0138,Julie Hinton,Home Office,USA,West Cassandraview,New Mexico,59336,Central,ORD-56712,2025-02-07,2025-02-13,Same Day,PROD-0132,893.3,1,0.1,50.5,Office Supplies,Storage,Brother Storage
+646,CUST-0056,Tyler Mcbride,Consumer,USA,Lawrenceview,Iowa,11759,West,ORD-62660,2025-06-26,2025-07-03,First Class,PROD-0132,629.23,4,0.23,95.04,Office Supplies,Storage,Brother Storage
+647,CUST-0197,Cynthia Parker,Corporate,USA,Debrabury,Maine,25438,Central,ORD-10449,2024-02-18,2024-02-20,Second Class,PROD-0132,336.54,2,0.18,61.66,Office Supplies,Storage,Brother Storage
+648,CUST-0200,Randy Fisher,Consumer,USA,East Amy,Alabama,77022,Central,ORD-10565,2024-04-04,2024-04-08,First Class,PROD-0132,68.09,9,0.14,3.85,Office Supplies,Storage,Brother Storage
+649,CUST-0172,Cassandra Good,Home Office,USA,North Russellville,Hawaii,23235,East,ORD-75893,2024-07-29,2024-08-03,Second Class,PROD-0133,1596.52,1,0.17,438.92,Furniture,Tables,Everyone Tables
+650,CUST-0077,John Thompson,Corporate,USA,Lake Bradleychester,Ohio,70758,Central,ORD-32104,2024-09-11,2024-09-14,Second Class,PROD-0133,552.06,1,0.02,41.1,Furniture,Tables,Everyone Tables
+651,CUST-0231,Steven Reed,Consumer,USA,Port Kimberly,Alabama,44889,East,ORD-26259,2023-11-17,2023-11-22,Standard Class,PROD-0133,1716.94,3,0.15,413.53,Furniture,Tables,Everyone Tables
+652,CUST-0261,Jeffrey Moore,Home Office,USA,Justinbury,Maryland,66130,Central,ORD-71024,2023-10-18,2023-10-27,Second Class,PROD-0134,1674.19,9,0.19,265.68,Technology,Copiers,Success Copiers
+653,CUST-0021,Mark Gonzales,Home Office,USA,Dakotastad,Nevada,61885,South,ORD-60508,2024-08-22,2024-08-27,Second Class,PROD-0134,460.28,10,0.11,134.17,Technology,Copiers,Success Copiers
+654,CUST-0039,Susan Brown,Consumer,USA,Maymouth,Colorado,4924,Central,ORD-48385,2024-12-10,2024-12-11,Standard Class,PROD-0134,192.77,10,0.13,41.71,Technology,Copiers,Success Copiers
+655,CUST-0039,Susan Brown,Consumer,USA,Maymouth,Colorado,4924,Central,ORD-91100,2025-05-03,2025-05-13,First Class,PROD-0134,1166.33,1,0.12,236.71,Technology,Copiers,Success Copiers
+656,CUST-0118,Steven Arnold,Home Office,USA,Lake Jamesshire,New York,44720,West,ORD-90173,2023-09-08,2023-09-09,Standard Class,PROD-0134,1205.33,5,0.21,151.77,Technology,Copiers,Success Copiers
+657,CUST-0100,Patricia Smith,Home Office,USA,Lake Eric,New Jersey,57678,East,ORD-29796,2024-09-26,2024-09-28,First Class,PROD-0134,756.12,9,0.27,128.13,Technology,Copiers,Success Copiers
+658,CUST-0102,Kristin Beasley,Home Office,USA,North Scott,South Carolina,35696,South,ORD-25151,2024-07-14,2024-07-23,Same Day,PROD-0134,215.02,2,0.12,26.67,Technology,Copiers,Success Copiers
+659,CUST-0298,Kara Melton,Consumer,USA,North Timothystad,South Dakota,40097,West,ORD-71567,2023-11-10,2023-11-15,Second Class,PROD-0134,508.11,8,0.18,102.97,Technology,Copiers,Success Copiers
+660,CUST-0151,Robert Morris,Home Office,USA,Vaughnmouth,California,5584,South,ORD-92924,2025-02-27,2025-03-09,First Class,PROD-0134,1657.34,4,0.19,261.96,Technology,Copiers,Success Copiers
+661,CUST-0057,Brittany Zhang,Consumer,USA,Lake Fred,Alabama,5310,Central,ORD-96983,2025-01-19,2025-01-24,Second Class,PROD-0135,528.63,5,0.24,45.72,Office Supplies,Binders,Eye Binders
+662,CUST-0061,Jessica Brock,Corporate,USA,Gordonstad,Washington,15468,Central,ORD-46240,2024-04-25,2024-04-28,Second Class,PROD-0135,1623.06,7,0.23,142.12,Office Supplies,Binders,Eye Binders
+663,CUST-0251,Walter Lynch,Corporate,USA,New Jacob,Texas,38463,West,ORD-40886,2024-05-11,2024-05-14,Same Day,PROD-0135,1740.48,1,0.12,352.72,Office Supplies,Binders,Eye Binders
+664,CUST-0276,James West,Home Office,USA,Martinezfurt,West Virginia,33332,Central,ORD-28518,2024-06-03,2024-06-09,Second Class,PROD-0135,1885.34,5,0.28,124.15,Office Supplies,Binders,Eye Binders
+665,CUST-0141,Megan Mitchell,Consumer,USA,North Virginiachester,South Carolina,14204,East,ORD-17439,2025-01-24,2025-01-27,Same Day,PROD-0135,644.27,7,0.08,36.53,Office Supplies,Binders,Eye Binders
+666,CUST-0190,Brian Campos,Corporate,USA,East Melindaton,Kentucky,56709,West,ORD-58206,2023-12-21,2023-12-27,Same Day,PROD-0135,660.02,5,0.18,195.96,Office Supplies,Binders,Eye Binders
+667,CUST-0298,Kara Melton,Consumer,USA,North Timothystad,South Dakota,40097,West,ORD-94551,2024-11-04,2024-11-07,First Class,PROD-0136,865.51,7,0.25,241.77,Furniture,Furnishings,Finally Furnishings
+668,CUST-0230,Justin Hill,Corporate,USA,Lake Jon,Alaska,15170,Central,ORD-45404,2024-05-30,2024-06-08,First Class,PROD-0136,804.46,6,0.27,145.63,Furniture,Furnishings,Finally Furnishings
+669,CUST-0288,Brittney Spencer,Home Office,USA,Colebury,Georgia,25281,Central,ORD-92799,2023-10-26,2023-11-01,Standard Class,PROD-0136,184.02,9,0.0,11.1,Furniture,Furnishings,Finally Furnishings
+670,CUST-0279,Ryan Howard,Home Office,USA,Riddlehaven,Georgia,12375,Central,ORD-41503,2024-05-01,2024-05-11,First Class,PROD-0136,1160.85,9,0.04,139.47,Furniture,Furnishings,Finally Furnishings
+671,CUST-0010,Sandra Bates,Corporate,USA,Hernandezmouth,Maryland,96553,West,ORD-75727,2024-12-11,2024-12-18,Second Class,PROD-0136,543.44,5,0.27,83.31,Furniture,Furnishings,Finally Furnishings
+672,CUST-0107,Kyle Murray,Corporate,USA,Munozburgh,Alaska,8586,Central,ORD-82776,2023-10-28,2023-10-29,Standard Class,PROD-0137,1860.59,1,0.14,274.43,Furniture,Bookcases,Before Bookcases
+673,CUST-0081,Michelle Wilson,Home Office,USA,East Michelle,Minnesota,32955,Central,ORD-11814,2025-08-03,2025-08-05,Standard Class,PROD-0137,1575.46,2,0.05,257.92,Furniture,Bookcases,Before Bookcases
+674,CUST-0148,Ronald Nguyen,Consumer,USA,North Karenton,Mississippi,20835,South,ORD-28685,2025-05-04,2025-05-05,Second Class,PROD-0137,1930.77,5,0.18,99.7,Furniture,Bookcases,Before Bookcases
+675,CUST-0098,Matthew Conner,Home Office,USA,Nortonstad,Vermont,92927,East,ORD-69723,2023-11-04,2023-11-05,First Class,PROD-0137,188.55,4,0.06,20.65,Furniture,Bookcases,Before Bookcases
+676,CUST-0127,William Butler,Home Office,USA,Ryanchester,Idaho,88237,South,ORD-96431,2025-04-19,2025-04-23,Second Class,PROD-0137,131.69,9,0.09,36.65,Furniture,Bookcases,Before Bookcases
+677,CUST-0148,Ronald Nguyen,Consumer,USA,North Karenton,Mississippi,20835,South,ORD-66169,2024-01-01,2024-01-10,Same Day,PROD-0138,1704.52,10,0.26,191.66,Office Supplies,Storage,Guy Storage
+678,CUST-0030,Michael Tran,Corporate,USA,Leeborough,Nebraska,76193,East,ORD-22873,2023-10-25,2023-10-27,Same Day,PROD-0138,1084.51,1,0.22,238.03,Office Supplies,Storage,Guy Storage
+679,CUST-0089,Thomas Jackson,Corporate,USA,Gardnerport,Illinois,96269,Central,ORD-53753,2024-08-03,2024-08-06,First Class,PROD-0138,1962.78,2,0.03,490.91,Office Supplies,Storage,Guy Storage
+680,CUST-0231,Steven Reed,Consumer,USA,Port Kimberly,Alabama,44889,East,ORD-83054,2024-08-02,2024-08-12,Standard Class,PROD-0138,53.81,9,0.15,14.45,Office Supplies,Storage,Guy Storage
+681,CUST-0014,Maria Delgado,Consumer,USA,Jenniferborough,Vermont,81758,South,ORD-82730,2025-08-03,2025-08-13,Second Class,PROD-0138,1344.59,10,0.1,214.46,Office Supplies,Storage,Guy Storage
+682,CUST-0161,Wanda Ramirez,Corporate,USA,Darrylmouth,Michigan,16794,East,ORD-81721,2024-06-21,2024-06-28,Same Day,PROD-0138,1859.62,7,0.18,293.35,Office Supplies,Storage,Guy Storage
+683,CUST-0023,Teresa Garcia,Home Office,USA,North Amanda,Utah,54178,East,ORD-94369,2023-12-26,2024-01-01,Standard Class,PROD-0138,1270.29,9,0.05,85.68,Office Supplies,Storage,Guy Storage
+684,CUST-0134,Mercedes Yoder,Corporate,USA,South Amandamouth,Louisiana,77170,South,ORD-90412,2025-05-16,2025-05-22,Standard Class,PROD-0138,121.27,8,0.3,7.65,Office Supplies,Storage,Guy Storage
+685,CUST-0135,Mark Lamb,Consumer,USA,South Evelyn,Alabama,97406,West,ORD-85647,2025-01-22,2025-01-31,First Class,PROD-0139,1190.97,10,0.1,331.5,Technology,Machines,Wish Machines
+686,CUST-0043,Kelly Cox,Consumer,USA,Crosbyland,Illinois,48986,South,ORD-42243,2025-03-24,2025-03-31,Second Class,PROD-0139,679.14,9,0.21,157.24,Technology,Machines,Wish Machines
+687,CUST-0192,Tom Massey,Consumer,USA,Sarahbury,South Carolina,84665,West,ORD-92298,2025-01-18,2025-01-25,Same Day,PROD-0139,1123.43,5,0.25,127.61,Technology,Machines,Wish Machines
+688,CUST-0051,Nathan Reeves,Home Office,USA,Mclaughlinland,Alabama,1026,East,ORD-48540,2025-07-15,2025-07-19,Same Day,PROD-0139,1859.39,6,0.15,147.16,Technology,Machines,Wish Machines
+689,CUST-0239,William Thomas,Consumer,USA,North Jacquelinetown,Iowa,11389,Central,ORD-37389,2024-12-15,2024-12-23,Second Class,PROD-0139,1153.06,3,0.01,306.24,Technology,Machines,Wish Machines
+690,CUST-0037,Blake Harrison MD,Home Office,USA,West Douglasview,New Jersey,74946,West,ORD-55635,2025-01-06,2025-01-09,Same Day,PROD-0139,400.3,6,0.18,118.15,Technology,Machines,Wish Machines
+691,CUST-0047,Sherri Chase,Corporate,USA,Lake Molly,Indiana,44604,Central,ORD-38387,2025-06-30,2025-07-01,Second Class,PROD-0139,1519.13,3,0.13,159.28,Technology,Machines,Wish Machines
+692,CUST-0053,Vicki Lopez,Corporate,USA,East Debbie,California,20175,East,ORD-28081,2025-05-10,2025-05-18,First Class,PROD-0139,1767.66,7,0.1,165.61,Technology,Machines,Wish Machines
+693,CUST-0296,Ashley Hill,Home Office,USA,Jaimestad,Minnesota,84436,West,ORD-87601,2025-05-15,2025-05-20,Second Class,PROD-0139,943.88,5,0.02,233.67,Technology,Machines,Wish Machines
+694,CUST-0197,Cynthia Parker,Corporate,USA,Debrabury,Maine,25438,Central,ORD-74714,2024-11-27,2024-12-04,Same Day,PROD-0140,1439.48,2,0.1,292.22,Furniture,Chairs,So Chairs
+695,CUST-0050,Preston Anderson,Corporate,USA,Carrieport,South Carolina,56153,West,ORD-20184,2025-05-07,2025-05-12,First Class,PROD-0140,1426.53,2,0.08,366.84,Furniture,Chairs,So Chairs
+696,CUST-0188,Jay Stein,Consumer,USA,East Gabrielmouth,Pennsylvania,91092,East,ORD-25866,2023-11-04,2023-11-07,Standard Class,PROD-0141,1520.17,1,0.07,239.99,Technology,Accessories,Great Accessories
+697,CUST-0060,Mr. Tyler Stevens,Consumer,USA,Jamesville,Virginia,75189,West,ORD-26720,2025-01-06,2025-01-11,Standard Class,PROD-0141,50.23,6,0.19,7.27,Technology,Accessories,Great Accessories
+698,CUST-0225,Anthony Jones,Consumer,USA,Blackport,West Virginia,31767,Central,ORD-91578,2024-11-09,2024-11-15,First Class,PROD-0141,1011.01,2,0.05,147.52,Technology,Accessories,Great Accessories
+699,CUST-0287,Richard Padilla,Consumer,USA,Lake Kevin,New York,16657,East,ORD-54373,2023-09-16,2023-09-25,First Class,PROD-0142,835.17,6,0.05,152.96,Office Supplies,Binders,Other Binders
+700,CUST-0046,Jamie Phillips,Consumer,USA,Maureenshire,Massachusetts,58808,East,ORD-30779,2025-01-29,2025-02-01,Second Class,PROD-0142,1782.39,3,0.21,232.17,Office Supplies,Binders,Other Binders
+701,CUST-0285,Ryan Farmer,Corporate,USA,Johnland,Mississippi,58387,East,ORD-78100,2024-12-31,2025-01-10,Standard Class,PROD-0142,555.59,3,0.22,150.45,Office Supplies,Binders,Other Binders
+702,CUST-0173,Ricky Perry,Home Office,USA,West Lisa,Arizona,11327,East,ORD-19623,2023-12-11,2023-12-12,Same Day,PROD-0142,762.51,10,0.2,78.45,Office Supplies,Binders,Other Binders
+703,CUST-0005,Daniel Meyer,Home Office,USA,Lake Sharonborough,New Jersey,96149,Central,ORD-80661,2025-06-30,2025-07-01,Same Day,PROD-0142,722.61,8,0.16,172.28,Office Supplies,Binders,Other Binders
+704,CUST-0187,Herbert Chavez,Consumer,USA,Mortonmouth,Nevada,61592,South,ORD-72906,2023-10-12,2023-10-21,Same Day,PROD-0142,90.2,5,0.07,12.95,Office Supplies,Binders,Other Binders
+705,CUST-0190,Brian Campos,Corporate,USA,East Melindaton,Kentucky,56709,West,ORD-11654,2024-11-14,2024-11-21,Same Day,PROD-0142,997.14,5,0.03,94.28,Office Supplies,Binders,Other Binders
+706,CUST-0169,Sean Turner,Home Office,USA,West Rickyfort,Alaska,25485,West,ORD-63789,2025-03-19,2025-03-27,Second Class,PROD-0143,1271.35,1,0.17,366.99,Furniture,Chairs,Doctor Chairs
+707,CUST-0234,Patrick Mooney,Home Office,USA,East Timothy,Kansas,85093,Central,ORD-87970,2025-06-25,2025-06-26,Second Class,PROD-0143,771.77,8,0.13,163.9,Furniture,Chairs,Doctor Chairs
+708,CUST-0149,Brian Johns,Home Office,USA,North Samuelshire,Alaska,89184,South,ORD-40024,2024-12-24,2024-12-28,Standard Class,PROD-0143,707.65,2,0.09,50.37,Furniture,Chairs,Doctor Chairs
+709,CUST-0232,Sherry York,Home Office,USA,New Michael,New Mexico,91723,Central,ORD-26930,2024-07-30,2024-08-07,Standard Class,PROD-0143,1812.64,1,0.2,330.36,Furniture,Chairs,Doctor Chairs
+710,CUST-0235,Douglas Smith,Home Office,USA,Cherylburgh,Hawaii,93308,East,ORD-20317,2025-04-29,2025-05-06,First Class,PROD-0143,1630.32,3,0.08,297.85,Furniture,Chairs,Doctor Chairs
+711,CUST-0163,Heather Howard,Corporate,USA,Port Lisaburgh,New Mexico,47451,South,ORD-56769,2024-04-08,2024-04-17,First Class,PROD-0143,1993.99,3,0.26,176.0,Furniture,Chairs,Doctor Chairs
+712,CUST-0214,Jessica Kennedy,Consumer,USA,Amychester,Indiana,52650,South,ORD-85199,2023-09-29,2023-10-05,First Class,PROD-0143,114.24,9,0.27,24.56,Furniture,Chairs,Doctor Chairs
+713,CUST-0069,Robert Robertson,Corporate,USA,Stephenshire,Arkansas,8568,East,ORD-94172,2024-07-19,2024-07-22,Second Class,PROD-0143,1740.36,1,0.2,256.61,Furniture,Chairs,Doctor Chairs
+714,CUST-0076,Kristen Spencer,Corporate,USA,Beckerberg,Ohio,63673,West,ORD-82898,2024-10-21,2024-10-26,Same Day,PROD-0144,1909.32,9,0.26,485.1,Technology,Phones,Pressure Phones
+715,CUST-0293,Darryl Contreras,Home Office,USA,Jackshire,Oregon,19059,Central,ORD-89900,2025-01-10,2025-01-15,First Class,PROD-0144,1125.25,10,0.22,115.69,Technology,Phones,Pressure Phones
+716,CUST-0039,Susan Brown,Consumer,USA,Maymouth,Colorado,4924,Central,ORD-38714,2024-08-11,2024-08-18,Second Class,PROD-0144,1494.71,3,0.3,302.75,Technology,Phones,Pressure Phones
+717,CUST-0238,Christina Jones,Consumer,USA,Tracyland,Arkansas,90030,East,ORD-93534,2023-12-09,2023-12-15,First Class,PROD-0144,1069.28,6,0.08,235.87,Technology,Phones,Pressure Phones
+718,CUST-0243,Terry Watts,Corporate,USA,Lisahaven,New Mexico,34455,Central,ORD-55327,2025-07-08,2025-07-18,Second Class,PROD-0145,858.85,7,0.07,90.35,Technology,Copiers,Skin Copiers
+719,CUST-0084,Jay Thompson,Corporate,USA,Patrickmouth,Massachusetts,68044,Central,ORD-26075,2023-12-17,2023-12-22,First Class,PROD-0145,673.93,7,0.29,171.22,Technology,Copiers,Skin Copiers
+720,CUST-0162,Julie Daniels,Consumer,USA,Romerofort,Texas,70861,South,ORD-91959,2025-02-08,2025-02-18,Standard Class,PROD-0145,972.16,4,0.21,59.76,Technology,Copiers,Skin Copiers
+721,CUST-0049,Daniel May,Corporate,USA,Kiddtown,Kentucky,44709,Central,ORD-33896,2024-07-08,2024-07-10,First Class,PROD-0146,1218.92,6,0.23,269.67,Furniture,Furnishings,Federal Furnishings
+722,CUST-0247,Carlos Moss,Home Office,USA,Rasmussenmouth,West Virginia,3464,West,ORD-89325,2024-03-22,2024-03-26,Second Class,PROD-0146,1975.8,3,0.22,551.38,Furniture,Furnishings,Federal Furnishings
+723,CUST-0160,Angela Robbins,Home Office,USA,Herrerafurt,Rhode Island,53721,South,ORD-96915,2024-04-10,2024-04-19,Standard Class,PROD-0146,1568.94,4,0.07,411.13,Furniture,Furnishings,Federal Furnishings
+724,CUST-0284,Michael Brown,Consumer,USA,Garciatown,Florida,5927,East,ORD-58112,2024-07-10,2024-07-20,Same Day,PROD-0146,1286.46,2,0.16,100.78,Furniture,Furnishings,Federal Furnishings
+725,CUST-0235,Douglas Smith,Home Office,USA,Cherylburgh,Hawaii,93308,East,ORD-32558,2025-07-29,2025-08-02,First Class,PROD-0146,1986.13,8,0.15,344.18,Furniture,Furnishings,Federal Furnishings
+726,CUST-0188,Jay Stein,Consumer,USA,East Gabrielmouth,Pennsylvania,91092,East,ORD-35866,2024-10-19,2024-10-21,Same Day,PROD-0147,169.12,6,0.02,21.09,Technology,Copiers,Toward Copiers
+727,CUST-0268,Savannah Hayden,Consumer,USA,South Jamesburgh,Illinois,87950,South,ORD-17955,2024-05-14,2024-05-21,Same Day,PROD-0147,469.14,6,0.01,133.22,Technology,Copiers,Toward Copiers
+728,CUST-0062,Sarah Sutton,Corporate,USA,Williamshaven,South Dakota,42918,Central,ORD-79726,2025-01-18,2025-01-28,Second Class,PROD-0147,1246.85,4,0.2,286.2,Technology,Copiers,Toward Copiers
+729,CUST-0228,Daniel Wells,Consumer,USA,Russostad,South Dakota,798,Central,ORD-92298,2025-08-13,2025-08-20,First Class,PROD-0147,164.01,6,0.1,33.49,Technology,Copiers,Toward Copiers
+730,CUST-0219,Susan Bowman,Consumer,USA,Lake Joel,Vermont,65406,East,ORD-85534,2023-09-29,2023-09-30,Standard Class,PROD-0148,1069.26,6,0.11,135.97,Furniture,Tables,Weight Tables
+731,CUST-0016,Dr. Mary Andersen MD,Corporate,USA,Port Sarahmouth,Pennsylvania,78603,Central,ORD-11220,2025-01-04,2025-01-10,Second Class,PROD-0148,1347.31,6,0.28,351.66,Furniture,Tables,Weight Tables
+732,CUST-0053,Vicki Lopez,Corporate,USA,East Debbie,California,20175,East,ORD-41910,2024-07-15,2024-07-23,First Class,PROD-0148,588.42,6,0.06,148.62,Furniture,Tables,Weight Tables
+733,CUST-0090,Jason Harris,Corporate,USA,Larsonmouth,Indiana,8442,West,ORD-90912,2024-07-06,2024-07-11,Standard Class,PROD-0148,237.75,8,0.19,58.44,Furniture,Tables,Weight Tables
+734,CUST-0016,Dr. Mary Andersen MD,Corporate,USA,Port Sarahmouth,Pennsylvania,78603,Central,ORD-21988,2024-10-27,2024-11-02,First Class,PROD-0148,1893.01,3,0.28,161.44,Furniture,Tables,Weight Tables
+735,CUST-0273,Mr. Gregory Kelly Jr.,Corporate,USA,New Jamesshire,Delaware,33977,West,ORD-96554,2025-04-30,2025-05-07,Second Class,PROD-0148,1719.49,8,0.02,464.48,Furniture,Tables,Weight Tables
+736,CUST-0086,Rebecca Mejia,Consumer,USA,North Joanne,New Jersey,6307,Central,ORD-72288,2024-11-26,2024-12-06,Standard Class,PROD-0148,766.08,3,0.25,146.61,Furniture,Tables,Weight Tables
+737,CUST-0033,Daniel Collins,Corporate,USA,New Michael,New York,95902,Central,ORD-48752,2023-11-05,2023-11-11,Second Class,PROD-0149,1924.04,7,0.23,393.97,Office Supplies,Paper,Hope Paper
+738,CUST-0236,Chad Warren,Corporate,USA,North Nicole,Georgia,12887,West,ORD-29838,2023-09-24,2023-09-29,Standard Class,PROD-0149,949.2,8,0.28,79.6,Office Supplies,Paper,Hope Paper
+739,CUST-0074,Ashley Garza MD,Home Office,USA,East Daniel,Missouri,6904,West,ORD-21826,2024-04-05,2024-04-13,Standard Class,PROD-0149,793.2,10,0.02,95.05,Office Supplies,Paper,Hope Paper
+740,CUST-0014,Maria Delgado,Consumer,USA,Jenniferborough,Vermont,81758,South,ORD-19915,2023-10-10,2023-10-20,Same Day,PROD-0150,892.64,8,0.27,250.35,Furniture,Tables,Majority Tables
+741,CUST-0047,Sherri Chase,Corporate,USA,Lake Molly,Indiana,44604,Central,ORD-15531,2025-02-21,2025-03-01,First Class,PROD-0150,1286.83,3,0.17,303.81,Furniture,Tables,Majority Tables
+742,CUST-0085,Amanda Hall,Corporate,USA,North Kentberg,Kentucky,82400,East,ORD-99468,2024-05-23,2024-05-24,Standard Class,PROD-0150,1859.48,6,0.04,420.1,Furniture,Tables,Majority Tables
+743,CUST-0220,Kayla Griffin,Corporate,USA,Diazchester,Missouri,87097,West,ORD-23776,2025-06-29,2025-07-02,First Class,PROD-0150,69.75,8,0.26,11.72,Furniture,Tables,Majority Tables
+744,CUST-0219,Susan Bowman,Consumer,USA,Lake Joel,Vermont,65406,East,ORD-30700,2025-01-21,2025-01-28,Standard Class,PROD-0150,1493.07,6,0.01,266.65,Furniture,Tables,Majority Tables
+745,CUST-0236,Chad Warren,Corporate,USA,North Nicole,Georgia,12887,West,ORD-52037,2024-09-27,2024-10-05,Same Day,PROD-0150,451.24,8,0.01,76.71,Furniture,Tables,Majority Tables
+746,CUST-0219,Susan Bowman,Consumer,USA,Lake Joel,Vermont,65406,East,ORD-11365,2025-06-29,2025-07-05,First Class,PROD-0150,1502.17,6,0.03,200.18,Furniture,Tables,Majority Tables
+747,CUST-0203,Stephanie Yoder,Corporate,USA,Tuckerton,Hawaii,30340,Central,ORD-61399,2025-02-25,2025-02-27,Same Day,PROD-0150,455.95,10,0.26,117.61,Furniture,Tables,Majority Tables
+748,CUST-0174,David Davis,Home Office,USA,Edwardland,Nebraska,88575,West,ORD-19877,2025-07-09,2025-07-19,Same Day,PROD-0150,703.28,8,0.14,81.75,Furniture,Tables,Majority Tables
+749,CUST-0290,Kellie Harris,Corporate,USA,New Traci,Wisconsin,92222,West,ORD-40674,2025-05-22,2025-05-30,Same Day,PROD-0151,991.42,4,0.04,233.46,Furniture,Chairs,Important Chairs
+750,CUST-0144,David Jenkins,Corporate,USA,South Nathaniel,Alabama,17072,East,ORD-78213,2024-08-28,2024-09-03,First Class,PROD-0151,893.56,4,0.24,180.83,Furniture,Chairs,Important Chairs
+751,CUST-0017,Michael Juarez,Home Office,USA,Singletonmouth,Rhode Island,35828,East,ORD-91545,2025-01-11,2025-01-15,First Class,PROD-0151,404.15,2,0.22,79.01,Furniture,Chairs,Important Chairs
+752,CUST-0016,Dr. Mary Andersen MD,Corporate,USA,Port Sarahmouth,Pennsylvania,78603,Central,ORD-12042,2024-10-05,2024-10-10,First Class,PROD-0151,1980.52,1,0.23,477.99,Furniture,Chairs,Important Chairs
+753,CUST-0155,Justin Hull,Consumer,USA,New Alexismouth,Hawaii,48036,West,ORD-76006,2023-11-28,2023-12-08,Same Day,PROD-0151,1686.31,1,0.12,171.11,Furniture,Chairs,Important Chairs
+754,CUST-0270,Jessica Lopez,Corporate,USA,Fosterton,Washington,71397,South,ORD-82866,2023-11-04,2023-11-10,Same Day,PROD-0151,923.96,8,0.21,84.45,Furniture,Chairs,Important Chairs
+755,CUST-0095,Stacey Lee,Home Office,USA,Sanchezstad,Oregon,62355,East,ORD-38583,2025-01-20,2025-01-25,Same Day,PROD-0151,1323.71,4,0.12,364.15,Furniture,Chairs,Important Chairs
+756,CUST-0004,Sarah Floyd,Corporate,USA,Port Rachel,Indiana,9367,Central,ORD-70190,2025-04-19,2025-04-20,Same Day,PROD-0151,1503.02,5,0.26,255.07,Furniture,Chairs,Important Chairs
+757,CUST-0273,Mr. Gregory Kelly Jr.,Corporate,USA,New Jamesshire,Delaware,33977,West,ORD-16004,2024-11-27,2024-12-02,Second Class,PROD-0152,1018.91,2,0.18,215.93,Furniture,Furnishings,Professor Furnishings
+758,CUST-0075,Angela Ochoa,Consumer,USA,New Tami,Florida,77175,West,ORD-55824,2025-03-18,2025-03-21,Second Class,PROD-0152,1144.34,10,0.14,177.74,Furniture,Furnishings,Professor Furnishings
+759,CUST-0220,Kayla Griffin,Corporate,USA,Diazchester,Missouri,87097,West,ORD-59736,2025-07-14,2025-07-21,First Class,PROD-0152,36.88,9,0.12,8.66,Furniture,Furnishings,Professor Furnishings
+760,CUST-0290,Kellie Harris,Corporate,USA,New Traci,Wisconsin,92222,West,ORD-10193,2023-08-27,2023-09-05,First Class,PROD-0152,1469.49,2,0.28,414.63,Furniture,Furnishings,Professor Furnishings
+761,CUST-0201,Joseph Berry,Consumer,USA,South Joseph,Washington,14677,East,ORD-90204,2025-03-25,2025-04-04,First Class,PROD-0152,1450.84,9,0.15,363.6,Furniture,Furnishings,Professor Furnishings
+762,CUST-0054,Kyle Rivera,Corporate,USA,Garyville,Montana,29618,South,ORD-82410,2024-10-16,2024-10-22,Second Class,PROD-0153,1888.04,8,0.17,134.29,Technology,Accessories,Anyone Accessories
+763,CUST-0045,Lisa Page,Home Office,USA,South Walter,Utah,66638,Central,ORD-50473,2024-03-22,2024-03-25,First Class,PROD-0153,1913.65,4,0.11,386.83,Technology,Accessories,Anyone Accessories
+764,CUST-0012,Jonathan Lopez,Consumer,USA,South David,Nevada,99292,South,ORD-57819,2024-02-12,2024-02-17,Same Day,PROD-0153,666.74,1,0.06,93.42,Technology,Accessories,Anyone Accessories
+765,CUST-0232,Sherry York,Home Office,USA,New Michael,New Mexico,91723,Central,ORD-64089,2024-01-07,2024-01-14,Second Class,PROD-0153,468.84,8,0.06,93.83,Technology,Accessories,Anyone Accessories
+766,CUST-0260,Alan Randall,Consumer,USA,South Shannonfurt,Utah,63002,East,ORD-58905,2025-07-26,2025-08-02,First Class,PROD-0153,617.8,8,0.03,176.89,Technology,Accessories,Anyone Accessories
+767,CUST-0252,Scott Johnson DVM,Home Office,USA,Davischester,Montana,94361,East,ORD-61622,2025-08-12,2025-08-16,Standard Class,PROD-0153,1882.45,2,0.26,332.7,Technology,Accessories,Anyone Accessories
+768,CUST-0184,Michael Drake,Corporate,USA,East Tracy,Ohio,28538,Central,ORD-47431,2023-10-30,2023-11-01,Same Day,PROD-0153,416.35,6,0.19,50.6,Technology,Accessories,Anyone Accessories
+769,CUST-0158,Robin Hanson MD,Corporate,USA,Tinachester,Indiana,8171,South,ORD-48928,2024-10-06,2024-10-10,Same Day,PROD-0154,1551.09,8,0.16,462.38,Furniture,Chairs,Us Chairs
+770,CUST-0260,Alan Randall,Consumer,USA,South Shannonfurt,Utah,63002,East,ORD-60685,2023-11-19,2023-11-21,Same Day,PROD-0154,1078.56,5,0.29,196.13,Furniture,Chairs,Us Chairs
+771,CUST-0163,Heather Howard,Corporate,USA,Port Lisaburgh,New Mexico,47451,South,ORD-46527,2025-01-10,2025-01-20,Second Class,PROD-0155,1078.98,4,0.11,244.11,Technology,Copiers,Successful Copiers
+772,CUST-0113,Olivia Ford,Corporate,USA,West Crystalfurt,Pennsylvania,20370,South,ORD-63206,2024-08-30,2024-09-09,Standard Class,PROD-0155,774.94,7,0.04,163.01,Technology,Copiers,Successful Copiers
+773,CUST-0219,Susan Bowman,Consumer,USA,Lake Joel,Vermont,65406,East,ORD-91419,2023-11-27,2023-11-28,Same Day,PROD-0155,315.14,1,0.29,63.01,Technology,Copiers,Successful Copiers
+774,CUST-0173,Ricky Perry,Home Office,USA,West Lisa,Arizona,11327,East,ORD-95099,2025-07-18,2025-07-25,Same Day,PROD-0155,592.89,3,0.18,162.88,Technology,Copiers,Successful Copiers
+775,CUST-0126,Timothy Valentine,Corporate,USA,Jonathanland,Montana,86636,East,ORD-55588,2025-04-22,2025-04-26,First Class,PROD-0156,1661.72,6,0.14,382.02,Technology,Accessories,Data Accessories
+776,CUST-0071,Dustin Meyers,Home Office,USA,New Chase,West Virginia,12179,South,ORD-53385,2023-09-06,2023-09-16,Standard Class,PROD-0156,1822.52,9,0.04,375.53,Technology,Accessories,Data Accessories
+777,CUST-0184,Michael Drake,Corporate,USA,East Tracy,Ohio,28538,Central,ORD-88156,2024-05-15,2024-05-23,Standard Class,PROD-0156,1201.38,3,0.1,92.5,Technology,Accessories,Data Accessories
+778,CUST-0033,Daniel Collins,Corporate,USA,New Michael,New York,95902,Central,ORD-91015,2024-08-11,2024-08-16,Standard Class,PROD-0157,1350.45,4,0.01,310.12,Technology,Accessories,Tv Accessories
+779,CUST-0152,Jonathan Bean,Corporate,USA,Petersonfort,South Carolina,78658,Central,ORD-94779,2024-08-30,2024-09-04,Second Class,PROD-0157,1006.78,9,0.18,177.53,Technology,Accessories,Tv Accessories
+780,CUST-0208,Leah Kerr,Consumer,USA,Lisafurt,Pennsylvania,569,East,ORD-70558,2023-12-26,2024-01-05,First Class,PROD-0157,496.33,8,0.24,126.42,Technology,Accessories,Tv Accessories
+781,CUST-0056,Tyler Mcbride,Consumer,USA,Lawrenceview,Iowa,11759,West,ORD-14889,2025-01-31,2025-02-08,Same Day,PROD-0157,917.39,5,0.01,75.63,Technology,Accessories,Tv Accessories
+782,CUST-0219,Susan Bowman,Consumer,USA,Lake Joel,Vermont,65406,East,ORD-37620,2025-06-02,2025-06-03,Standard Class,PROD-0157,253.81,4,0.08,43.48,Technology,Accessories,Tv Accessories
+783,CUST-0191,William Cruz,Consumer,USA,Smithburgh,Nebraska,21774,West,ORD-85907,2023-09-05,2023-09-10,Second Class,PROD-0157,990.84,1,0.03,232.84,Technology,Accessories,Tv Accessories
+784,CUST-0029,John Martin,Corporate,USA,North Kristin,Alaska,51879,South,ORD-72066,2024-07-29,2024-08-01,First Class,PROD-0158,646.13,7,0.08,157.72,Office Supplies,Binders,Safe Binders
+785,CUST-0300,April Walter,Consumer,USA,Bushburgh,North Dakota,32578,West,ORD-41299,2024-05-14,2024-05-24,First Class,PROD-0158,717.43,2,0.25,79.19,Office Supplies,Binders,Safe Binders
+786,CUST-0030,Michael Tran,Corporate,USA,Leeborough,Nebraska,76193,East,ORD-92530,2025-02-05,2025-02-15,Same Day,PROD-0158,1472.77,10,0.07,416.9,Office Supplies,Binders,Safe Binders
+787,CUST-0215,Tammy Silva,Corporate,USA,Lake Margaretmouth,Florida,27573,Central,ORD-26557,2024-12-15,2024-12-19,Same Day,PROD-0158,1408.11,10,0.16,136.95,Office Supplies,Binders,Safe Binders
+788,CUST-0172,Cassandra Good,Home Office,USA,North Russellville,Hawaii,23235,East,ORD-46312,2024-04-02,2024-04-10,Same Day,PROD-0158,1715.56,3,0.23,100.37,Office Supplies,Binders,Safe Binders
+789,CUST-0201,Joseph Berry,Consumer,USA,South Joseph,Washington,14677,East,ORD-29906,2024-12-05,2024-12-12,Second Class,PROD-0159,1165.86,10,0.22,113.91,Technology,Phones,A Phones
+790,CUST-0066,David Castillo,Corporate,USA,Michaelhaven,Louisiana,29376,West,ORD-19070,2024-02-29,2024-03-07,Standard Class,PROD-0159,934.53,9,0.26,195.92,Technology,Phones,A Phones
+791,CUST-0275,Ronald Smith,Corporate,USA,North Zachary,New Jersey,19289,South,ORD-76356,2024-09-07,2024-09-16,Same Day,PROD-0159,194.56,8,0.23,32.08,Technology,Phones,A Phones
+792,CUST-0219,Susan Bowman,Consumer,USA,Lake Joel,Vermont,65406,East,ORD-59081,2024-07-23,2024-07-28,Standard Class,PROD-0160,1767.16,10,0.13,334.0,Technology,Accessories,It Accessories
+793,CUST-0050,Preston Anderson,Corporate,USA,Carrieport,South Carolina,56153,West,ORD-12222,2024-01-04,2024-01-09,First Class,PROD-0160,161.84,3,0.05,32.1,Technology,Accessories,It Accessories
+794,CUST-0172,Cassandra Good,Home Office,USA,North Russellville,Hawaii,23235,East,ORD-83726,2024-08-06,2024-08-12,Same Day,PROD-0160,1654.88,6,0.02,246.11,Technology,Accessories,It Accessories
+795,CUST-0241,Mark Hale,Corporate,USA,East Josephberg,Connecticut,34922,West,ORD-17717,2025-02-22,2025-02-27,First Class,PROD-0160,966.2,8,0.17,115.34,Technology,Accessories,It Accessories
+796,CUST-0163,Heather Howard,Corporate,USA,Port Lisaburgh,New Mexico,47451,South,ORD-18297,2024-12-27,2025-01-05,Second Class,PROD-0160,1363.53,9,0.15,193.05,Technology,Accessories,It Accessories
+797,CUST-0189,Jorge Washington,Home Office,USA,Port Terrifort,Oklahoma,52307,Central,ORD-48719,2024-02-11,2024-02-15,Second Class,PROD-0160,500.88,6,0.01,88.8,Technology,Accessories,It Accessories
+798,CUST-0110,Ryan Hansen,Home Office,USA,Lake Amberbury,Wisconsin,3997,West,ORD-59428,2025-08-21,2025-08-27,First Class,PROD-0160,401.86,8,0.08,88.13,Technology,Accessories,It Accessories
+799,CUST-0023,Teresa Garcia,Home Office,USA,North Amanda,Utah,54178,East,ORD-91761,2024-12-29,2024-12-30,Same Day,PROD-0160,510.23,7,0.26,134.38,Technology,Accessories,It Accessories
+800,CUST-0024,David Price,Home Office,USA,Mccormickside,Alaska,82734,West,ORD-98085,2024-09-08,2024-09-09,Standard Class,PROD-0161,1317.72,5,0.13,280.19,Technology,Copiers,You Copiers
+801,CUST-0090,Jason Harris,Corporate,USA,Larsonmouth,Indiana,8442,West,ORD-93523,2024-06-11,2024-06-20,First Class,PROD-0161,971.21,10,0.04,283.68,Technology,Copiers,You Copiers
+802,CUST-0109,Mackenzie Aguilar,Home Office,USA,North Robert,Kentucky,67736,Central,ORD-37072,2024-08-05,2024-08-09,Same Day,PROD-0161,290.34,6,0.07,54.96,Technology,Copiers,You Copiers
+803,CUST-0221,Dominique Douglas,Corporate,USA,Jonesport,Georgia,58352,East,ORD-60536,2025-05-02,2025-05-12,Standard Class,PROD-0162,462.64,9,0.13,123.85,Furniture,Furnishings,Full Furnishings
+804,CUST-0094,Luke May,Home Office,USA,South Lori,North Carolina,16404,Central,ORD-68377,2024-04-10,2024-04-20,First Class,PROD-0162,902.58,9,0.15,264.43,Furniture,Furnishings,Full Furnishings
+805,CUST-0065,Eric Rodriguez,Home Office,USA,Taraburgh,Oregon,65854,Central,ORD-61910,2024-04-28,2024-05-01,Standard Class,PROD-0162,974.81,5,0.26,124.74,Furniture,Furnishings,Full Furnishings
+806,CUST-0066,David Castillo,Corporate,USA,Michaelhaven,Louisiana,29376,West,ORD-61161,2024-01-29,2024-01-31,Same Day,PROD-0162,1457.15,10,0.16,190.68,Furniture,Furnishings,Full Furnishings
+807,CUST-0231,Steven Reed,Consumer,USA,Port Kimberly,Alabama,44889,East,ORD-47261,2024-06-22,2024-07-01,Same Day,PROD-0162,888.13,7,0.08,248.55,Furniture,Furnishings,Full Furnishings
+808,CUST-0269,Billy Hodges,Consumer,USA,Brittanyville,Mississippi,41187,South,ORD-69663,2025-02-16,2025-02-23,Second Class,PROD-0163,1155.03,5,0.07,228.15,Office Supplies,Appliances,Wonder Appliances
+809,CUST-0183,Michelle Kennedy,Consumer,USA,East Christianberg,New Jersey,78006,West,ORD-23558,2024-04-18,2024-04-21,First Class,PROD-0163,1051.53,3,0.26,113.11,Office Supplies,Appliances,Wonder Appliances
+810,CUST-0225,Anthony Jones,Consumer,USA,Blackport,West Virginia,31767,Central,ORD-57809,2023-10-26,2023-11-04,Standard Class,PROD-0163,242.98,2,0.02,22.8,Office Supplies,Appliances,Wonder Appliances
+811,CUST-0044,Susan Ward,Corporate,USA,New Elizabethside,Minnesota,38535,West,ORD-69259,2024-03-19,2024-03-29,Same Day,PROD-0163,1988.8,6,0.1,306.52,Office Supplies,Appliances,Wonder Appliances
+812,CUST-0115,Jennifer Williams,Home Office,USA,Hillton,West Virginia,39563,South,ORD-70524,2025-05-12,2025-05-19,Standard Class,PROD-0163,991.5,10,0.21,285.08,Office Supplies,Appliances,Wonder Appliances
+813,CUST-0033,Daniel Collins,Corporate,USA,New Michael,New York,95902,Central,ORD-25476,2025-02-06,2025-02-15,First Class,PROD-0164,278.67,2,0.03,25.12,Furniture,Tables,Difficult Tables
+814,CUST-0060,Mr. Tyler Stevens,Consumer,USA,Jamesville,Virginia,75189,West,ORD-42304,2025-05-25,2025-05-31,Same Day,PROD-0164,1738.4,8,0.14,110.2,Furniture,Tables,Difficult Tables
+815,CUST-0157,Stephen Davis,Consumer,USA,Port Samanthaton,Idaho,98326,South,ORD-31412,2025-08-11,2025-08-13,Same Day,PROD-0164,872.94,6,0.09,44.78,Furniture,Tables,Difficult Tables
+816,CUST-0276,James West,Home Office,USA,Martinezfurt,West Virginia,33332,Central,ORD-91926,2024-09-15,2024-09-25,Same Day,PROD-0165,1797.42,9,0.3,149.79,Technology,Accessories,Less Accessories
+817,CUST-0026,Kayla Carpenter,Home Office,USA,New Sabrina,Arizona,11909,East,ORD-99539,2024-10-04,2024-10-12,First Class,PROD-0165,1710.04,3,0.24,409.25,Technology,Accessories,Less Accessories
+818,CUST-0123,Brenda Peterson,Consumer,USA,Port Keith,Missouri,94699,West,ORD-92509,2025-02-14,2025-02-16,Standard Class,PROD-0165,1231.3,5,0.26,327.82,Technology,Accessories,Less Accessories
+819,CUST-0242,Jennifer Townsend,Corporate,USA,New Joseph,Idaho,90019,Central,ORD-64918,2023-12-31,2024-01-06,Same Day,PROD-0165,1144.9,3,0.18,241.89,Technology,Accessories,Less Accessories
+820,CUST-0207,Roberto Quinn,Corporate,USA,Mitchellchester,Montana,33315,West,ORD-84116,2025-07-22,2025-07-29,Same Day,PROD-0165,132.1,5,0.07,36.04,Technology,Accessories,Less Accessories
+821,CUST-0016,Dr. Mary Andersen MD,Corporate,USA,Port Sarahmouth,Pennsylvania,78603,Central,ORD-83497,2025-06-23,2025-06-30,First Class,PROD-0166,568.1,10,0.16,108.6,Technology,Accessories,Speak Accessories
+822,CUST-0196,Gary Ford,Home Office,USA,Lake James,North Carolina,45339,South,ORD-87168,2024-06-03,2024-06-13,Same Day,PROD-0166,629.62,9,0.11,40.21,Technology,Accessories,Speak Accessories
+823,CUST-0195,Todd Coleman,Consumer,USA,Porterbury,Florida,43819,Central,ORD-82829,2024-07-06,2024-07-11,First Class,PROD-0166,93.37,8,0.11,18.24,Technology,Accessories,Speak Accessories
+824,CUST-0246,William Williams,Corporate,USA,South Larryshire,New York,37878,Central,ORD-43206,2023-11-16,2023-11-22,Second Class,PROD-0166,485.54,8,0.15,51.16,Technology,Accessories,Speak Accessories
+825,CUST-0092,Louis Roberts,Corporate,USA,South Caleb,Tennessee,80043,Central,ORD-13263,2024-06-29,2024-07-05,Same Day,PROD-0166,1531.91,1,0.16,393.91,Technology,Accessories,Speak Accessories
+826,CUST-0107,Kyle Murray,Corporate,USA,Munozburgh,Alaska,8586,Central,ORD-40453,2023-08-29,2023-09-02,Same Day,PROD-0166,808.84,10,0.2,49.46,Technology,Accessories,Speak Accessories
+827,CUST-0182,Stacy Walker,Home Office,USA,West Chad,New York,62513,Central,ORD-56836,2024-07-19,2024-07-27,Same Day,PROD-0167,1425.57,1,0.04,285.51,Technology,Machines,Always Machines
+828,CUST-0192,Tom Massey,Consumer,USA,Sarahbury,South Carolina,84665,West,ORD-27972,2025-06-15,2025-06-23,Same Day,PROD-0167,1345.0,5,0.29,113.23,Technology,Machines,Always Machines
+829,CUST-0189,Jorge Washington,Home Office,USA,Port Terrifort,Oklahoma,52307,Central,ORD-67364,2025-05-29,2025-06-04,Second Class,PROD-0167,802.23,6,0.29,178.93,Technology,Machines,Always Machines
+830,CUST-0169,Sean Turner,Home Office,USA,West Rickyfort,Alaska,25485,West,ORD-98888,2024-03-04,2024-03-14,Second Class,PROD-0167,1743.15,10,0.06,174.07,Technology,Machines,Always Machines
+831,CUST-0183,Michelle Kennedy,Consumer,USA,East Christianberg,New Jersey,78006,West,ORD-58338,2024-06-25,2024-07-04,First Class,PROD-0167,642.62,7,0.22,37.28,Technology,Machines,Always Machines
+832,CUST-0213,Dr. Catherine Coleman,Consumer,USA,Tristanview,Connecticut,72669,East,ORD-13437,2024-12-02,2024-12-05,Standard Class,PROD-0168,980.23,1,0.17,268.69,Furniture,Furnishings,Option Furnishings
+833,CUST-0072,Tina Washington,Corporate,USA,Berryburgh,Idaho,13854,West,ORD-72668,2024-03-02,2024-03-07,Same Day,PROD-0168,1620.66,6,0.02,136.67,Furniture,Furnishings,Option Furnishings
+834,CUST-0007,Jennifer Elliott,Corporate,USA,East Kevin,Rhode Island,59765,East,ORD-20687,2024-09-04,2024-09-13,First Class,PROD-0168,521.85,6,0.08,136.81,Furniture,Furnishings,Option Furnishings
+835,CUST-0028,Gary Gutierrez,Corporate,USA,Frederickville,Wisconsin,29660,West,ORD-48967,2023-10-29,2023-11-02,Same Day,PROD-0168,1941.29,6,0.09,174.8,Furniture,Furnishings,Option Furnishings
+836,CUST-0099,Kevin Woods,Consumer,USA,Port Clintonside,Montana,54615,Central,ORD-22629,2024-12-26,2025-01-03,Second Class,PROD-0168,238.51,1,0.22,29.45,Furniture,Furnishings,Option Furnishings
+837,CUST-0072,Tina Washington,Corporate,USA,Berryburgh,Idaho,13854,West,ORD-63067,2025-04-21,2025-04-22,Same Day,PROD-0168,1066.95,5,0.07,308.0,Furniture,Furnishings,Option Furnishings
+838,CUST-0285,Ryan Farmer,Corporate,USA,Johnland,Mississippi,58387,East,ORD-61602,2023-09-11,2023-09-21,First Class,PROD-0168,557.96,9,0.19,106.96,Furniture,Furnishings,Option Furnishings
+839,CUST-0236,Chad Warren,Corporate,USA,North Nicole,Georgia,12887,West,ORD-22585,2023-09-07,2023-09-15,Same Day,PROD-0168,1320.78,8,0.1,372.8,Furniture,Furnishings,Option Furnishings
+840,CUST-0223,Natalie Olson,Corporate,USA,Hallchester,New Hampshire,7151,West,ORD-93692,2024-05-08,2024-05-17,Standard Class,PROD-0168,1952.73,6,0.29,415.72,Furniture,Furnishings,Option Furnishings
+841,CUST-0133,Charles Hughes,Corporate,USA,Nathanchester,Delaware,53183,West,ORD-90687,2025-08-16,2025-08-18,Second Class,PROD-0168,885.79,3,0.04,225.07,Furniture,Furnishings,Option Furnishings
+842,CUST-0246,William Williams,Corporate,USA,South Larryshire,New York,37878,Central,ORD-80293,2024-09-19,2024-09-23,Second Class,PROD-0169,209.4,8,0.26,59.73,Furniture,Bookcases,Cut Bookcases
+843,CUST-0167,Henry Wagner,Consumer,USA,Port James,Ohio,86289,East,ORD-70241,2025-06-28,2025-07-05,Second Class,PROD-0169,80.8,6,0.18,6.13,Furniture,Bookcases,Cut Bookcases
+844,CUST-0195,Todd Coleman,Consumer,USA,Porterbury,Florida,43819,Central,ORD-55262,2024-06-12,2024-06-15,Second Class,PROD-0169,265.76,4,0.1,15.17,Furniture,Bookcases,Cut Bookcases
+845,CUST-0269,Billy Hodges,Consumer,USA,Brittanyville,Mississippi,41187,South,ORD-81366,2025-03-24,2025-03-27,First Class,PROD-0169,1190.52,2,0.01,137.45,Furniture,Bookcases,Cut Bookcases
+846,CUST-0229,Christopher Hall III,Corporate,USA,East Shannon,Arkansas,61179,Central,ORD-26620,2024-05-06,2024-05-11,Standard Class,PROD-0169,1151.08,3,0.12,129.44,Furniture,Bookcases,Cut Bookcases
+847,CUST-0018,Thomas Burgess,Consumer,USA,Robinsonland,Wisconsin,75631,Central,ORD-59904,2024-01-04,2024-01-08,Second Class,PROD-0170,320.27,7,0.02,18.14,Furniture,Bookcases,Usually Bookcases
+848,CUST-0274,Jennifer Francis,Home Office,USA,Williamside,Idaho,97664,West,ORD-74554,2023-12-04,2023-12-13,Same Day,PROD-0170,1036.81,1,0.18,58.22,Furniture,Bookcases,Usually Bookcases
+849,CUST-0201,Joseph Berry,Consumer,USA,South Joseph,Washington,14677,East,ORD-68848,2023-11-10,2023-11-13,Same Day,PROD-0170,132.72,9,0.22,25.17,Furniture,Bookcases,Usually Bookcases
+850,CUST-0216,Mary Fox,Consumer,USA,South Alexander,Oregon,14469,Central,ORD-32944,2024-02-11,2024-02-12,Second Class,PROD-0170,11.93,6,0.1,3.34,Furniture,Bookcases,Usually Bookcases
+851,CUST-0116,Melissa Garcia,Consumer,USA,Malonetown,Tennessee,28713,West,ORD-82294,2024-09-06,2024-09-12,First Class,PROD-0170,728.48,6,0.05,212.63,Furniture,Bookcases,Usually Bookcases
+852,CUST-0209,Mark Harris,Corporate,USA,North Julieburgh,Connecticut,81451,South,ORD-76557,2024-10-14,2024-10-17,Same Day,PROD-0170,1436.12,10,0.14,375.02,Furniture,Bookcases,Usually Bookcases
+853,CUST-0169,Sean Turner,Home Office,USA,West Rickyfort,Alaska,25485,West,ORD-19150,2025-06-23,2025-06-26,First Class,PROD-0171,1692.65,8,0.0,254.69,Office Supplies,Storage,Beautiful Storage
+854,CUST-0289,Jennifer Williams,Corporate,USA,West Dennis,Delaware,53584,South,ORD-82909,2025-04-10,2025-04-16,Same Day,PROD-0171,573.61,1,0.22,166.43,Office Supplies,Storage,Beautiful Storage
+855,CUST-0101,Alexis Edwards,Corporate,USA,North Kristi,Pennsylvania,17232,West,ORD-13685,2024-04-10,2024-04-14,Same Day,PROD-0171,1241.75,5,0.16,144.26,Office Supplies,Storage,Beautiful Storage
+856,CUST-0100,Patricia Smith,Home Office,USA,Lake Eric,New Jersey,57678,East,ORD-84935,2023-12-08,2023-12-11,Same Day,PROD-0171,818.62,2,0.26,145.87,Office Supplies,Storage,Beautiful Storage
+857,CUST-0249,Joseph Young,Corporate,USA,Charlesland,Oregon,24523,West,ORD-27436,2024-03-06,2024-03-16,First Class,PROD-0171,585.96,3,0.04,118.68,Office Supplies,Storage,Beautiful Storage
+858,CUST-0019,Amber Rivera,Corporate,USA,Port Cathyview,California,94950,East,ORD-58739,2024-12-16,2024-12-19,Second Class,PROD-0171,1747.62,8,0.11,303.97,Office Supplies,Storage,Beautiful Storage
+859,CUST-0224,David Martin,Corporate,USA,New Derrick,Nevada,81759,South,ORD-24280,2025-05-14,2025-05-23,Standard Class,PROD-0172,161.45,7,0.16,46.82,Furniture,Bookcases,Painting Bookcases
+860,CUST-0205,Craig Wallace,Consumer,USA,Lake Kevinview,Alabama,59070,Central,ORD-47751,2024-05-05,2024-05-12,Standard Class,PROD-0172,223.11,4,0.23,38.44,Furniture,Bookcases,Painting Bookcases
+861,CUST-0168,Wanda Cooper,Home Office,USA,East Alantown,Virginia,60819,Central,ORD-95595,2024-04-16,2024-04-24,Second Class,PROD-0172,1085.7,10,0.21,246.76,Furniture,Bookcases,Painting Bookcases
+862,CUST-0157,Stephen Davis,Consumer,USA,Port Samanthaton,Idaho,98326,South,ORD-40306,2024-03-14,2024-03-21,Same Day,PROD-0172,1686.78,7,0.26,263.71,Furniture,Bookcases,Painting Bookcases
+863,CUST-0289,Jennifer Williams,Corporate,USA,West Dennis,Delaware,53584,South,ORD-18068,2024-02-20,2024-02-21,First Class,PROD-0173,1761.33,1,0.07,172.77,Technology,Accessories,Water Accessories
+864,CUST-0170,Samantha Meza,Consumer,USA,North Danielmouth,Connecticut,65524,Central,ORD-36069,2024-08-09,2024-08-19,Second Class,PROD-0173,1751.34,8,0.05,295.09,Technology,Accessories,Water Accessories
+865,CUST-0190,Brian Campos,Corporate,USA,East Melindaton,Kentucky,56709,West,ORD-97430,2024-04-24,2024-04-30,First Class,PROD-0173,970.69,6,0.02,99.85,Technology,Accessories,Water Accessories
+866,CUST-0290,Kellie Harris,Corporate,USA,New Traci,Wisconsin,92222,West,ORD-29818,2023-12-30,2024-01-09,First Class,PROD-0173,1662.26,7,0.22,303.05,Technology,Accessories,Water Accessories
+867,CUST-0277,James Robinson,Consumer,USA,Johnsonport,Montana,55780,South,ORD-60875,2024-08-16,2024-08-19,Same Day,PROD-0173,1034.25,1,0.08,248.94,Technology,Accessories,Water Accessories
+868,CUST-0117,Nancy Velasquez,Home Office,USA,East Anthonyfurt,Tennessee,4567,South,ORD-52989,2025-07-23,2025-07-27,Second Class,PROD-0174,522.27,4,0.19,154.99,Furniture,Bookcases,Medical Bookcases
+869,CUST-0045,Lisa Page,Home Office,USA,South Walter,Utah,66638,Central,ORD-50364,2024-12-16,2024-12-18,Second Class,PROD-0175,1212.11,7,0.05,111.25,Furniture,Chairs,Baby Chairs
+870,CUST-0165,Bryan Moody,Consumer,USA,East Dawn,Connecticut,25995,Central,ORD-82848,2024-01-15,2024-01-16,Same Day,PROD-0175,1376.17,7,0.28,296.26,Furniture,Chairs,Baby Chairs
+871,CUST-0049,Daniel May,Corporate,USA,Kiddtown,Kentucky,44709,Central,ORD-24956,2024-02-13,2024-02-22,Same Day,PROD-0175,1952.02,7,0.1,387.67,Furniture,Chairs,Baby Chairs
+872,CUST-0236,Chad Warren,Corporate,USA,North Nicole,Georgia,12887,West,ORD-38861,2025-02-19,2025-02-28,Same Day,PROD-0175,890.7,5,0.11,91.17,Furniture,Chairs,Baby Chairs
+873,CUST-0144,David Jenkins,Corporate,USA,South Nathaniel,Alabama,17072,East,ORD-93829,2023-11-11,2023-11-16,First Class,PROD-0175,298.87,8,0.25,84.9,Furniture,Chairs,Baby Chairs
+874,CUST-0138,Julie Hinton,Home Office,USA,West Cassandraview,New Mexico,59336,Central,ORD-75444,2025-07-21,2025-07-25,Standard Class,PROD-0175,1426.79,7,0.27,211.37,Furniture,Chairs,Baby Chairs
+875,CUST-0018,Thomas Burgess,Consumer,USA,Robinsonland,Wisconsin,75631,Central,ORD-72662,2023-09-26,2023-10-06,First Class,PROD-0176,410.2,8,0.25,86.93,Furniture,Furnishings,He Furnishings
+876,CUST-0076,Kristen Spencer,Corporate,USA,Beckerberg,Ohio,63673,West,ORD-93716,2023-12-03,2023-12-04,Standard Class,PROD-0176,1509.18,5,0.23,141.96,Furniture,Furnishings,He Furnishings
+877,CUST-0202,Carlos Campbell,Consumer,USA,Riveraville,Kentucky,9299,West,ORD-34363,2023-09-16,2023-09-26,Second Class,PROD-0176,1708.84,2,0.21,314.05,Furniture,Furnishings,He Furnishings
+878,CUST-0299,Emily Rich,Home Office,USA,East Calebchester,New Jersey,74561,West,ORD-67498,2024-09-02,2024-09-05,Same Day,PROD-0176,1784.31,6,0.13,276.61,Furniture,Furnishings,He Furnishings
+879,CUST-0221,Dominique Douglas,Corporate,USA,Jonesport,Georgia,58352,East,ORD-89565,2025-07-09,2025-07-18,Same Day,PROD-0176,1218.03,9,0.08,308.08,Furniture,Furnishings,He Furnishings
+880,CUST-0287,Richard Padilla,Consumer,USA,Lake Kevin,New York,16657,East,ORD-61165,2025-05-16,2025-05-17,Second Class,PROD-0176,55.56,7,0.26,6.01,Furniture,Furnishings,He Furnishings
+881,CUST-0149,Brian Johns,Home Office,USA,North Samuelshire,Alaska,89184,South,ORD-40658,2024-01-16,2024-01-25,Second Class,PROD-0176,1773.61,9,0.23,455.1,Furniture,Furnishings,He Furnishings
+882,CUST-0238,Christina Jones,Consumer,USA,Tracyland,Arkansas,90030,East,ORD-74362,2023-08-30,2023-09-01,Standard Class,PROD-0176,518.96,5,0.25,60.27,Furniture,Furnishings,He Furnishings
+883,CUST-0238,Christina Jones,Consumer,USA,Tracyland,Arkansas,90030,East,ORD-11809,2024-01-14,2024-01-22,Standard Class,PROD-0177,1641.71,9,0.2,128.21,Furniture,Bookcases,Up Bookcases
+884,CUST-0239,William Thomas,Consumer,USA,North Jacquelinetown,Iowa,11389,Central,ORD-65118,2025-07-21,2025-07-29,Standard Class,PROD-0177,1027.96,6,0.2,283.29,Furniture,Bookcases,Up Bookcases
+885,CUST-0002,Shelby Bradley,Corporate,USA,East Christopher,Kansas,10408,South,ORD-24800,2024-04-15,2024-04-25,Second Class,PROD-0177,1441.93,5,0.11,431.49,Furniture,Bookcases,Up Bookcases
+886,CUST-0040,Joshua Mcdowell,Home Office,USA,Katherineview,Georgia,27264,Central,ORD-93369,2024-09-04,2024-09-06,First Class,PROD-0177,660.29,10,0.2,197.59,Furniture,Bookcases,Up Bookcases
+887,CUST-0210,Jonathan Baker,Consumer,USA,Kristenport,Wisconsin,4052,South,ORD-98065,2025-02-24,2025-02-26,First Class,PROD-0177,945.11,1,0.24,249.6,Furniture,Bookcases,Up Bookcases
+888,CUST-0298,Kara Melton,Consumer,USA,North Timothystad,South Dakota,40097,West,ORD-67188,2024-08-30,2024-09-09,First Class,PROD-0178,1026.08,10,0.12,203.98,Furniture,Furnishings,Oil Furnishings
+889,CUST-0159,Gary Leon,Corporate,USA,Harrisstad,New Hampshire,9893,East,ORD-79450,2025-06-30,2025-07-01,Second Class,PROD-0178,1225.54,4,0.08,112.03,Furniture,Furnishings,Oil Furnishings
+890,CUST-0016,Dr. Mary Andersen MD,Corporate,USA,Port Sarahmouth,Pennsylvania,78603,Central,ORD-12349,2024-11-12,2024-11-16,Second Class,PROD-0179,1278.26,6,0.18,150.68,Technology,Copiers,Dream Copiers
+891,CUST-0102,Kristin Beasley,Home Office,USA,North Scott,South Carolina,35696,South,ORD-13331,2024-09-15,2024-09-19,First Class,PROD-0179,873.92,2,0.05,126.52,Technology,Copiers,Dream Copiers
+892,CUST-0047,Sherri Chase,Corporate,USA,Lake Molly,Indiana,44604,Central,ORD-36520,2023-11-30,2023-12-04,Second Class,PROD-0179,786.21,1,0.07,168.86,Technology,Copiers,Dream Copiers
+893,CUST-0182,Stacy Walker,Home Office,USA,West Chad,New York,62513,Central,ORD-38038,2024-10-15,2024-10-19,First Class,PROD-0180,1563.57,6,0.01,310.31,Technology,Copiers,Mother Copiers
+894,CUST-0246,William Williams,Corporate,USA,South Larryshire,New York,37878,Central,ORD-53396,2025-05-20,2025-05-30,Same Day,PROD-0180,355.07,6,0.29,45.3,Technology,Copiers,Mother Copiers
+895,CUST-0167,Henry Wagner,Consumer,USA,Port James,Ohio,86289,East,ORD-85775,2024-02-05,2024-02-07,Standard Class,PROD-0180,544.1,9,0.11,64.77,Technology,Copiers,Mother Copiers
+896,CUST-0014,Maria Delgado,Consumer,USA,Jenniferborough,Vermont,81758,South,ORD-27035,2023-11-01,2023-11-06,Same Day,PROD-0180,1491.04,3,0.15,159.99,Technology,Copiers,Mother Copiers
+897,CUST-0144,David Jenkins,Corporate,USA,South Nathaniel,Alabama,17072,East,ORD-74997,2024-06-29,2024-07-07,Standard Class,PROD-0181,1756.57,4,0.28,380.04,Office Supplies,Appliances,Cold Appliances
+898,CUST-0191,William Cruz,Consumer,USA,Smithburgh,Nebraska,21774,West,ORD-29094,2025-08-04,2025-08-12,Same Day,PROD-0181,274.07,4,0.19,75.78,Office Supplies,Appliances,Cold Appliances
+899,CUST-0298,Kara Melton,Consumer,USA,North Timothystad,South Dakota,40097,West,ORD-80744,2024-03-29,2024-04-01,Standard Class,PROD-0181,414.79,3,0.21,39.17,Office Supplies,Appliances,Cold Appliances
+900,CUST-0219,Susan Bowman,Consumer,USA,Lake Joel,Vermont,65406,East,ORD-65723,2023-09-01,2023-09-09,Second Class,PROD-0181,713.81,7,0.07,158.79,Office Supplies,Appliances,Cold Appliances
+901,CUST-0156,Brittany Carpenter,Home Office,USA,Grantbury,Massachusetts,4516,West,ORD-70740,2024-01-01,2024-01-09,First Class,PROD-0182,179.97,4,0.17,44.69,Office Supplies,Binders,Special Binders
+902,CUST-0132,Emily Rodriguez,Home Office,USA,Simmonsshire,Arizona,40611,East,ORD-64823,2025-01-24,2025-01-27,First Class,PROD-0182,629.78,9,0.24,108.26,Office Supplies,Binders,Special Binders
+903,CUST-0154,Anthony Paul,Home Office,USA,Valerieborough,Idaho,56040,South,ORD-11796,2024-02-05,2024-02-12,Same Day,PROD-0182,768.83,9,0.09,111.43,Office Supplies,Binders,Special Binders
+904,CUST-0213,Dr. Catherine Coleman,Consumer,USA,Tristanview,Connecticut,72669,East,ORD-35252,2025-02-11,2025-02-18,Same Day,PROD-0182,1063.77,9,0.07,106.22,Office Supplies,Binders,Special Binders
+905,CUST-0287,Richard Padilla,Consumer,USA,Lake Kevin,New York,16657,East,ORD-55529,2023-12-17,2023-12-26,Standard Class,PROD-0183,1190.48,2,0.26,325.13,Technology,Phones,Stuff Phones
+906,CUST-0069,Robert Robertson,Corporate,USA,Stephenshire,Arkansas,8568,East,ORD-60530,2025-04-10,2025-04-15,Standard Class,PROD-0183,1990.61,4,0.21,450.39,Technology,Phones,Stuff Phones
+907,CUST-0121,Steven Johnson,Consumer,USA,West Jacquelineland,Vermont,36841,West,ORD-28540,2023-09-20,2023-09-27,Same Day,PROD-0183,1142.07,6,0.11,93.34,Technology,Phones,Stuff Phones
+908,CUST-0195,Todd Coleman,Consumer,USA,Porterbury,Florida,43819,Central,ORD-98148,2025-01-13,2025-01-20,Standard Class,PROD-0183,691.43,4,0.27,54.04,Technology,Phones,Stuff Phones
+909,CUST-0065,Eric Rodriguez,Home Office,USA,Taraburgh,Oregon,65854,Central,ORD-57362,2024-06-11,2024-06-21,Second Class,PROD-0183,1653.65,4,0.22,470.16,Technology,Phones,Stuff Phones
+910,CUST-0100,Patricia Smith,Home Office,USA,Lake Eric,New Jersey,57678,East,ORD-51947,2023-12-30,2024-01-02,First Class,PROD-0183,796.42,10,0.15,95.57,Technology,Phones,Stuff Phones
+911,CUST-0073,Matthew Ramirez,Home Office,USA,West Johnathanton,New York,87561,East,ORD-93075,2023-12-09,2023-12-12,Second Class,PROD-0183,1646.79,4,0.07,354.18,Technology,Phones,Stuff Phones
+912,CUST-0091,Monica Shepard,Corporate,USA,Huntport,Texas,97776,West,ORD-64844,2024-08-13,2024-08-23,Second Class,PROD-0184,1368.54,8,0.08,132.85,Furniture,Tables,And Tables
+913,CUST-0190,Brian Campos,Corporate,USA,East Melindaton,Kentucky,56709,West,ORD-13682,2024-09-12,2024-09-15,Same Day,PROD-0184,1587.12,2,0.03,88.49,Furniture,Tables,And Tables
+914,CUST-0086,Rebecca Mejia,Consumer,USA,North Joanne,New Jersey,6307,Central,ORD-44982,2024-04-26,2024-05-04,Second Class,PROD-0184,167.25,6,0.11,35.06,Furniture,Tables,And Tables
+915,CUST-0262,Gina Mercer,Corporate,USA,Snyderhaven,Tennessee,76340,Central,ORD-51320,2024-12-16,2024-12-20,First Class,PROD-0184,1030.37,4,0.3,83.69,Furniture,Tables,And Tables
+916,CUST-0167,Henry Wagner,Consumer,USA,Port James,Ohio,86289,East,ORD-30844,2023-10-20,2023-10-26,Standard Class,PROD-0184,1512.6,7,0.19,76.95,Furniture,Tables,And Tables
+917,CUST-0037,Blake Harrison MD,Home Office,USA,West Douglasview,New Jersey,74946,West,ORD-63284,2024-09-19,2024-09-24,Second Class,PROD-0184,490.02,8,0.2,126.92,Furniture,Tables,And Tables
+918,CUST-0237,Matthew Duarte,Home Office,USA,East Dianashire,New York,13487,South,ORD-81570,2024-01-07,2024-01-09,Same Day,PROD-0184,1425.29,7,0.17,123.97,Furniture,Tables,And Tables
+919,CUST-0012,Jonathan Lopez,Consumer,USA,South David,Nevada,99292,South,ORD-43622,2025-08-02,2025-08-11,Second Class,PROD-0184,512.66,1,0.27,66.29,Furniture,Tables,And Tables
+920,CUST-0292,Stephanie Ryan,Home Office,USA,Masonberg,Illinois,20079,West,ORD-41831,2023-12-01,2023-12-03,Standard Class,PROD-0184,934.38,4,0.16,75.74,Furniture,Tables,And Tables
+921,CUST-0164,Craig Garcia,Corporate,USA,South Carolinemouth,Kansas,68748,Central,ORD-96937,2024-12-01,2024-12-08,First Class,PROD-0185,360.57,1,0.1,27.37,Furniture,Bookcases,Prove Bookcases
+922,CUST-0154,Anthony Paul,Home Office,USA,Valerieborough,Idaho,56040,South,ORD-52654,2024-09-04,2024-09-11,Same Day,PROD-0185,349.81,2,0.02,42.37,Furniture,Bookcases,Prove Bookcases
+923,CUST-0208,Leah Kerr,Consumer,USA,Lisafurt,Pennsylvania,569,East,ORD-89572,2025-08-09,2025-08-13,First Class,PROD-0185,221.96,3,0.12,46.03,Furniture,Bookcases,Prove Bookcases
+924,CUST-0097,Marcus Brown,Home Office,USA,East Misty,Maine,37724,West,ORD-15516,2025-04-23,2025-05-03,Second Class,PROD-0185,1525.27,4,0.14,202.77,Furniture,Bookcases,Prove Bookcases
+925,CUST-0293,Darryl Contreras,Home Office,USA,Jackshire,Oregon,19059,Central,ORD-51543,2024-12-30,2025-01-07,First Class,PROD-0185,42.86,10,0.16,8.88,Furniture,Bookcases,Prove Bookcases
+926,CUST-0289,Jennifer Williams,Corporate,USA,West Dennis,Delaware,53584,South,ORD-81280,2023-11-13,2023-11-18,Standard Class,PROD-0185,46.13,10,0.21,9.0,Furniture,Bookcases,Prove Bookcases
+927,CUST-0232,Sherry York,Home Office,USA,New Michael,New Mexico,91723,Central,ORD-90929,2025-06-02,2025-06-03,Second Class,PROD-0185,49.69,10,0.22,3.01,Furniture,Bookcases,Prove Bookcases
+928,CUST-0196,Gary Ford,Home Office,USA,Lake James,North Carolina,45339,South,ORD-32723,2025-07-14,2025-07-18,Same Day,PROD-0185,1624.96,6,0.17,486.35,Furniture,Bookcases,Prove Bookcases
+929,CUST-0150,Matthew Thomas,Home Office,USA,Fosterside,New Mexico,8014,South,ORD-62990,2025-04-05,2025-04-15,Same Day,PROD-0186,1072.2,6,0.07,280.21,Furniture,Chairs,Always Chairs
+930,CUST-0292,Stephanie Ryan,Home Office,USA,Masonberg,Illinois,20079,West,ORD-98802,2024-06-01,2024-06-08,Standard Class,PROD-0186,484.67,8,0.1,99.24,Furniture,Chairs,Always Chairs
+931,CUST-0068,Jack Murphy,Consumer,USA,North Alexa,Montana,97080,South,ORD-20913,2023-10-11,2023-10-21,Standard Class,PROD-0186,746.95,3,0.01,178.79,Furniture,Chairs,Always Chairs
+932,CUST-0124,Deborah Carrillo,Corporate,USA,Lake Patricia,Tennessee,37254,East,ORD-54986,2025-01-06,2025-01-09,Same Day,PROD-0186,1990.49,6,0.15,196.96,Furniture,Chairs,Always Chairs
+933,CUST-0060,Mr. Tyler Stevens,Consumer,USA,Jamesville,Virginia,75189,West,ORD-84963,2024-06-10,2024-06-15,Second Class,PROD-0186,1590.53,8,0.27,254.63,Furniture,Chairs,Always Chairs
+934,CUST-0017,Michael Juarez,Home Office,USA,Singletonmouth,Rhode Island,35828,East,ORD-98841,2025-04-09,2025-04-11,Standard Class,PROD-0186,1382.46,10,0.26,408.24,Furniture,Chairs,Always Chairs
+935,CUST-0049,Daniel May,Corporate,USA,Kiddtown,Kentucky,44709,Central,ORD-13340,2023-11-16,2023-11-17,Standard Class,PROD-0187,1390.84,7,0.25,379.89,Technology,Accessories,Prepare Accessories
+936,CUST-0095,Stacey Lee,Home Office,USA,Sanchezstad,Oregon,62355,East,ORD-17785,2024-07-31,2024-08-09,First Class,PROD-0187,1026.36,8,0.22,71.14,Technology,Accessories,Prepare Accessories
+937,CUST-0296,Ashley Hill,Home Office,USA,Jaimestad,Minnesota,84436,West,ORD-32262,2025-03-12,2025-03-20,First Class,PROD-0187,992.14,6,0.22,76.19,Technology,Accessories,Prepare Accessories
+938,CUST-0218,Raymond Campos,Corporate,USA,Marshallshire,Arkansas,6429,Central,ORD-14052,2024-06-27,2024-07-06,Second Class,PROD-0187,332.48,4,0.15,84.4,Technology,Accessories,Prepare Accessories
+939,CUST-0269,Billy Hodges,Consumer,USA,Brittanyville,Mississippi,41187,South,ORD-34530,2023-12-27,2023-12-28,Second Class,PROD-0187,695.75,8,0.16,60.4,Technology,Accessories,Prepare Accessories
+940,CUST-0248,Kayla Oliver,Corporate,USA,Joshuabury,Maryland,48574,East,ORD-86870,2024-07-06,2024-07-08,Second Class,PROD-0188,1064.89,10,0.04,83.55,Office Supplies,Storage,Finish Storage
+941,CUST-0278,Kristin Richards,Consumer,USA,Heatherland,Oregon,49913,South,ORD-65486,2024-10-16,2024-10-20,Same Day,PROD-0188,1239.35,4,0.08,200.34,Office Supplies,Storage,Finish Storage
+942,CUST-0155,Justin Hull,Consumer,USA,New Alexismouth,Hawaii,48036,West,ORD-59920,2025-02-06,2025-02-09,Standard Class,PROD-0188,1328.73,3,0.04,207.25,Office Supplies,Storage,Finish Storage
+943,CUST-0203,Stephanie Yoder,Corporate,USA,Tuckerton,Hawaii,30340,Central,ORD-66982,2025-02-12,2025-02-19,Same Day,PROD-0189,1915.4,8,0.06,388.63,Technology,Phones,Crime Phones
+944,CUST-0114,Kevin Braun,Consumer,USA,Lake Rodney,Utah,57273,Central,ORD-81301,2023-11-12,2023-11-16,Standard Class,PROD-0189,1233.98,10,0.13,320.97,Technology,Phones,Crime Phones
+945,CUST-0071,Dustin Meyers,Home Office,USA,New Chase,West Virginia,12179,South,ORD-86791,2024-01-28,2024-02-02,First Class,PROD-0189,919.22,2,0.24,128.34,Technology,Phones,Crime Phones
+946,CUST-0193,Daniel Sims,Corporate,USA,South Timothy,West Virginia,96845,West,ORD-79271,2024-10-15,2024-10-18,First Class,PROD-0190,1685.82,6,0.01,304.57,Technology,Phones,Money Phones
+947,CUST-0194,Margaret Cochran,Corporate,USA,West Peterton,South Carolina,87878,West,ORD-51300,2025-01-14,2025-01-18,Second Class,PROD-0190,697.11,1,0.19,109.97,Technology,Phones,Money Phones
+948,CUST-0231,Steven Reed,Consumer,USA,Port Kimberly,Alabama,44889,East,ORD-48345,2025-03-31,2025-04-03,Standard Class,PROD-0190,668.69,4,0.17,170.88,Technology,Phones,Money Phones
+949,CUST-0034,Kathryn Orr,Home Office,USA,South Bob,Florida,93635,East,ORD-44339,2025-07-07,2025-07-12,First Class,PROD-0190,1035.01,2,0.27,101.02,Technology,Phones,Money Phones
+950,CUST-0064,Tony David,Consumer,USA,Port Joshuamouth,Utah,58169,South,ORD-90005,2025-01-30,2025-02-07,Second Class,PROD-0190,1486.89,9,0.19,375.5,Technology,Phones,Money Phones
+951,CUST-0216,Mary Fox,Consumer,USA,South Alexander,Oregon,14469,Central,ORD-59882,2024-08-09,2024-08-16,Same Day,PROD-0190,1114.51,5,0.13,151.58,Technology,Phones,Money Phones
+952,CUST-0171,Carol Ryan,Consumer,USA,Colefurt,Kansas,64868,East,ORD-38255,2024-05-15,2024-05-17,Standard Class,PROD-0191,870.35,7,0.03,56.06,Office Supplies,Paper,Worry Paper
+953,CUST-0234,Patrick Mooney,Home Office,USA,East Timothy,Kansas,85093,Central,ORD-40675,2023-09-19,2023-09-27,First Class,PROD-0191,554.58,3,0.11,53.39,Office Supplies,Paper,Worry Paper
+954,CUST-0118,Steven Arnold,Home Office,USA,Lake Jamesshire,New York,44720,West,ORD-91753,2025-01-16,2025-01-23,Second Class,PROD-0191,1625.78,8,0.05,255.72,Office Supplies,Paper,Worry Paper
+955,CUST-0187,Herbert Chavez,Consumer,USA,Mortonmouth,Nevada,61592,South,ORD-90116,2025-04-05,2025-04-13,Second Class,PROD-0191,1820.66,9,0.05,136.55,Office Supplies,Paper,Worry Paper
+956,CUST-0019,Amber Rivera,Corporate,USA,Port Cathyview,California,94950,East,ORD-65646,2024-07-03,2024-07-11,Second Class,PROD-0191,883.21,8,0.29,196.32,Office Supplies,Paper,Worry Paper
+957,CUST-0229,Christopher Hall III,Corporate,USA,East Shannon,Arkansas,61179,Central,ORD-34271,2025-05-07,2025-05-15,Standard Class,PROD-0192,1359.02,4,0.28,125.86,Technology,Copiers,Together Copiers
+958,CUST-0230,Justin Hill,Corporate,USA,Lake Jon,Alaska,15170,Central,ORD-17815,2025-04-25,2025-04-30,Second Class,PROD-0192,1991.72,8,0.16,546.4,Technology,Copiers,Together Copiers
+959,CUST-0219,Susan Bowman,Consumer,USA,Lake Joel,Vermont,65406,East,ORD-17486,2024-02-27,2024-03-04,Second Class,PROD-0192,612.6,8,0.06,94.48,Technology,Copiers,Together Copiers
+960,CUST-0036,Joseph Molina MD,Home Office,USA,Christopherview,Florida,80450,East,ORD-40825,2024-01-05,2024-01-14,First Class,PROD-0192,1928.5,2,0.18,442.06,Technology,Copiers,Together Copiers
+961,CUST-0040,Joshua Mcdowell,Home Office,USA,Katherineview,Georgia,27264,Central,ORD-79938,2025-03-17,2025-03-24,Same Day,PROD-0192,1300.41,8,0.28,371.26,Technology,Copiers,Together Copiers
+962,CUST-0299,Emily Rich,Home Office,USA,East Calebchester,New Jersey,74561,West,ORD-13748,2025-05-29,2025-06-02,Second Class,PROD-0192,912.09,1,0.22,198.94,Technology,Copiers,Together Copiers
+963,CUST-0162,Julie Daniels,Consumer,USA,Romerofort,Texas,70861,South,ORD-66892,2024-01-18,2024-01-28,First Class,PROD-0193,1438.01,8,0.24,126.48,Technology,Accessories,Wall Accessories
+964,CUST-0213,Dr. Catherine Coleman,Consumer,USA,Tristanview,Connecticut,72669,East,ORD-29518,2025-06-06,2025-06-11,First Class,PROD-0193,466.43,9,0.19,74.91,Technology,Accessories,Wall Accessories
+965,CUST-0088,Benjamin Smith,Consumer,USA,Murphyhaven,California,10337,South,ORD-52657,2023-11-09,2023-11-16,Standard Class,PROD-0193,1492.07,10,0.25,168.91,Technology,Accessories,Wall Accessories
+966,CUST-0251,Walter Lynch,Corporate,USA,New Jacob,Texas,38463,West,ORD-12298,2024-07-08,2024-07-17,Same Day,PROD-0193,660.97,6,0.07,141.31,Technology,Accessories,Wall Accessories
+967,CUST-0097,Marcus Brown,Home Office,USA,East Misty,Maine,37724,West,ORD-73918,2023-12-14,2023-12-20,Standard Class,PROD-0193,653.25,1,0.28,174.7,Technology,Accessories,Wall Accessories
+968,CUST-0200,Randy Fisher,Consumer,USA,East Amy,Alabama,77022,Central,ORD-51357,2024-03-09,2024-03-19,Same Day,PROD-0193,151.71,7,0.29,37.52,Technology,Accessories,Wall Accessories
+969,CUST-0270,Jessica Lopez,Corporate,USA,Fosterton,Washington,71397,South,ORD-16770,2023-10-25,2023-10-30,Standard Class,PROD-0194,1813.16,6,0.01,201.84,Technology,Accessories,Article Accessories
+970,CUST-0126,Timothy Valentine,Corporate,USA,Jonathanland,Montana,86636,East,ORD-11657,2024-08-23,2024-08-30,Standard Class,PROD-0195,615.46,8,0.23,107.02,Office Supplies,Binders,Four Binders
+971,CUST-0293,Darryl Contreras,Home Office,USA,Jackshire,Oregon,19059,Central,ORD-19999,2024-08-09,2024-08-17,Second Class,PROD-0195,333.34,8,0.15,63.65,Office Supplies,Binders,Four Binders
+972,CUST-0180,Angela Reese,Consumer,USA,Ginamouth,Alabama,94228,West,ORD-65434,2025-04-03,2025-04-04,Same Day,PROD-0195,1032.94,2,0.1,172.73,Office Supplies,Binders,Four Binders
+973,CUST-0295,Molly Walker,Consumer,USA,North Terri,Utah,62077,Central,ORD-10888,2025-05-10,2025-05-14,Same Day,PROD-0195,598.17,4,0.02,85.47,Office Supplies,Binders,Four Binders
+974,CUST-0177,Ruben Monroe,Corporate,USA,Port Joshua,Arizona,25375,Central,ORD-51825,2023-10-25,2023-10-27,Same Day,PROD-0195,822.57,5,0.19,86.8,Office Supplies,Binders,Four Binders
+975,CUST-0215,Tammy Silva,Corporate,USA,Lake Margaretmouth,Florida,27573,Central,ORD-40247,2024-11-14,2024-11-17,First Class,PROD-0195,357.95,7,0.12,61.49,Office Supplies,Binders,Four Binders
+976,CUST-0037,Blake Harrison MD,Home Office,USA,West Douglasview,New Jersey,74946,West,ORD-34985,2024-12-30,2025-01-04,Standard Class,PROD-0195,1138.36,9,0.28,168.31,Office Supplies,Binders,Four Binders
+977,CUST-0100,Patricia Smith,Home Office,USA,Lake Eric,New Jersey,57678,East,ORD-40261,2024-01-19,2024-01-26,Second Class,PROD-0196,200.1,3,0.07,20.45,Technology,Phones,Tonight Phones
+978,CUST-0293,Darryl Contreras,Home Office,USA,Jackshire,Oregon,19059,Central,ORD-49787,2025-01-30,2025-02-03,Standard Class,PROD-0196,1228.15,4,0.1,195.5,Technology,Phones,Tonight Phones
+979,CUST-0210,Jonathan Baker,Consumer,USA,Kristenport,Wisconsin,4052,South,ORD-67635,2023-10-18,2023-10-22,Standard Class,PROD-0197,1590.98,2,0.01,289.37,Technology,Phones,Situation Phones
+980,CUST-0018,Thomas Burgess,Consumer,USA,Robinsonland,Wisconsin,75631,Central,ORD-54964,2024-11-07,2024-11-11,Second Class,PROD-0197,703.49,5,0.03,76.57,Technology,Phones,Situation Phones
+981,CUST-0139,Brenda Jackson,Home Office,USA,New Tina,Idaho,96676,South,ORD-72405,2024-03-05,2024-03-10,Standard Class,PROD-0197,502.92,4,0.07,125.39,Technology,Phones,Situation Phones
+982,CUST-0144,David Jenkins,Corporate,USA,South Nathaniel,Alabama,17072,East,ORD-76486,2023-12-13,2023-12-17,Standard Class,PROD-0197,1074.1,10,0.13,91.09,Technology,Phones,Situation Phones
+983,CUST-0113,Olivia Ford,Corporate,USA,West Crystalfurt,Pennsylvania,20370,South,ORD-51019,2024-06-08,2024-06-12,Standard Class,PROD-0197,694.31,6,0.05,60.82,Technology,Phones,Situation Phones
+984,CUST-0261,Jeffrey Moore,Home Office,USA,Justinbury,Maryland,66130,Central,ORD-45599,2023-09-21,2023-09-25,Standard Class,PROD-0197,392.28,1,0.19,47.98,Technology,Phones,Situation Phones
+985,CUST-0213,Dr. Catherine Coleman,Consumer,USA,Tristanview,Connecticut,72669,East,ORD-46443,2024-12-17,2024-12-19,First Class,PROD-0197,1877.28,5,0.13,437.41,Technology,Phones,Situation Phones
+986,CUST-0179,Matthew Walker,Corporate,USA,New Amy,Alaska,9544,East,ORD-15357,2025-02-15,2025-02-20,First Class,PROD-0198,430.14,7,0.04,110.25,Office Supplies,Appliances,Could Appliances
+987,CUST-0253,Lisa Love,Home Office,USA,Bakerside,Missouri,1190,East,ORD-58758,2024-08-21,2024-08-31,First Class,PROD-0198,452.35,4,0.24,94.21,Office Supplies,Appliances,Could Appliances
+988,CUST-0038,Nathan House,Consumer,USA,Alvarezbury,Wisconsin,40681,Central,ORD-21997,2025-04-10,2025-04-13,Standard Class,PROD-0198,266.09,9,0.02,66.44,Office Supplies,Appliances,Could Appliances
+989,CUST-0127,William Butler,Home Office,USA,Ryanchester,Idaho,88237,South,ORD-44818,2024-06-05,2024-06-11,First Class,PROD-0199,1155.19,9,0.21,120.96,Office Supplies,Storage,Pattern Storage
+990,CUST-0294,Nicolas Melendez,Corporate,USA,Tracybury,Delaware,67369,West,ORD-58892,2024-06-26,2024-06-27,Second Class,PROD-0199,1684.12,6,0.17,288.55,Office Supplies,Storage,Pattern Storage
+991,CUST-0232,Sherry York,Home Office,USA,New Michael,New Mexico,91723,Central,ORD-79042,2025-01-11,2025-01-13,Standard Class,PROD-0199,500.62,5,0.23,123.88,Office Supplies,Storage,Pattern Storage
+992,CUST-0079,Justin Jacobson,Corporate,USA,Danielburgh,Indiana,50912,East,ORD-25310,2023-10-04,2023-10-08,Same Day,PROD-0199,351.81,4,0.07,38.62,Office Supplies,Storage,Pattern Storage
+993,CUST-0055,Lauren Silva,Corporate,USA,West Tina,North Dakota,98841,Central,ORD-79361,2024-11-07,2024-11-11,Standard Class,PROD-0200,979.55,4,0.1,140.24,Office Supplies,Paper,Must Paper
+994,CUST-0244,Lisa Sanchez,Consumer,USA,South Douglas,Hawaii,91090,East,ORD-12638,2024-09-17,2024-09-27,Second Class,PROD-0200,1942.05,8,0.02,402.62,Office Supplies,Paper,Must Paper
+995,CUST-0180,Angela Reese,Consumer,USA,Ginamouth,Alabama,94228,West,ORD-50237,2024-12-09,2024-12-13,Second Class,PROD-0200,1955.95,3,0.2,576.93,Office Supplies,Paper,Must Paper
+996,CUST-0109,Mackenzie Aguilar,Home Office,USA,North Robert,Kentucky,67736,Central,ORD-91449,2024-10-29,2024-11-08,Same Day,PROD-0200,1458.79,8,0.03,292.3,Office Supplies,Paper,Must Paper
+997,CUST-0260,Alan Randall,Consumer,USA,South Shannonfurt,Utah,63002,East,ORD-66296,2024-09-07,2024-09-16,Second Class,PROD-0200,415.52,8,0.26,123.06,Office Supplies,Paper,Must Paper
+998,CUST-0034,Kathryn Orr,Home Office,USA,South Bob,Florida,93635,East,ORD-39688,2025-04-21,2025-04-22,Standard Class,PROD-0200,863.37,4,0.21,182.08,Office Supplies,Paper,Must Paper
+999,CUST-0131,Cassandra Brown,Home Office,USA,Lake Ryanton,Florida,43130,East,ORD-49543,2023-11-30,2023-12-08,Same Day,PROD-0200,722.58,5,0.11,109.54,Office Supplies,Paper,Must Paper
